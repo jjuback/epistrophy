@@ -1,0 +1,9 @@
+.cover-thumbnail {
+    width: 120px;
+    height: 120px;
+}
+.cover-large-thumbnail {
+    width: 360px;
+    height: 360px;
+    align-self: center;
+}
