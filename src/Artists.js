@@ -2,9 +2,11 @@ import React from "react";
 import "./Artists.css";
 import { cdVault } from "./data";
 import { makeUrl } from "./utils";
-import ListGroup from 'react-bootstrap/ListGroup';
 import Accordion from 'react-bootstrap/Accordion';
-import Image from 'react-bootstrap/Image';
+import Figure from 'react-bootstrap/Figure';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 export const Artists = (props) => {
   return (
@@ -15,16 +17,22 @@ export const Artists = (props) => {
                 <Accordion.Item key={key} eventKey={key}>
                     <Accordion.Header>{data.Name}</Accordion.Header>
                     <Accordion.Body>
-                        <ListGroup>
+                        <Container>
+                          <Row className="flex-wrap">
                           {data.Albums.map((data, key) => {
                             return (
-                                <ListGroup.Item action key={key} onClick={() => props.selectAlbum(data)}>
-                                    <Image className="cover-thumbnail" src={makeUrl(data.Cover)} />
-                                    &nbsp;{data.Title}
-                                </ListGroup.Item>
+                              <Col key={key} className="col-auto figure text-center">
+                                  <Figure className="align-items-center" onClick={() => props.selectAlbum(data)}>
+                                    <Figure.Image className="cover-thumbnail" src={makeUrl(data.Cover)} />
+                                    <Figure.Caption className="cover-caption">
+                                      {data.Title}
+                                    </Figure.Caption>
+                                  </Figure>
+                              </Col>
                             );
                           })}
-                        </ListGroup>
+                        </Row>
+                        </Container>
                     </Accordion.Body>
                 </Accordion.Item>
             );

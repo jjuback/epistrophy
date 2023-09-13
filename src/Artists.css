@@ -2,8 +2,25 @@
     width: 120px;
     height: 120px;
 }
+
 .cover-large-thumbnail {
     width: 360px;
     height: 360px;
-    align-self: center;
+}
+
+.cover-caption {
+    width: 120px;
+}
+
+audio::-webkit-media-controls-enclosure {
+    background-color: transparent;
+}
+
+.figure:hover {
+    cursor: pointer;
+    filter: brightness(125%);
+}
+
+.figure {
+    margin-bottom: 0px;
 }
