@@ -6,6 +6,7 @@ import Container from 'react-bootstrap/Container';
 
 const App = () => {
     const [album, setAlbum] = useState();
+    const [current, setCurrent] = useState();
     const selectAlbum = (data) => setAlbum(data);
     const goBack = () => setAlbum(undefined);
 
@@ -14,7 +15,7 @@ const App = () => {
           return (
             <Container className="p-3">
               <div className="App">
-                <Artists selectAlbum={selectAlbum} />
+                <Artists current={current} setCurrent={setCurrent} selectAlbum={selectAlbum} />
               </div>
             </Container>
           )

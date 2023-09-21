@@ -11,7 +11,7 @@ import Col from 'react-bootstrap/Col';
 export const Artists = (props) => {
   return (
     <>
-      <Accordion>
+      <Accordion defaultActiveKey={props.current}>
         {cdVault.map((data, key) => {
             return (
                 <Accordion.Item key={key} eventKey={key}>
@@ -19,10 +19,10 @@ export const Artists = (props) => {
                     <Accordion.Body>
                         <Container>
                           <Row className="flex-wrap">
-                          {data.Albums.map((data, key) => {
+                          {data.Albums.map((data, index) => {
                             return (
-                              <Col key={key} className="col-auto figure text-center">
-                                  <Figure className="align-items-center" onClick={() => props.selectAlbum(data)}>
+                              <Col key={index} className="col-auto figure text-center">
+                                  <Figure className="align-items-center" onClick={() => { props.setCurrent(key); props.selectAlbum(data) }}>
                                     <Figure.Image className="cover-thumbnail" src={makeUrl(data.Cover)} />
                                     <Figure.Caption className="cover-caption">
                                       {data.Title}
