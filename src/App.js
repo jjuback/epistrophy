@@ -7,7 +7,8 @@ import Container from 'react-bootstrap/Container';
 const App = () => {
     const [album, setAlbum] = useState();
     const [current, setCurrent] = useState();
-    const selectAlbum = (data) => setAlbum(data);
+    const [scrollY, setScrollY] = useState(0);
+    const selectAlbum = (data) => { setAlbum(data); setScrollY(window.scrollY); }
     const goBack = () => setAlbum(undefined);
 
     switch (album) {
@@ -15,7 +16,7 @@ const App = () => {
           return (
             <Container className="p-3">
               <div className="App">
-                <Artists current={current} setCurrent={setCurrent} selectAlbum={selectAlbum} />
+                <Artists current={current} scrollY={scrollY} setCurrent={setCurrent} selectAlbum={selectAlbum} />
               </div>
             </Container>
           )

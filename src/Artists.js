@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import "./Artists.css";
 import { cdVault } from "./data";
 import { makeUrl } from "./utils";
@@ -9,6 +9,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 export const Artists = (props) => {
+
+  useEffect(() => {
+    window.scrollTo(0, props.scrollY);
+  }, [props.scrollY]);
+  
   return (
     <>
       <Accordion defaultActiveKey={props.current}>
