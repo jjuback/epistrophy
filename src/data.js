@@ -771,4 +771,4 @@ export const cdVault =
       }
     ]
   }
-];
+]
