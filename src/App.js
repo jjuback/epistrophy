@@ -1,5 +1,5 @@
 //import './App.css';
-import React, {useState} from "react";
+import React, {useState, useEffect} from "react";
 import { Artists } from './Artists';
 import { Album } from './Album';
 import Container from 'react-bootstrap/Container';
@@ -10,6 +10,10 @@ const App = () => {
     const [scrollY, setScrollY] = useState(0);
     const selectAlbum = (data) => { setAlbum(data); setScrollY(window.scrollY); }
     const goBack = () => setAlbum(undefined);
+
+    useEffect(() => {
+      document.title = album ? album.Title : "Epistrophy";
+    }, [album]);
 
     switch (album) {
         case undefined:

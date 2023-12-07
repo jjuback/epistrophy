@@ -45,7 +45,7 @@ $global:Context = $StorageAccount.Context
 $global:ContainerName = 'cd-vault'
 
 # Upload non-hidden audio files
-Get-ChildItem -File -Recurse | Upload-Blob
+Get-ChildItem -Path $HOME/Music -File -Recurse | Upload-Blob
 
 # Upload hidden image files
-Get-ChildItem -File -Recurse -Hidden -Filter "Folder.jpg" | Upload-Blob
+Get-ChildItem -Path $HOME/Music -File -Recurse -Hidden -Filter "Folder.jpg" | Upload-Blob
