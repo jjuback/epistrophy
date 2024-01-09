@@ -20,12 +20,12 @@ export const Album = (props) => {
                  album={props.Title}
                  artist={props.Artist}
                  artwork={[
-                   { src: makeUrl(props.Cover), sizes: '96x96' },
-                   { src: makeUrl(props.Cover), sizes: '128x128' },
-                   { src: makeUrl(props.Cover), sizes: '192x192' },
-                   { src: makeUrl(props.Cover), sizes: '256x256' },
-                   { src: makeUrl(props.Cover), sizes: '384x384' },
-                   { src: makeUrl(props.Cover), sizes: '512x512' }
+                   { src: makeUrl('artwork-96.jpg'), sizes: '96x96' },
+                   { src: makeUrl('artwork-128.jpg'), sizes: '128x128' },
+                   { src: makeUrl('artwork-192.jpg'), sizes: '192x192' },
+                   { src: makeUrl('artwork-256.jpg'), sizes: '256x256' },
+                   { src: makeUrl('artwork-384.jpg'), sizes: '384x384' },
+                   { src: makeUrl('artwork-512.jpg'), sizes: '512x512' }
                  ]}
                 >
                     <audio controls src={makeUrl(props.Tracks[trackNo].Url)} autoPlay={trackNo > 0} onEnded={() => {
