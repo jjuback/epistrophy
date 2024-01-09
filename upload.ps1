@@ -44,8 +44,14 @@ $global:StorageAccount = Get-AzStorageAccount -ResourceGroupName "media-resource
 $global:Context = $StorageAccount.Context
 $global:ContainerName = 'cd-vault'
 
+# Change current directory
+Push-Location $HOME/Music
+
 # Upload non-hidden audio files
 Get-ChildItem -Path $HOME/Music -File -Recurse | Upload-Blob
 
 # Upload hidden image files
 Get-ChildItem -Path $HOME/Music -File -Recurse -Hidden -Filter "Folder.jpg" | Upload-Blob
+
+# Restore current directory
+Pop-Location
