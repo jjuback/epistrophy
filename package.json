@@ -1,6 +1,6 @@
 {
   "name": "epistrophy",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "dependencies": {
     "@mebtte/react-media-session": "^1.1.2",
