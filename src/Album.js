@@ -24,9 +24,13 @@ export const Album = (props) => {
                  ]}
                 >
                     <audio controls src={makeUrl(props.Tracks[trackNo].Url)} autoPlay={trackNo > 0} onEnded={() => {
+                        console.log("onEnded");
+                        console.log(" trackNo: %d, length: %d", trackNo, props.Tracks.length);
                         if (trackNo + 1 < props.Tracks.length) {
+                            console.log("before setTrackNo");
                             setTrackNo(trackNo + 1);
                         } else {
+                            console.log("before goBack");
                             props.goBack();
                         }
                     }}/>
