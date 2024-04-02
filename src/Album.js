@@ -1,4 +1,4 @@
-import React, {useState, useCallback} from "react";
+import React, {useState, useRef} from "react";
 import "./Artists.css";
 import { makeUrl } from "./utils";
 import ListGroup from 'react-bootstrap/ListGroup';
@@ -9,7 +9,6 @@ import MediaSession from '@mebtte/react-media-session';
 
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
-  const onNextTrack = useCallback(() => setTrackNo(trackNo + 1), [trackNo]);
   if (props === undefined) return null;
   return (
     <>
@@ -23,11 +22,15 @@ export const Album = (props) => {
                  artwork={[
                    { src: makeUrl(props.Cover), sizes: '96x96' }
                  ]}
-                 onNextTrack={onNextTrack}
+                 onEnded={() => {
+                    if (trackNo + 1 < props.Tracks.length) {
+                        setTrackNo(trackNo + 1);
+                    }
+                 }}
                 >
                     <audio controls src={makeUrl(props.Tracks[trackNo].Url)} autoPlay={trackNo > 0} onEnded={() => {
                         if (trackNo + 1 < props.Tracks.length) {
-                            onNextTrack();
+                            setTrackNo(trackNo + 1);
                         } else {
                             props.goBack();
                         }
