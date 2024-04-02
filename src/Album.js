@@ -1,4 +1,4 @@
-import React, {useState, useRef} from "react";
+import React, {useState} from "react";
 import "./Artists.css";
 import { makeUrl } from "./utils";
 import ListGroup from 'react-bootstrap/ListGroup';
