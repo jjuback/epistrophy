@@ -22,6 +22,7 @@ export const Album = (props) => {
                  artwork={[
                    { src: makeUrl(props.Cover), sizes: '96x96' }
                  ]}
+                 autoPlay={trackNo > 0}
                  onEnded={() => {
                     if (trackNo + 1 < props.Tracks.length) {
                         setTrackNo(trackNo + 1);
