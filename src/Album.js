@@ -22,16 +22,6 @@ export const Album = (props) => {
                         props.goBack();
                     }
                  }}
-                 onPlay={() => {
-                    navigator.mediaSession.metadata = new MediaMetadata({
-                        title: props.Tracks[trackNo].Title,
-                        artist: props.Artist,
-                        album: props.Title,
-                        artwork: [
-                            { src: makeUrl(props.Cover), sizes: '96x96' }
-                        ]
-                    });
-                 }}
                 />
                 <ListGroup numbered>
                     {props && props.Tracks.map((data, key) => {
@@ -46,7 +36,7 @@ export const Album = (props) => {
             <Tab eventKey="cover" title="Cover">
                 <Image className="cover-large-thumbnail" src={makeUrl(props.Cover)} />
             </Tab>
-      </Tabs>
+        </Tabs>
     </>
   );
 };
