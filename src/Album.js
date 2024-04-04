@@ -5,7 +5,6 @@ import ListGroup from 'react-bootstrap/ListGroup';
 import Image from 'react-bootstrap/Image';
 import Tabs from 'react-bootstrap/Tabs';
 import Tab from 'react-bootstrap/Tab';
-import MediaSession from '@mebtte/react-media-session';
 
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
