@@ -18,6 +18,7 @@ export const Album = (props) => {
                  onEnded={() => {
                     if (trackNo + 1 < props.Tracks.length) {
                         setTrackNo(trackNo + 1);
+                        navigator.mediaSession.playbackState = "playing";
                     } else {
                         props.goBack();
                     }
