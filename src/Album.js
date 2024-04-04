@@ -20,7 +20,8 @@ export const Album = (props) => {
                         setTrackNo(trackNo + 1);
                     } else {
                         props.goBack();
-                    }}}
+                    }
+                 }}
                  onPlay={() => {
                     navigator.mediaSession.metadata = new MediaMetadata({
                         title: props.Tracks[trackNo].Title,
@@ -30,7 +31,8 @@ export const Album = (props) => {
                             { src: makeUrl(props.Cover), sizes: '96x96' }
                         ]
                     });
-                }}/>
+                 }}
+                />
                 <ListGroup numbered>
                     {props && props.Tracks.map((data, key) => {
                         return (
