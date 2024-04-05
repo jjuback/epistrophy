@@ -18,7 +18,12 @@ export const Album = (props) => {
                  onEnded={() => {
                     if (trackNo + 1 < props.Tracks.length) {
                         navigator.mediaSession.metadata = new MediaMetadata({
-                            title: props.Tracks[trackNo + 1].Title
+                            title: props.Tracks[trackNo + 1].Title,
+                            artist: props.Artist,
+                            album: props.Title,
+                            artwork: [
+                                { src: makeUrl(props.Cover), sizes: '96x96' }
+                            ]
                         });
                         setTrackNo(trackNo + 1);
                     } else {
