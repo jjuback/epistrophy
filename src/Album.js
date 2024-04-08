@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, {useState, useEffect} from "react";
 import "./Artists.css";
 import { makeUrl } from "./utils";
 import ListGroup from 'react-bootstrap/ListGroup';
@@ -8,6 +8,16 @@ import Tab from 'react-bootstrap/Tab';
 
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
+  useEffect(() => {
+    navigator.mediaSession.metadata = new MediaMetadata({
+        title: props.Tracks[trackNo].Title,
+        artist: props.Artist,
+        album: props.Title,
+        artwork: [
+            { src: makeUrl(props.Cover), sizes: '96x96' }
+        ]
+    });
+  }, [props, trackNo]);
   if (props === undefined) return null;
   return (
     <>
