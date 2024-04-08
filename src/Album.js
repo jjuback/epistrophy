@@ -30,11 +30,6 @@ export const Album = (props) => {
                         props.goBack();
                     }
                  }}
-                 onCanPlay={() => {
-                    if (trackNo > 0) {
-                        document.getElementById("audioElement").play();
-                    }
-                 }}
                  onPlay={() => {
                     navigator.mediaSession.metadata = new MediaMetadata({
                         title: props.Tracks[trackNo].Title,
