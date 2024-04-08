@@ -9,6 +9,8 @@ import Tab from 'react-bootstrap/Tab';
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
   useEffect(() => {
+    const audio = document.getElementById("audioElement");
+    audio.src = makeUrl(props.Tracks[trackNo].Url);
     navigator.mediaSession.metadata = new MediaMetadata({
         title: props.Tracks[trackNo].Title,
         artist: props.Artist,
@@ -24,7 +26,7 @@ export const Album = (props) => {
         <Tabs defaultActiveKey="tracks" onSelect={(k) => k==="back" ? props.goBack() : {}}>
             <Tab eventKey="back" title="<<" />
             <Tab eventKey="tracks" title="Tracks">
-                <audio id="audioElement" controls src={makeUrl(props.Tracks[trackNo].Url)} autoPlay={trackNo > 0}
+                <audio id="audioElement" controls autoPlay={trackNo > 0}
                  onEnded={() => {
                     if (trackNo + 1 < props.Tracks.length) {
                         setTrackNo(trackNo + 1);
