@@ -30,7 +30,7 @@ export const Album = (props) => {
                         props.goBack();
                     }
                  }}
-                 onCanPlay={() => {
+                 onPlay={() => {
                     navigator.mediaSession.metadata = new MediaMetadata({
                         title: props.Tracks[trackNo].Title,
                         artist: props.Artist,
@@ -39,9 +39,6 @@ export const Album = (props) => {
                             { src: makeUrl(props.Cover), sizes: '96x96' }
                         ]
                     });
-                    if (trackNo > 0) {
-                        document.getElementById("audioElement").play();
-                    }
                  }}
                 />
                 <ListGroup numbered>
