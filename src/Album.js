@@ -14,7 +14,7 @@ export const Album = (props) => {
         <Tabs defaultActiveKey="tracks" onSelect={(k) => k==="back" ? props.goBack() : {}}>
             <Tab eventKey="back" title="<<" />
             <Tab eventKey="tracks" title="Tracks">
-                <audio controls src={makeUrl(props.Tracks[trackNo].Url)} autoPlay={trackNo > 0}
+                <audio id="audioElement" controls src={makeUrl(props.Tracks[trackNo].Url)} autoPlay={trackNo > 0}
                  onEnded={() => {
                     if (trackNo + 1 < props.Tracks.length) {
                         navigator.mediaSession.metadata = new MediaMetadata({
@@ -28,6 +28,11 @@ export const Album = (props) => {
                         setTrackNo(trackNo + 1);
                     } else {
                         props.goBack();
+                    }
+                 }}
+                 onCanPlay={() => {
+                    if (trackNo > 0) {
+                        document.getElementById("audioElement").play();
                     }
                  }}
                  onPlay={() => {
