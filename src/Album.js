@@ -17,28 +17,10 @@ export const Album = (props) => {
                 <audio id="audioElement" controls src={makeUrl(props.Tracks[trackNo].Url)} autoPlay={trackNo > 0}
                  onEnded={() => {
                     if (trackNo + 1 < props.Tracks.length) {
-                        navigator.mediaSession.metadata = new MediaMetadata({
-                            title: props.Tracks[trackNo + 1].Title,
-                            artist: props.Artist,
-                            album: props.Title,
-                            artwork: [
-                                { src: makeUrl(props.Cover), sizes: '96x96' }
-                            ]
-                        });
                         setTrackNo(trackNo + 1);
                     } else {
                         props.goBack();
                     }
-                 }}
-                 onPlay={() => {
-                    navigator.mediaSession.metadata = new MediaMetadata({
-                        title: props.Tracks[trackNo].Title,
-                        artist: props.Artist,
-                        album: props.Title,
-                        artwork: [
-                            { src: makeUrl(props.Cover), sizes: '96x96' }
-                        ]
-                    });
                  }}
                 />
                 <ListGroup numbered>
