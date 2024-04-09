@@ -9,6 +9,7 @@ import Tab from 'react-bootstrap/Tab';
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
   useEffect(() => {
+    document.title = "useEffect: " + trackNo.toString();
     const audio = document.getElementById("audioElement");
     audio.src = makeUrl(props.Tracks[trackNo].Url);
     navigator.mediaSession.metadata = new MediaMetadata({
