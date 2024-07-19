@@ -44,6 +44,8 @@ Function Process-Blob {
     Process
     {
         $items = $blob.Name.Split("/")
+        if ($items.Length -eq 1) { return }
+
         $artist = $items[0]
         $album = $items[1]
         $url = $items[2]

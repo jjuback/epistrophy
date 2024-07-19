@@ -1,15 +1,17 @@
 ### Upload new media from the local Music folder
+
 Function Upload-Blob {
     [CmdletBinding()]
     Param(
-        [Parameter(ValueFromPipeline=$true)]$item
+        [Parameter(ValueFromPipelineByPropertyName)]
+        [string]$FullName
     )
     Begin {}
     Process
     {
         $exists = $true
-        $blob = Resolve-Path -Relative -LiteralPath $item.FullName
-        $find = $blob.Replace("[", "``[").Replace("]", "``]");
+        $blob = Resolve-Path -LiteralPath $FullName -Relative
+        $find = $blob.Replace("[", "````[").Replace("]", "````]")
         try
         {
             $GetBlobParams = @{
@@ -28,7 +30,7 @@ Function Upload-Blob {
             if (!$exists)
             {
                 $SetBlobParams = @{
-                    File = $item.FullName
+                    File = $FullName
                     Container = $ContainerName
                     Blob = $blob
                     Context = $Context

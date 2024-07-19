@@ -1048,5 +1048,88 @@ export const cdVault =
         ]
       }
     ]
+  },
+  {
+    "Name": "Yusef Lateef",
+    "Albums": [
+      {
+        "Title": "Part Of The Search",
+        "Cover": "Yusef Lateef/Part Of The Search/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Nothing",
+            "Url": "Yusef Lateef/Part Of The Search/01 Nothing.mp3"
+          },
+          {
+            "Title": "K.C. Shuffle",
+            "Url": "Yusef Lateef/Part Of The Search/02 K.C. Shuffle.mp3"
+          },
+          {
+            "Title": "Nothing",
+            "Url": "Yusef Lateef/Part Of The Search/03 Nothing.mp3"
+          },
+          {
+            "Title": "Oatsy Doatsy",
+            "Url": "Yusef Lateef/Part Of The Search/04 Oatsy Doatsy.mp3"
+          },
+          {
+            "Title": "Nothing",
+            "Url": "Yusef Lateef/Part Of The Search/05 Nothing.mp3"
+          },
+          {
+            "Title": "Soul's Bakery",
+            "Url": "Yusef Lateef/Part Of The Search/06 Soul's Bakery.mp3"
+          },
+          {
+            "Title": "Nothing",
+            "Url": "Yusef Lateef/Part Of The Search/07 Nothing.mp3"
+          },
+          {
+            "Title": "Lunceford Prance",
+            "Url": "Yusef Lateef/Part Of The Search/08 Lunceford Prance.mp3"
+          },
+          {
+            "Title": "Nothing",
+            "Url": "Yusef Lateef/Part Of The Search/09 Nothing.mp3"
+          },
+          {
+            "Title": "Rockhouse",
+            "Url": "Yusef Lateef/Part Of The Search/10 Rockhouse.mp3"
+          },
+          {
+            "Title": "Nothing",
+            "Url": "Yusef Lateef/Part Of The Search/11 Nothing.mp3"
+          },
+          {
+            "Title": "Oatsy Doatsy",
+            "Url": "Yusef Lateef/Part Of The Search/12 Oatsy Doatsy.mp3"
+          },
+          {
+            "Title": "Nothing",
+            "Url": "Yusef Lateef/Part Of The Search/13 Nothing.mp3"
+          },
+          {
+            "Title": "In The Still Of The Night",
+            "Url": "Yusef Lateef/Part Of The Search/14 In The Still Of The Night.mp3"
+          },
+          {
+            "Title": "Superfine",
+            "Url": "Yusef Lateef/Part Of The Search/15 Superfine.mp3"
+          },
+          {
+            "Title": "Strange Lullaby",
+            "Url": "Yusef Lateef/Part Of The Search/16 Strange Lullaby.mp3"
+          },
+          {
+            "Title": "Big Bass Drum",
+            "Url": "Yusef Lateef/Part Of The Search/17 Big Bass Drum.mp3"
+          },
+          {
+            "Title": "Gettin' Sentimental",
+            "Url": "Yusef Lateef/Part Of The Search/18 Gettin' Sentimental.mp3"
+          }
+        ]
+      }
+    ]
   }
 ]
