@@ -419,6 +419,65 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Eddie Jefferson",
+    "Albums": [
+      {
+        "Title": "Letter From Home",
+        "Cover": "Eddie Jefferson/Letter From Home/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Letter From Home",
+            "Url": "Eddie Jefferson/Letter From Home/01 Letter From Home.mp3"
+          },
+          {
+            "Title": "Take The 'A' Train",
+            "Url": "Eddie Jefferson/Letter From Home/02 Take The 'A' Train.mp3"
+          },
+          {
+            "Title": "Billie's Bounce (Take 4)",
+            "Url": "Eddie Jefferson/Letter From Home/03 Billie's Bounce (Take 4).mp3"
+          },
+          {
+            "Title": "Billie's Bounce (Take 3)",
+            "Url": "Eddie Jefferson/Letter From Home/04 Billie's Bounce (Take 3).mp3"
+          },
+          {
+            "Title": "I Cover The Waterfront (Back In Town)",
+            "Url": "Eddie Jefferson/Letter From Home/05 I Cover The Waterfront (Back In Town).mp3"
+          },
+          {
+            "Title": "Soft and Furry",
+            "Url": "Eddie Jefferson/Letter From Home/06 Soft and Furry.mp3"
+          },
+          {
+            "Title": "A Night In Tunisia",
+            "Url": "Eddie Jefferson/Letter From Home/07 A Night In Tunisia.mp3"
+          },
+          {
+            "Title": "Things Are Getting Better",
+            "Url": "Eddie Jefferson/Letter From Home/08 Things Are Getting Better.mp3"
+          },
+          {
+            "Title": "Keep Walkin' (Take 4)",
+            "Url": "Eddie Jefferson/Letter From Home/09 Keep Walkin' (Take 4).mp3"
+          },
+          {
+            "Title": "Keep Walkin' (Take 1)",
+            "Url": "Eddie Jefferson/Letter From Home/10 Keep Walkin' (Take 1).mp3"
+          },
+          {
+            "Title": "Body And Soul (I Feel So Good)",
+            "Url": "Eddie Jefferson/Letter From Home/11 Body And Soul (I Feel So Good).mp3"
+          },
+          {
+            "Title": "Parker's Mood (Bless My Soul)",
+            "Url": "Eddie Jefferson/Letter From Home/12 Parker's Mood (Bless My Soul).mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Horace Silver",
     "Albums": [
       {
@@ -698,6 +757,69 @@ export const cdVault =
     ]
   },
   {
+    "Name": "McCoy Tyner",
+    "Albums": [
+      {
+        "Title": "Things Ain't What They Used To Be [Live]",
+        "Cover": "McCoy Tyner/Things Ain't What They Used To Be [Live]/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "The Greeting",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/01 The Greeting.mp3"
+          },
+          {
+            "Title": "Naima",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/02 Naima.mp3"
+          },
+          {
+            "Title": "I Mean You",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/03 I Mean You.mp3"
+          },
+          {
+            "Title": "Here's That Rainy Day",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/04 Here's That Rainy Day.mp3"
+          },
+          {
+            "Title": "Things Ain't What They Used To Be",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/05 Things Ain't What They Used To Be.mp3"
+          },
+          {
+            "Title": "Joy Spring",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/06 Joy Spring.mp3"
+          },
+          {
+            "Title": "Lush Life",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/07 Lush Life.mp3"
+          },
+          {
+            "Title": "Sweet And Lovely",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/08 Sweet And Lovely.mp3"
+          },
+          {
+            "Title": "Song For My Lady",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/09 Song For My Lady.mp3"
+          },
+          {
+            "Title": "What's New",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/10 What's New.mp3"
+          },
+          {
+            "Title": "Search For Peace",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/11 Search For Peace.mp3"
+          },
+          {
+            "Title": "Blues On The Corner",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/12 Blues On The Corner.mp3"
+          },
+          {
+            "Title": "My One And Only Love",
+            "Url": "McCoy Tyner/Things Ain't What They Used To Be [Live]/13 My One And Only Love.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Miles Davis & John Coltrane",
     "Albums": [
       {
@@ -740,6 +862,32 @@ export const cdVault =
     "Name": "Miles Davis",
     "Albums": [
       {
+        "Title": "Kind Of Blue",
+        "Cover": "Miles Davis/Kind Of Blue/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "So What",
+            "Url": "Miles Davis/Kind Of Blue/01 So What.mp3"
+          },
+          {
+            "Title": "Freddie Freeloader",
+            "Url": "Miles Davis/Kind Of Blue/02 Freddie Freeloader.mp3"
+          },
+          {
+            "Title": "Blue In Green",
+            "Url": "Miles Davis/Kind Of Blue/03 Blue In Green.mp3"
+          },
+          {
+            "Title": "All Blues",
+            "Url": "Miles Davis/Kind Of Blue/04 All Blues.mp3"
+          },
+          {
+            "Title": "Flamenco Sketches",
+            "Url": "Miles Davis/Kind Of Blue/05 Flamenco Sketches.mp3"
+          }
+        ]
+      },
+      {
         "Title": "Milestones",
         "Cover": "Miles Davis/Milestones/Folder.jpg",
         "Tracks": [
@@ -766,6 +914,136 @@ export const cdVault =
           {
             "Title": "Straight, No Chaser",
             "Url": "Miles Davis/Milestones/06 Straight, No Chaser.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Rahsaan Roland Kirk",
+    "Albums": [
+      {
+        "Title": "The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]",
+        "Cover": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Conversation",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/01 Conversation.mp3"
+          },
+          {
+            "Title": "Bye Bye Blackbird",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/02 Bye Bye Blackbird.mp3"
+          },
+          {
+            "Title": "Horses",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/03 Horses.mp3"
+          },
+          {
+            "Title": "High Heel Sneakers",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/04 High Heel Sneakers.mp3"
+          },
+          {
+            "Title": "Dream",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/05 Dream.mp3"
+          },
+          {
+            "Title": "Echoes Of Primitive Ohio & Chili Dogs",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/06 Echoes Of Primitive Ohio & Chili Dogs.mp3"
+          },
+          {
+            "Title": "The Entertainer (Done In The Style Of The Blues)",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/07 The Entertainer (Done In The Style Of The Blues).mp3"
+          },
+          {
+            "Title": "Freaks For The Festival",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/08 Freaks For The Festival.mp3"
+          },
+          {
+            "Title": "Dream",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/09 Dream.mp3"
+          },
+          {
+            "Title": "Portrait Of Those Beatiful Ladies",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/10 Portrait Of Those Beatiful Ladies.mp3"
+          },
+          {
+            "Title": "Dream",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/11 Dream.mp3"
+          },
+          {
+            "Title": "The Entertainer",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/12 The Entertainer.mp3"
+          },
+          {
+            "Title": "Dream",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/13 Dream.mp3"
+          },
+          {
+            "Title": "Portrait Of Those Beatiful Ladies",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/14 Portrait Of Those Beatiful Ladies.mp3"
+          },
+          {
+            "Title": "Dream",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/15 Dream.mp3"
+          },
+          {
+            "Title": "Freaks For The Festival",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/16 Freaks For The Festival.mp3"
+          },
+          {
+            "Title": "sesroH",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/17 sesroH.mp3"
+          },
+          {
+            "Title": "Bye Bye Blackbird",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/18 Bye Bye Blackbird.mp3"
+          },
+          {
+            "Title": "Conversation",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/19 Conversation.mp3"
+          },
+          {
+            "Title": "Side Four",
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/20 Side Four.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Roland Kirk, Jack McDuff",
+    "Albums": [
+      {
+        "Title": "Kirk's Work",
+        "Cover": "Roland Kirk, Jack McDuff/Kirk's Work/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Three For Dizzy [Instrumental]",
+            "Url": "Roland Kirk, Jack McDuff/Kirk's Work/01 Three For Dizzy [Instrumental].mp3"
+          },
+          {
+            "Title": "Makin' Whoopee",
+            "Url": "Roland Kirk, Jack McDuff/Kirk's Work/02 Makin' Whoopee.mp3"
+          },
+          {
+            "Title": "Funk Underneath [Instrumental]",
+            "Url": "Roland Kirk, Jack McDuff/Kirk's Work/03 Funk Underneath [Instrumental].mp3"
+          },
+          {
+            "Title": "Kirk's Work",
+            "Url": "Roland Kirk, Jack McDuff/Kirk's Work/04 Kirk's Work.mp3"
+          },
+          {
+            "Title": "Doin' The Sixty-Eight [Instrumental]",
+            "Url": "Roland Kirk, Jack McDuff/Kirk's Work/05 Doin' The Sixty-Eight [Instrumental].mp3"
+          },
+          {
+            "Title": "Too Late Now [Instrumental]",
+            "Url": "Roland Kirk, Jack McDuff/Kirk's Work/06 Too Late Now [Instrumental].mp3"
+          },
+          {
+            "Title": "The Skaters Waltz [Instrumental]",
+            "Url": "Roland Kirk, Jack McDuff/Kirk's Work/07 The Skaters Waltz [Instrumental].mp3"
           }
         ]
       }

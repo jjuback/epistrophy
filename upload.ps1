@@ -9,11 +9,12 @@ Function Upload-Blob {
     {
         $exists = $true
         $blob = Resolve-Path -Relative -LiteralPath $item.FullName
+        $find = $blob.Replace("[", "``[").Replace("]", "``]");
         try
         {
             $GetBlobParams = @{
                 Container = $ContainerName
-                Blob = $blob
+                Blob = $find
                 Context = $Context
             }
             Get-AzStorageBlob @GetBlobParams -ErrorAction Stop
@@ -48,10 +49,10 @@ $global:ContainerName = 'cd-vault'
 Push-Location $HOME/Music
 
 # Upload non-hidden audio files
-Get-ChildItem -Path $HOME/Music -File -Recurse | Upload-Blob
+Get-ChildItem -LiteralPath $HOME/Music -File -Recurse | Upload-Blob
 
 # Upload hidden image files
-Get-ChildItem -Path $HOME/Music -File -Recurse -Hidden -Filter "Folder.jpg" | Upload-Blob
+Get-ChildItem -LiteralPath $HOME/Music -File -Recurse -Hidden -Filter "Folder.jpg" | Upload-Blob
 
 # Restore current directory
 Pop-Location
