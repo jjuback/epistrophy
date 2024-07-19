@@ -79,6 +79,128 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Bill Evans",
+    "Albums": [
+      {
+        "Title": "Conversations With Myself",
+        "Cover": "Bill Evans/Conversations With Myself/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "'Round Midnight",
+            "Url": "Bill Evans/Conversations With Myself/01 'Round Midnight.mp3"
+          },
+          {
+            "Title": "How About You-",
+            "Url": "Bill Evans/Conversations With Myself/02 How About You-.mp3"
+          },
+          {
+            "Title": "Spartacus Love Theme",
+            "Url": "Bill Evans/Conversations With Myself/03 Spartacus Love Theme.mp3"
+          },
+          {
+            "Title": "Blue Monk",
+            "Url": "Bill Evans/Conversations With Myself/04 Blue Monk.mp3"
+          },
+          {
+            "Title": "Stella By Starlight",
+            "Url": "Bill Evans/Conversations With Myself/05 Stella By Starlight.mp3"
+          },
+          {
+            "Title": "Hey, There",
+            "Url": "Bill Evans/Conversations With Myself/06 Hey, There.mp3"
+          },
+          {
+            "Title": "N.Y.C.'s No Lark",
+            "Url": "Bill Evans/Conversations With Myself/07 N.Y.C.'s No Lark.mp3"
+          },
+          {
+            "Title": "Just You, Just Me",
+            "Url": "Bill Evans/Conversations With Myself/08 Just You, Just Me.mp3"
+          },
+          {
+            "Title": "Bemsha Swing",
+            "Url": "Bill Evans/Conversations With Myself/09 Bemsha Swing.mp3"
+          },
+          {
+            "Title": "A Sleepin' Bee",
+            "Url": "Bill Evans/Conversations With Myself/10 A Sleepin' Bee.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Bud Powell",
+    "Albums": [
+      {
+        "Title": "The Best Of Bud Powell",
+        "Cover": "Bud Powell/The Best Of Bud Powell/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Bouncing With Bud",
+            "Url": "Bud Powell/The Best Of Bud Powell/01 Bouncing With Bud.mp3"
+          },
+          {
+            "Title": "52nd Street Theme",
+            "Url": "Bud Powell/The Best Of Bud Powell/02 52nd Street Theme.mp3"
+          },
+          {
+            "Title": "Un Poco Loco",
+            "Url": "Bud Powell/The Best Of Bud Powell/03 Un Poco Loco.mp3"
+          },
+          {
+            "Title": "Parisian Thoroughfare",
+            "Url": "Bud Powell/The Best Of Bud Powell/04 Parisian Thoroughfare.mp3"
+          },
+          {
+            "Title": "Collard Greens And Black-Eyed Peas",
+            "Url": "Bud Powell/The Best Of Bud Powell/05 Collard Greens And Black-Eyed Peas.mp3"
+          },
+          {
+            "Title": "Glass Enclosure",
+            "Url": "Bud Powell/The Best Of Bud Powell/06 Glass Enclosure.mp3"
+          },
+          {
+            "Title": "Reets And I",
+            "Url": "Bud Powell/The Best Of Bud Powell/07 Reets And I.mp3"
+          },
+          {
+            "Title": "Blue Pearl",
+            "Url": "Bud Powell/The Best Of Bud Powell/08 Blue Pearl.mp3"
+          },
+          {
+            "Title": "Bud On Bach",
+            "Url": "Bud Powell/The Best Of Bud Powell/09 Bud On Bach.mp3"
+          },
+          {
+            "Title": "John's Abbey",
+            "Url": "Bud Powell/The Best Of Bud Powell/10 John's Abbey.mp3"
+          },
+          {
+            "Title": "Monopoly",
+            "Url": "Bud Powell/The Best Of Bud Powell/11 Monopoly.mp3"
+          },
+          {
+            "Title": "Buster Rides Again",
+            "Url": "Bud Powell/The Best Of Bud Powell/12 Buster Rides Again.mp3"
+          },
+          {
+            "Title": "The Scene Changes",
+            "Url": "Bud Powell/The Best Of Bud Powell/13 The Scene Changes.mp3"
+          },
+          {
+            "Title": "Cleopatra's Dream",
+            "Url": "Bud Powell/The Best Of Bud Powell/14 Cleopatra's Dream.mp3"
+          },
+          {
+            "Title": "Like Someone In Love",
+            "Url": "Bud Powell/The Best Of Bud Powell/15 Like Someone In Love.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Cannonball Adderley",
     "Albums": [
       {
@@ -419,6 +541,53 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Clifford Brown & Max Roach Quintet",
+    "Albums": [
+      {
+        "Title": "Study In Brown",
+        "Cover": "Clifford Brown & Max Roach Quintet/Study In Brown/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Cherokee",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/01 Cherokee.mp3"
+          },
+          {
+            "Title": "Jacqui",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/02 Jacqui.mp3"
+          },
+          {
+            "Title": "Swingin'",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/03 Swingin'.mp3"
+          },
+          {
+            "Title": "Lands End",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/04 Lands End.mp3"
+          },
+          {
+            "Title": "George's Dilemma",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/05 George's Dilemma.mp3"
+          },
+          {
+            "Title": "Sandu",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/06 Sandu.mp3"
+          },
+          {
+            "Title": "Gerkin For Perkin",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/07 Gerkin For Perkin.mp3"
+          },
+          {
+            "Title": "If I Love Again",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/08 If I Love Again.mp3"
+          },
+          {
+            "Title": "Take The 'A' Train",
+            "Url": "Clifford Brown & Max Roach Quintet/Study In Brown/09 Take The 'A' Train.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Eddie Jefferson",
     "Albums": [
       {
@@ -753,6 +922,40 @@ export const cdVault =
             "Url": "John Coltrane/My Favorite Things/04 But Not For Me.mp3"
           }
         ]
+      },
+      {
+        "Title": "The Original Master Tapes",
+        "Cover": "John Coltrane/The Original Master Tapes/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Soul Eyes",
+            "Url": "John Coltrane/The Original Master Tapes/01 Soul Eyes.mp3"
+          },
+          {
+            "Title": "Song Of The Underground Railroad",
+            "Url": "John Coltrane/The Original Master Tapes/02 Song Of The Underground Railroad.mp3"
+          },
+          {
+            "Title": "Dear Lord",
+            "Url": "John Coltrane/The Original Master Tapes/03 Dear Lord.mp3"
+          },
+          {
+            "Title": "Vilia",
+            "Url": "John Coltrane/The Original Master Tapes/04 Vilia.mp3"
+          },
+          {
+            "Title": "India",
+            "Url": "John Coltrane/The Original Master Tapes/05 India.mp3"
+          },
+          {
+            "Title": "Spiritual",
+            "Url": "John Coltrane/The Original Master Tapes/06 Spiritual.mp3"
+          },
+          {
+            "Title": "Big Nick",
+            "Url": "John Coltrane/The Original Master Tapes/07 Big Nick.mp3"
+          }
+        ]
       }
     ]
   },
@@ -861,6 +1064,36 @@ export const cdVault =
   {
     "Name": "Miles Davis",
     "Albums": [
+      {
+        "Title": "'Round About Midnight",
+        "Cover": "Miles Davis/'Round About Midnight/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "'round Midnight",
+            "Url": "Miles Davis/'Round About Midnight/01 'round Midnight.mp3"
+          },
+          {
+            "Title": "Ah-Leu-Cha",
+            "Url": "Miles Davis/'Round About Midnight/02 Ah-Leu-Cha.mp3"
+          },
+          {
+            "Title": "All Of You",
+            "Url": "Miles Davis/'Round About Midnight/03 All Of You.mp3"
+          },
+          {
+            "Title": "Bye Bye Blackbird",
+            "Url": "Miles Davis/'Round About Midnight/04 Bye Bye Blackbird.mp3"
+          },
+          {
+            "Title": "Tadd's Delight",
+            "Url": "Miles Davis/'Round About Midnight/05 Tadd's Delight.mp3"
+          },
+          {
+            "Title": "Dear Old Stockholm",
+            "Url": "Miles Davis/'Round About Midnight/06 Dear Old Stockholm.mp3"
+          }
+        ]
+      },
       {
         "Title": "Kind Of Blue",
         "Cover": "Miles Davis/Kind Of Blue/Folder.jpg",
@@ -1044,6 +1277,49 @@ export const cdVault =
           {
             "Title": "The Skaters Waltz [Instrumental]",
             "Url": "Roland Kirk, Jack McDuff/Kirk's Work/07 The Skaters Waltz [Instrumental].mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Thelonious Monk Quartet",
+    "Albums": [
+      {
+        "Title": "Monk's Dream",
+        "Cover": "Thelonious Monk Quartet/Monk's Dream/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Monk's Dream",
+            "Url": "Thelonious Monk Quartet/Monk's Dream/01 Monk's Dream.mp3"
+          },
+          {
+            "Title": "Body And Soul",
+            "Url": "Thelonious Monk Quartet/Monk's Dream/02 Body And Soul.mp3"
+          },
+          {
+            "Title": "Bright Mississippi",
+            "Url": "Thelonious Monk Quartet/Monk's Dream/03 Bright Mississippi.mp3"
+          },
+          {
+            "Title": "Five Spot Blues",
+            "Url": "Thelonious Monk Quartet/Monk's Dream/04 Five Spot Blues.mp3"
+          },
+          {
+            "Title": "Bolivar Blues",
+            "Url": "Thelonious Monk Quartet/Monk's Dream/05 Bolivar Blues.mp3"
+          },
+          {
+            "Title": "Just A Gigolo",
+            "Url": "Thelonious Monk Quartet/Monk's Dream/06 Just A Gigolo.mp3"
+          },
+          {
+            "Title": "Bye-Ya",
+            "Url": "Thelonious Monk Quartet/Monk's Dream/07 Bye-Ya.mp3"
+          },
+          {
+            "Title": "Sweet And Lovely",
+            "Url": "Thelonious Monk Quartet/Monk's Dream/08 Sweet And Lovely.mp3"
           }
         ]
       }
