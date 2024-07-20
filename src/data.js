@@ -960,6 +960,49 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Larry Coryell",
+    "Albums": [
+      {
+        "Title": "Live From Bahia",
+        "Cover": "Larry Coryell/Live From Bahia/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "The Harbor",
+            "Url": "Larry Coryell/Live From Bahia/01 The Harbor.mp3"
+          },
+          {
+            "Title": "Old City New City",
+            "Url": "Larry Coryell/Live From Bahia/02 Old City New City.mp3"
+          },
+          {
+            "Title": "The Crab Peddler",
+            "Url": "Larry Coryell/Live From Bahia/03 The Crab Peddler.mp3"
+          },
+          {
+            "Title": "Oshum, Goddess Of Love",
+            "Url": "Larry Coryell/Live From Bahia/04 Oshum, Goddess Of Love.mp3"
+          },
+          {
+            "Title": "Bloco Loco",
+            "Url": "Larry Coryell/Live From Bahia/05 Bloco Loco.mp3"
+          },
+          {
+            "Title": "Panama",
+            "Url": "Larry Coryell/Live From Bahia/06 Panama.mp3"
+          },
+          {
+            "Title": "Gabriela's Song",
+            "Url": "Larry Coryell/Live From Bahia/08 Gabriela's Song.mp3"
+          },
+          {
+            "Title": "Vera Cruz",
+            "Url": "Larry Coryell/Live From Bahia/09 Vera Cruz.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "McCoy Tyner",
     "Albums": [
       {
@@ -1322,6 +1365,227 @@ export const cdVault =
             "Url": "Thelonious Monk Quartet/Monk's Dream/08 Sweet And Lovely.mp3"
           }
         ]
+      }
+    ]
+  },
+  {
+    "Name": "Thelonious Monk",
+    "Albums": [
+      {
+        "Title": "Monk's Classic Recordings",
+        "Cover": "Thelonious Monk/Monk's Classic Recordings/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Blue Sphere",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/01 Blue Sphere.mp3"
+          },
+          {
+            "Title": "Evidence",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/02 Evidence.mp3"
+          },
+          {
+            "Title": "Criss Cross",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/03 Criss Cross.mp3"
+          },
+          {
+            "Title": "Nice Work If You Can Get It",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/04 Nice Work If You Can Get It.mp3"
+          },
+          {
+            "Title": "Jackie-Ing",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/05 Jackie-Ing.mp3"
+          },
+          {
+            "Title": "The Man I Love",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/06 The Man I Love.mp3"
+          },
+          {
+            "Title": "Crepescule With Nellie",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/07 Crepescule With Nellie.mp3"
+          },
+          {
+            "Title": "Little Rootie Tootie",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/08 Little Rootie Tootie.mp3"
+          },
+          {
+            "Title": "Trinkle Tinkle",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/09 Trinkle Tinkle.mp3"
+          },
+          {
+            "Title": "Ruby My Dear",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/10 Ruby My Dear.mp3"
+          },
+          {
+            "Title": "Nutty",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/11 Nutty.mp3"
+          },
+          {
+            "Title": "Something In Blue",
+            "Url": "Thelonious Monk/Monk's Classic Recordings/12 Something In Blue.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "San Francisco Holiday",
+        "Cover": "Thelonious Monk/San Francisco Holiday/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "San Francisco Holiday",
+            "Url": "Thelonious Monk/San Francisco Holiday/05 San Francisco Holiday.mp3"
+          },
+          {
+            "Title": "Four In One",
+            "Url": "Thelonious Monk/San Francisco Holiday/06 Four In One.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Standards",
+        "Cover": "Thelonious Monk/Standards/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Memories Of You",
+            "Url": "Thelonious Monk/Standards/01 Memories Of You.mp3"
+          },
+          {
+            "Title": "Don't Blame Me",
+            "Url": "Thelonious Monk/Standards/02 Don't Blame Me.mp3"
+          },
+          {
+            "Title": "Just You, Just Me",
+            "Url": "Thelonious Monk/Standards/03 Just You, Just Me.mp3"
+          },
+          {
+            "Title": "I'm Confessin' (That I Love You)",
+            "Url": "Thelonious Monk/Standards/04 I'm Confessin' (That I Love You).mp3"
+          },
+          {
+            "Title": "Tea For Two",
+            "Url": "Thelonious Monk/Standards/05 Tea For Two.mp3"
+          },
+          {
+            "Title": "Liza (All The Clouds'll Roll Away)",
+            "Url": "Thelonious Monk/Standards/07 Liza (All The Clouds'll Roll Away).mp3"
+          },
+          {
+            "Title": "I Hadn't Anyone Till You",
+            "Url": "Thelonious Monk/Standards/08 I Hadn't Anyone Till You.mp3"
+          },
+          {
+            "Title": "Nice Work If You Can Get It",
+            "Url": "Thelonious Monk/Standards/09 Nice Work If You Can Get It.mp3"
+          },
+          {
+            "Title": "Between The Devil And The Deep Blue Sea",
+            "Url": "Thelonious Monk/Standards/10 Between The Devil And The Deep Blue Sea.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Straight No Chaser- Music From The Motion Picture",
+        "Cover": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Straight, No Chaser",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/01 Straight, No Chaser.mp3"
+          },
+          {
+            "Title": "Pannonica",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/02 Pannonica.mp3"
+          },
+          {
+            "Title": "Trinkle, Tinkle",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/03 Trinkle, Tinkle.mp3"
+          },
+          {
+            "Title": "Ugly Beauty (Rehearsal)",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/04 Ugly Beauty (Rehearsal).mp3"
+          },
+          {
+            "Title": "Ugly Beauty",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/05 Ugly Beauty.mp3"
+          },
+          {
+            "Title": "Epistrophy",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/06 Epistrophy.mp3"
+          },
+          {
+            "Title": "Evidence",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/07 Evidence.mp3"
+          },
+          {
+            "Title": "Lulu's Back In Town",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/09 Lulu's Back In Town.mp3"
+          },
+          {
+            "Title": "Don't Blame Me",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/10 Don't Blame Me.mp3"
+          },
+          {
+            "Title": "Sweetheart Of All My Dreams",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/11 Sweetheart Of All My Dreams.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "The Composer",
+        "Cover": "Thelonious Monk/The Composer/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "'Round Midnight",
+            "Url": "Thelonious Monk/The Composer/01 'Round Midnight.mp3"
+          },
+          {
+            "Title": "Bemsha Swing",
+            "Url": "Thelonious Monk/The Composer/02 Bemsha Swing.mp3"
+          },
+          {
+            "Title": "Rhythm-A-Ning",
+            "Url": "Thelonious Monk/The Composer/03 Rhythm-A-Ning.mp3"
+          },
+          {
+            "Title": "Reflections",
+            "Url": "Thelonious Monk/The Composer/04 Reflections.mp3"
+          },
+          {
+            "Title": "Straight, No Chaser",
+            "Url": "Thelonious Monk/The Composer/05 Straight, No Chaser.mp3"
+          },
+          {
+            "Title": "Brilliant Corners",
+            "Url": "Thelonious Monk/The Composer/06 Brilliant Corners.mp3"
+          },
+          {
+            "Title": "Ruby, My Dear",
+            "Url": "Thelonious Monk/The Composer/07 Ruby, My Dear.mp3"
+          },
+          {
+            "Title": "Well You Needn't",
+            "Url": "Thelonious Monk/The Composer/08 Well You Needn't.mp3"
+          },
+          {
+            "Title": "Blue Monk",
+            "Url": "Thelonious Monk/The Composer/09 Blue Monk.mp3"
+          },
+          {
+            "Title": "Criss Cross",
+            "Url": "Thelonious Monk/The Composer/10 Criss Cross.mp3"
+          },
+          {
+            "Title": "Crepuscule With Nellie",
+            "Url": "Thelonious Monk/The Composer/11 Crepuscule With Nellie.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Tommy Flanagan",
+    "Albums": [
+      {
+        "Title": "Sunset And The Mockingbird",
+        "Cover": "Tommy Flanagan/Sunset And The Mockingbird/Folder.jpg",
+        "Tracks": []
       }
     ]
   },
