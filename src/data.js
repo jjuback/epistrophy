@@ -1585,7 +1585,40 @@ export const cdVault =
       {
         "Title": "Sunset And The Mockingbird",
         "Cover": "Tommy Flanagan/Sunset And The Mockingbird/Folder.jpg",
-        "Tracks": []
+        "Tracks": [
+          {
+            "Title": "Birdsong [Live]",
+            "Url": "Tommy Flanagan/Sunset And The Mockingbird/01 Birdsong [Live].mp3"
+          },
+          {
+            "Title": "With Malice Toward None [Live]",
+            "Url": "Tommy Flanagan/Sunset And The Mockingbird/02 With Malice Toward None [Live].mp3"
+          },
+          {
+            "Title": "Let's [Live]",
+            "Url": "Tommy Flanagan/Sunset And The Mockingbird/03 Let's [Live].mp3"
+          },
+          {
+            "Title": "I Waited For You [Live]",
+            "Url": "Tommy Flanagan/Sunset And The Mockingbird/04 I Waited For You [Live].mp3"
+          },
+          {
+            "Title": "Tin Tin Deo [Live]",
+            "Url": "Tommy Flanagan/Sunset And The Mockingbird/05 Tin Tin Deo [Live].mp3"
+          },
+          {
+            "Title": "Sunset And The Mockingbird [Live]",
+            "Url": "Tommy Flanagan/Sunset And The Mockingbird/06 Sunset And The Mockingbird [Live].mp3"
+          },
+          {
+            "Title": "The Balanced Scales-The Cupbearers [Live - Medley]",
+            "Url": "Tommy Flanagan/Sunset And The Mockingbird/07 The Balanced Scales-The Cupbearers [Live - Medley].mp3"
+          },
+          {
+            "Title": "Goodnight My Love [Live]",
+            "Url": "Tommy Flanagan/Sunset And The Mockingbird/08 Goodnight My Love [Live].mp3"
+          }
+        ]
       }
     ]
   },
