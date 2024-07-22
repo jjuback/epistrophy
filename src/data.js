@@ -541,6 +541,327 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Chet Baker",
+    "Albums": [
+      {
+        "Title": "Baker's Holiday",
+        "Cover": "Chet Baker/Baker's Holiday/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Travelin' Light",
+            "Url": "Chet Baker/Baker's Holiday/01 Travelin' Light.mp3"
+          },
+          {
+            "Title": "Easy Living",
+            "Url": "Chet Baker/Baker's Holiday/02 Easy Living.mp3"
+          },
+          {
+            "Title": "That Ole Devil Called Love",
+            "Url": "Chet Baker/Baker's Holiday/03 That Ole Devil Called Love.mp3"
+          },
+          {
+            "Title": "You're My Thrill",
+            "Url": "Chet Baker/Baker's Holiday/04 You're My Thrill.mp3"
+          },
+          {
+            "Title": "Crazy She Calls Me",
+            "Url": "Chet Baker/Baker's Holiday/05 Crazy She Calls Me.mp3"
+          },
+          {
+            "Title": "When Your Lover Has Gone",
+            "Url": "Chet Baker/Baker's Holiday/06 When Your Lover Has Gone.mp3"
+          },
+          {
+            "Title": "Mean To Me",
+            "Url": "Chet Baker/Baker's Holiday/07 Mean To Me.mp3"
+          },
+          {
+            "Title": "These Foolish Things (Remind Me Of You)",
+            "Url": "Chet Baker/Baker's Holiday/08 These Foolish Things (Remind Me Of You).mp3"
+          },
+          {
+            "Title": "There Is No Greater Love",
+            "Url": "Chet Baker/Baker's Holiday/09 There Is No Greater Love.mp3"
+          },
+          {
+            "Title": "Don't Explain",
+            "Url": "Chet Baker/Baker's Holiday/10 Don't Explain.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Chet In Paris, Vol 4- Alternate Takes",
+        "Cover": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Chet",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/01 Chet.mp3"
+          },
+          {
+            "Title": "Dinah",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/02 Dinah.mp3"
+          },
+          {
+            "Title": "In Memory Of Dick",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/03 In Memory Of Dick.mp3"
+          },
+          {
+            "Title": "Alone Together (Take 1)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/04 Alone Together (Take 1).mp3"
+          },
+          {
+            "Title": "Alone Together (Take 2)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/05 Alone Together (Take 2).mp3"
+          },
+          {
+            "Title": "Exitus (Quartet Version)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/06 Exitus (Quartet Version).mp3"
+          },
+          {
+            "Title": "All The Things You Are",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/07 All The Things You Are.mp3"
+          },
+          {
+            "Title": "Chekeetah",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/08 Chekeetah.mp3"
+          },
+          {
+            "Title": "How About You",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/09 How About You.mp3"
+          },
+          {
+            "Title": "Exitus (Quintet Version 1)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/10 Exitus (Quintet Version 1).mp3"
+          },
+          {
+            "Title": "Exitus (Quintet Version 2)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/11 Exitus (Quintet Version 2).mp3"
+          },
+          {
+            "Title": "Anticipated Blues (",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/12 Anticipated Blues (.mp3"
+          },
+          {
+            "Title": "Tasty Pudding (Take 1)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/13 Tasty Pudding (Take 1).mp3"
+          },
+          {
+            "Title": "Tasty Pudding (Take 2)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/14 Tasty Pudding (Take 2).mp3"
+          },
+          {
+            "Title": "Tasty Pudding (Take 3)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/15 Tasty Pudding (Take 3).mp3"
+          },
+          {
+            "Title": "Tasty Pudding (Take 4)",
+            "Url": "Chet Baker/Chet In Paris, Vol 4- Alternate Takes/16 Tasty Pudding (Take 4).mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Chet",
+        "Cover": "Chet Baker/Chet/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Alone Together",
+            "Url": "Chet Baker/Chet/01 Alone Together.mp3"
+          },
+          {
+            "Title": "How High The Moon",
+            "Url": "Chet Baker/Chet/02 How High The Moon.mp3"
+          },
+          {
+            "Title": "It Never Entered My Mind",
+            "Url": "Chet Baker/Chet/03 It Never Entered My Mind.mp3"
+          },
+          {
+            "Title": "'Tis Autumn",
+            "Url": "Chet Baker/Chet/04 'Tis Autumn.mp3"
+          },
+          {
+            "Title": "If You Could See Me Now",
+            "Url": "Chet Baker/Chet/05 If You Could See Me Now.mp3"
+          },
+          {
+            "Title": "September Song",
+            "Url": "Chet Baker/Chet/06 September Song.mp3"
+          },
+          {
+            "Title": "You'd Be Nice To Come Home To",
+            "Url": "Chet Baker/Chet/07 You'd Be Nice To Come Home To.mp3"
+          },
+          {
+            "Title": "Time On My Hands (You In My Arms)",
+            "Url": "Chet Baker/Chet/08 Time On My Hands (You In My Arms).mp3"
+          },
+          {
+            "Title": "You And The Night And The Music",
+            "Url": "Chet Baker/Chet/09 You And The Night And The Music.mp3"
+          },
+          {
+            "Title": "Early Morning Mood",
+            "Url": "Chet Baker/Chet/10 Early Morning Mood.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Let's Get Lost",
+        "Cover": "Chet Baker/Let's Get Lost/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Moon & Sand",
+            "Url": "Chet Baker/Let's Get Lost/01 Moon & Sand.mp3"
+          },
+          {
+            "Title": "Imagination",
+            "Url": "Chet Baker/Let's Get Lost/02 Imagination.mp3"
+          },
+          {
+            "Title": "You're My Thrill",
+            "Url": "Chet Baker/Let's Get Lost/03 You're My Thrill.mp3"
+          },
+          {
+            "Title": "For Heaven's Sake",
+            "Url": "Chet Baker/Let's Get Lost/04 For Heaven's Sake.mp3"
+          },
+          {
+            "Title": "Every Time We Say Goodbye",
+            "Url": "Chet Baker/Let's Get Lost/05 Every Time We Say Goodbye.mp3"
+          },
+          {
+            "Title": "I Don't Stand A Ghost Of A Chance With You",
+            "Url": "Chet Baker/Let's Get Lost/06 I Don't Stand A Ghost Of A Chance With You.mp3"
+          },
+          {
+            "Title": "Daydream",
+            "Url": "Chet Baker/Let's Get Lost/07 Daydream.mp3"
+          },
+          {
+            "Title": "Zingaro",
+            "Url": "Chet Baker/Let's Get Lost/08 Zingaro.mp3"
+          },
+          {
+            "Title": "Blame It On My Youth",
+            "Url": "Chet Baker/Let's Get Lost/09 Blame It On My Youth.mp3"
+          },
+          {
+            "Title": "My One And Only Love",
+            "Url": "Chet Baker/Let's Get Lost/10 My One And Only Love.mp3"
+          },
+          {
+            "Title": "Everything Happens To Me",
+            "Url": "Chet Baker/Let's Get Lost/11 Everything Happens To Me.mp3"
+          },
+          {
+            "Title": "Almost Blue",
+            "Url": "Chet Baker/Let's Get Lost/12 Almost Blue.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "My Funny Valentine",
+        "Cover": "Chet Baker/My Funny Valentine/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "My Funny Valentine",
+            "Url": "Chet Baker/My Funny Valentine/01 My Funny Valentine.mp3"
+          },
+          {
+            "Title": "Someone To Watch Over Me",
+            "Url": "Chet Baker/My Funny Valentine/02 Someone To Watch Over Me.mp3"
+          },
+          {
+            "Title": "Moonlight Becomes You",
+            "Url": "Chet Baker/My Funny Valentine/03 Moonlight Becomes You.mp3"
+          },
+          {
+            "Title": "This Is Always",
+            "Url": "Chet Baker/My Funny Valentine/04 This Is Always.mp3"
+          },
+          {
+            "Title": "I'm Glad There Is You",
+            "Url": "Chet Baker/My Funny Valentine/05 I'm Glad There Is You.mp3"
+          },
+          {
+            "Title": "Time After Time",
+            "Url": "Chet Baker/My Funny Valentine/06 Time After Time.mp3"
+          },
+          {
+            "Title": "Sweet Lorraine",
+            "Url": "Chet Baker/My Funny Valentine/07 Sweet Lorraine.mp3"
+          },
+          {
+            "Title": "It's Always You",
+            "Url": "Chet Baker/My Funny Valentine/08 It's Always You.mp3"
+          },
+          {
+            "Title": "Let's Get Lost",
+            "Url": "Chet Baker/My Funny Valentine/09 Let's Get Lost.mp3"
+          },
+          {
+            "Title": "Moon Love",
+            "Url": "Chet Baker/My Funny Valentine/10 Moon Love.mp3"
+          },
+          {
+            "Title": "Like Someone In Love",
+            "Url": "Chet Baker/My Funny Valentine/11 Like Someone In Love.mp3"
+          },
+          {
+            "Title": "I've Never Been In Love Before",
+            "Url": "Chet Baker/My Funny Valentine/12 I've Never Been In Love Before.mp3"
+          },
+          {
+            "Title": "Isn't It Romantic-",
+            "Url": "Chet Baker/My Funny Valentine/13 Isn't It Romantic-.mp3"
+          },
+          {
+            "Title": "I Fall In Love Too Easily",
+            "Url": "Chet Baker/My Funny Valentine/14 I Fall In Love Too Easily.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "The Italian Sessions",
+        "Cover": "Chet Baker/The Italian Sessions/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Well You Needn't",
+            "Url": "Chet Baker/The Italian Sessions/01 Well You Needn't.mp3"
+          },
+          {
+            "Title": "These Foolish Things",
+            "Url": "Chet Baker/The Italian Sessions/02 These Foolish Things.mp3"
+          },
+          {
+            "Title": "Barbados",
+            "Url": "Chet Baker/The Italian Sessions/03 Barbados.mp3"
+          },
+          {
+            "Title": "Star Eyes",
+            "Url": "Chet Baker/The Italian Sessions/04 Star Eyes.mp3"
+          },
+          {
+            "Title": "Somewhere Over The Rainbow",
+            "Url": "Chet Baker/The Italian Sessions/05 Somewhere Over The Rainbow.mp3"
+          },
+          {
+            "Title": "Pent-Up House",
+            "Url": "Chet Baker/The Italian Sessions/06 Pent-Up House.mp3"
+          },
+          {
+            "Title": "Ballata In Forma Di Blues",
+            "Url": "Chet Baker/The Italian Sessions/07 Ballata In Forma Di Blues.mp3"
+          },
+          {
+            "Title": "Blues In The Closet",
+            "Url": "Chet Baker/The Italian Sessions/08 Blues In The Closet.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Clifford Brown & Max Roach Quintet",
     "Albums": [
       {
@@ -641,6 +962,53 @@ export const cdVault =
           {
             "Title": "Parker's Mood (Bless My Soul)",
             "Url": "Eddie Jefferson/Letter From Home/12 Parker's Mood (Bless My Soul).mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Eric Dolphy",
+    "Albums": [
+      {
+        "Title": "The Essential Eric Dolphy",
+        "Cover": "Eric Dolphy/The Essential Eric Dolphy/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "G.W",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/01 G.W.mp3"
+          },
+          {
+            "Title": "Les",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/02 Les.mp3"
+          },
+          {
+            "Title": "The Meetin'",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/03 The Meetin'.mp3"
+          },
+          {
+            "Title": "Feathers",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/04 Feathers.mp3"
+          },
+          {
+            "Title": "Eclipse",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/05 Eclipse.mp3"
+          },
+          {
+            "Title": "Ode To Charlie Parker",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/06 Ode To Charlie Parker.mp3"
+          },
+          {
+            "Title": "Mrs. Parker Of K.C. (Bird's Mother)",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/07 Mrs. Parker Of K.C. (Bird's Mother).mp3"
+          },
+          {
+            "Title": "Ralph's New Blues",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/08 Ralph's New Blues.mp3"
+          },
+          {
+            "Title": "Status Seeking",
+            "Url": "Eric Dolphy/The Essential Eric Dolphy/09 Status Seeking.mp3"
           }
         ]
       }
@@ -997,6 +1365,37 @@ export const cdVault =
           {
             "Title": "Vera Cruz",
             "Url": "Larry Coryell/Live From Bahia/09 Vera Cruz.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Lee Morgan",
+    "Albums": [
+      {
+        "Title": "Cornbread",
+        "Cover": "Lee Morgan/Cornbread/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Cornbread",
+            "Url": "Lee Morgan/Cornbread/01 Cornbread.mp3"
+          },
+          {
+            "Title": "Our Man Higgins",
+            "Url": "Lee Morgan/Cornbread/02 Our Man Higgins.mp3"
+          },
+          {
+            "Title": "Ceora",
+            "Url": "Lee Morgan/Cornbread/03 Ceora.mp3"
+          },
+          {
+            "Title": "Ill Wind",
+            "Url": "Lee Morgan/Cornbread/04 Ill Wind.mp3"
+          },
+          {
+            "Title": "Most Like Lee",
+            "Url": "Lee Morgan/Cornbread/05 Most Like Lee.mp3"
           }
         ]
       }
