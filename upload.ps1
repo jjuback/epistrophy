@@ -9,9 +9,11 @@ Function Upload-Blob {
     Begin {}
     Process
     {
-        $exists = $true
+        $exists = $false
         $blob = Resolve-Path -LiteralPath $FullName -Relative
-        $find = $blob.Replace("[", "````[").Replace("]", "````]")
+        $blob = $blob -replace '\\', '/'
+        $blob = $blob -replace '\./', ''
+        $find = $blob -replace '(\[|\])', '[$1]'
         try
         {
             $GetBlobParams = @{
@@ -19,11 +21,8 @@ Function Upload-Blob {
                 Blob = $find
                 Context = $Context
             }
-            Get-AzStorageBlob @GetBlobParams -ErrorAction Stop
-        }
-        catch [Microsoft.WindowsAzure.Commands.Storage.Common.ResourceNotFoundException]
-        {
-            $exists = $false
+            $result = Get-AzStorageBlob @GetBlobParams -ErrorAction Stop
+            $exists = $result.Length -gt 0
         }
         finally
         {

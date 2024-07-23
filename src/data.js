@@ -1359,6 +1359,10 @@ export const cdVault =
             "Url": "Larry Coryell/Live From Bahia/06 Panama.mp3"
           },
           {
+            "Title": "Bahian Night Walk [Live]",
+            "Url": "Larry Coryell/Live From Bahia/07 Bahian Night Walk [Live].mp3"
+          },
+          {
             "Title": "Gabriela's Song",
             "Url": "Larry Coryell/Live From Bahia/08 Gabriela's Song.mp3"
           },
@@ -1396,6 +1400,36 @@ export const cdVault =
           {
             "Title": "Most Like Lee",
             "Url": "Lee Morgan/Cornbread/05 Most Like Lee.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "The Rumproller [Limited Edition]",
+        "Cover": "Lee Morgan/The Rumproller [Limited Edition]/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "The Rumproller",
+            "Url": "Lee Morgan/The Rumproller [Limited Edition]/01 The Rumproller.mp3"
+          },
+          {
+            "Title": "Desert Moonlight",
+            "Url": "Lee Morgan/The Rumproller [Limited Edition]/02 Desert Moonlight.mp3"
+          },
+          {
+            "Title": "Eclipso",
+            "Url": "Lee Morgan/The Rumproller [Limited Edition]/03 Eclipso.mp3"
+          },
+          {
+            "Title": "Edda",
+            "Url": "Lee Morgan/The Rumproller [Limited Edition]/04 Edda.mp3"
+          },
+          {
+            "Title": "The Lady",
+            "Url": "Lee Morgan/The Rumproller [Limited Edition]/05 The Lady.mp3"
+          },
+          {
+            "Title": "Venus Di Mildew",
+            "Url": "Lee Morgan/The Rumproller [Limited Edition]/06 Venus Di Mildew.mp3"
           }
         ]
       }
@@ -1829,12 +1863,44 @@ export const cdVault =
         "Cover": "Thelonious Monk/San Francisco Holiday/Folder.jpg",
         "Tracks": [
           {
+            "Title": "In Walked Bud [Live]",
+            "Url": "Thelonious Monk/San Francisco Holiday/01 In Walked Bud [Live].mp3"
+          },
+          {
+            "Title": "Blue Monk [Live]",
+            "Url": "Thelonious Monk/San Francisco Holiday/02 Blue Monk [Live].mp3"
+          },
+          {
+            "Title": "Rhythm-A-Ning [Live]",
+            "Url": "Thelonious Monk/San Francisco Holiday/03 Rhythm-A-Ning [Live].mp3"
+          },
+          {
+            "Title": "Bye-Ya-Epistrophy [Live]",
+            "Url": "Thelonious Monk/San Francisco Holiday/04 Bye-Ya-Epistrophy [Live].mp3"
+          },
+          {
             "Title": "San Francisco Holiday",
             "Url": "Thelonious Monk/San Francisco Holiday/05 San Francisco Holiday.mp3"
           },
           {
             "Title": "Four In One",
             "Url": "Thelonious Monk/San Francisco Holiday/06 Four In One.mp3"
+          },
+          {
+            "Title": "Epistrophy [Live]",
+            "Url": "Thelonious Monk/San Francisco Holiday/07 Epistrophy [Live].mp3"
+          },
+          {
+            "Title": "Jackie-Ing [Live]",
+            "Url": "Thelonious Monk/San Francisco Holiday/08 Jackie-Ing [Live].mp3"
+          },
+          {
+            "Title": "April In Paris [Live]",
+            "Url": "Thelonious Monk/San Francisco Holiday/09 April In Paris [Live].mp3"
+          },
+          {
+            "Title": "Epistrophy [Live]",
+            "Url": "Thelonious Monk/San Francisco Holiday/10 Epistrophy [Live].mp3"
           }
         ]
       },
@@ -1861,6 +1927,10 @@ export const cdVault =
           {
             "Title": "Tea For Two",
             "Url": "Thelonious Monk/Standards/05 Tea For Two.mp3"
+          },
+          {
+            "Title": "I Love You Sweetheart Of All My Dreams [Take 1]",
+            "Url": "Thelonious Monk/Standards/06 I Love You Sweetheart Of All My Dreams [Take 1].mp3"
           },
           {
             "Title": "Liza (All The Clouds'll Roll Away)",
@@ -1913,6 +1983,10 @@ export const cdVault =
             "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/07 Evidence.mp3"
           },
           {
+            "Title": "I Mean You (Stickball) [Live]",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/08 I Mean You (Stickball) [Live].mp3"
+          },
+          {
             "Title": "Lulu's Back In Town",
             "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/09 Lulu's Back In Town.mp3"
           },
@@ -1923,6 +1997,100 @@ export const cdVault =
           {
             "Title": "Sweetheart Of All My Dreams",
             "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/11 Sweetheart Of All My Dreams.mp3"
+          },
+          {
+            "Title": "'Round Midnight [Live]",
+            "Url": "Thelonious Monk/Straight No Chaser- Music From The Motion Picture/12 'Round Midnight [Live].mp3"
+          }
+        ]
+      },
+      {
+        "Title": "The Complete Blue Note Recordings [Disc 1]",
+        "Cover": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Humph",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/01 Humph.mp3"
+          },
+          {
+            "Title": "Evonce [Alternate]",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/02 Evonce [Alternate].mp3"
+          },
+          {
+            "Title": "Evonce",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/03 Evonce.mp3"
+          },
+          {
+            "Title": "Suburban Eyes",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/04 Suburban Eyes.mp3"
+          },
+          {
+            "Title": "Suburban Eyes [Alternate]",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/05 Suburban Eyes [Alternate].mp3"
+          },
+          {
+            "Title": "Thelonious",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/06 Thelonious.mp3"
+          },
+          {
+            "Title": "Nice Work If You Can Get It [Alternate]",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/07 Nice Work If You Can Get It [Alternate].mp3"
+          },
+          {
+            "Title": "Nice Work If You Can Get It",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/08 Nice Work If You Can Get It.mp3"
+          },
+          {
+            "Title": "Ruby My Dear [Alternate]",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/09 Ruby My Dear [Alternate].mp3"
+          },
+          {
+            "Title": "Ruby My Dear",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/10 Ruby My Dear.mp3"
+          },
+          {
+            "Title": "Well You Needn't",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/11 Well You Needn't.mp3"
+          },
+          {
+            "Title": "Well You Needn't [Alternate]",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/12 Well You Needn't [Alternate].mp3"
+          },
+          {
+            "Title": "April In Paris [Alternate]",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/13 April In Paris [Alternate].mp3"
+          },
+          {
+            "Title": "April In Paris",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/14 April In Paris.mp3"
+          },
+          {
+            "Title": "Off Minor",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/15 Off Minor.mp3"
+          },
+          {
+            "Title": "Introspection",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/16 Introspection.mp3"
+          },
+          {
+            "Title": "In Walked Bud",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/17 In Walked Bud.mp3"
+          },
+          {
+            "Title": "Monk's Mood",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/18 Monk's Mood.mp3"
+          },
+          {
+            "Title": "Who Knows",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/19 Who Knows.mp3"
+          },
+          {
+            "Title": "'Round Midnight",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/20 'Round Midnight.mp3"
+          },
+          {
+            "Title": "Who Knows [Alternate]",
+            "Url": "Thelonious Monk/The Complete Blue Note Recordings [Disc 1]/21 Who Knows [Alternate].mp3"
           }
         ]
       },
