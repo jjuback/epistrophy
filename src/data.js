@@ -1,6 +1,75 @@
 export const cdVault =
 [
   {
+    "Name": "Anthony Braxton",
+    "Albums": [
+      {
+        "Title": "Seven Standards 1985, Volume I",
+        "Cover": "Anthony Braxton/Seven Standards 1985, Volume I/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Joy Spring",
+            "Url": "Anthony Braxton/Seven Standards 1985, Volume I/01 Joy Spring.mp3"
+          },
+          {
+            "Title": "Spring Is Here",
+            "Url": "Anthony Braxton/Seven Standards 1985, Volume I/02 Spring Is Here.mp3"
+          },
+          {
+            "Title": "I Remember You",
+            "Url": "Anthony Braxton/Seven Standards 1985, Volume I/03 I Remember You.mp3"
+          },
+          {
+            "Title": "Toy",
+            "Url": "Anthony Braxton/Seven Standards 1985, Volume I/04 Toy.mp3"
+          },
+          {
+            "Title": "You Go To My Head",
+            "Url": "Anthony Braxton/Seven Standards 1985, Volume I/05 You Go To My Head.mp3"
+          },
+          {
+            "Title": "Old Folks",
+            "Url": "Anthony Braxton/Seven Standards 1985, Volume I/06 Old Folks.mp3"
+          },
+          {
+            "Title": "Background Music",
+            "Url": "Anthony Braxton/Seven Standards 1985, Volume I/07 Background Music.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Six Monk's Compositions (1987)",
+        "Cover": "Anthony Braxton/Six Monk's Compositions (1987)/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Brilliant Corners",
+            "Url": "Anthony Braxton/Six Monk's Compositions (1987)/01 Brilliant Corners.mp3"
+          },
+          {
+            "Title": "Reflections",
+            "Url": "Anthony Braxton/Six Monk's Compositions (1987)/02 Reflections.mp3"
+          },
+          {
+            "Title": "Played Twice",
+            "Url": "Anthony Braxton/Six Monk's Compositions (1987)/03 Played Twice.mp3"
+          },
+          {
+            "Title": "Four In One",
+            "Url": "Anthony Braxton/Six Monk's Compositions (1987)/04 Four In One.mp3"
+          },
+          {
+            "Title": "Ask Me Now",
+            "Url": "Anthony Braxton/Six Monk's Compositions (1987)/05 Ask Me Now.mp3"
+          },
+          {
+            "Title": "Skippy",
+            "Url": "Anthony Braxton/Six Monk's Compositions (1987)/06 Skippy.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Art Blakey & The Jazz Messengers",
     "Albums": [
       {
@@ -79,6 +148,57 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Bill Evans & Jim Hall",
+    "Albums": [
+      {
+        "Title": "Undercurrent",
+        "Cover": "Bill Evans & Jim Hall/Undercurrent/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "My Funny Valentine [Alternate]",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/01 My Funny Valentine [Alternate].mp3"
+          },
+          {
+            "Title": "My Funny Valentine",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/02 My Funny Valentine.mp3"
+          },
+          {
+            "Title": "I Hear A Rhapsody",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/03 I Hear A Rhapsody.mp3"
+          },
+          {
+            "Title": "Dream Gypsy",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/04 Dream Gypsy.mp3"
+          },
+          {
+            "Title": "Stairway To The Stars",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/05 Stairway To The Stars.mp3"
+          },
+          {
+            "Title": "I'm Getting Sentimental Over You",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/06 I'm Getting Sentimental Over You.mp3"
+          },
+          {
+            "Title": "Romain",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/07 Romain.mp3"
+          },
+          {
+            "Title": "Romain [Alternate]",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/08 Romain [Alternate].mp3"
+          },
+          {
+            "Title": "Skating In Central Park",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/09 Skating In Central Park.mp3"
+          },
+          {
+            "Title": "Darn That Dream",
+            "Url": "Bill Evans & Jim Hall/Undercurrent/10 Darn That Dream.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Bill Evans",
     "Albums": [
       {
@@ -132,6 +252,64 @@ export const cdVault =
   {
     "Name": "Bud Powell",
     "Albums": [
+      {
+        "Title": "Jazz Giant",
+        "Cover": "Bud Powell/Jazz Giant/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Tempus Fugit",
+            "Url": "Bud Powell/Jazz Giant/01 Tempus Fugit.mp3"
+          },
+          {
+            "Title": "Celia",
+            "Url": "Bud Powell/Jazz Giant/02 Celia.mp3"
+          },
+          {
+            "Title": "Cherokee",
+            "Url": "Bud Powell/Jazz Giant/03 Cherokee.mp3"
+          },
+          {
+            "Title": "I'll Keep Loving You",
+            "Url": "Bud Powell/Jazz Giant/04 I'll Keep Loving You.mp3"
+          },
+          {
+            "Title": "Strictly Confidential",
+            "Url": "Bud Powell/Jazz Giant/05 Strictly Confidential.mp3"
+          },
+          {
+            "Title": "All God's Chillun Got Rhythm",
+            "Url": "Bud Powell/Jazz Giant/06 All God's Chillun Got Rhythm.mp3"
+          },
+          {
+            "Title": "So Sorry Please",
+            "Url": "Bud Powell/Jazz Giant/07 So Sorry Please.mp3"
+          },
+          {
+            "Title": "Get Happy",
+            "Url": "Bud Powell/Jazz Giant/08 Get Happy.mp3"
+          },
+          {
+            "Title": "Sometimes I'm Happy",
+            "Url": "Bud Powell/Jazz Giant/09 Sometimes I'm Happy.mp3"
+          },
+          {
+            "Title": "Sweet Georgia Brown",
+            "Url": "Bud Powell/Jazz Giant/10 Sweet Georgia Brown.mp3"
+          },
+          {
+            "Title": "Yesterdays",
+            "Url": "Bud Powell/Jazz Giant/11 Yesterdays.mp3"
+          },
+          {
+            "Title": "April In Paris",
+            "Url": "Bud Powell/Jazz Giant/12 April In Paris.mp3"
+          },
+          {
+            "Title": "Body And Soul",
+            "Url": "Bud Powell/Jazz Giant/13 Body And Soul.mp3"
+          }
+        ]
+      },
       {
         "Title": "The Best Of Bud Powell",
         "Cover": "Bud Powell/The Best Of Bud Powell/Folder.jpg",
@@ -230,6 +408,33 @@ export const cdVault =
           {
             "Title": "Bangoon",
             "Url": "Cannonball Adderley/Somethin' Else/06 Bangoon.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Charles Mingus",
+    "Albums": [
+      {
+        "Title": "Pithecanthropus Erectus",
+        "Cover": "Charles Mingus/Pithecanthropus Erectus/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Pithecanthropus Erectus",
+            "Url": "Charles Mingus/Pithecanthropus Erectus/01 Pithecanthropus Erectus.mp3"
+          },
+          {
+            "Title": "A Foggy Day",
+            "Url": "Charles Mingus/Pithecanthropus Erectus/02 A Foggy Day.mp3"
+          },
+          {
+            "Title": "Profile Of Jackie",
+            "Url": "Charles Mingus/Pithecanthropus Erectus/03 Profile Of Jackie.mp3"
+          },
+          {
+            "Title": "Love Chant",
+            "Url": "Charles Mingus/Pithecanthropus Erectus/04 Love Chant.mp3"
           }
         ]
       }
@@ -421,6 +626,112 @@ export const cdVault =
           {
             "Title": "Merry-Go-Round",
             "Url": "Charlie Parker/Bird- The Savoy Recordings (Master Takes) [Disc 2]/16 Merry-Go-Round.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "The Legendary Dial Masters- Vol. 1",
+        "Cover": "Charlie Parker/The Legendary Dial Masters- Vol. 1/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Diggin' Diz",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/01 Diggin' Diz.mp3"
+          },
+          {
+            "Title": "Moose The Mooche",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/02 Moose The Mooche.mp3"
+          },
+          {
+            "Title": "Yardbird Suite",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/03 Yardbird Suite.mp3"
+          },
+          {
+            "Title": "Ornithology",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/04 Ornithology.mp3"
+          },
+          {
+            "Title": "Night In Tunisia",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/05 Night In Tunisia.mp3"
+          },
+          {
+            "Title": "Max (Is) Making Wax",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/06 Max (Is) Making Wax.mp3"
+          },
+          {
+            "Title": "Loverman",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/07 Loverman.mp3"
+          },
+          {
+            "Title": "The Gypsy",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/08 The Gypsy.mp3"
+          },
+          {
+            "Title": "Bebop",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/09 Bebop.mp3"
+          },
+          {
+            "Title": "This Is Always",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/10 This Is Always.mp3"
+          },
+          {
+            "Title": "Dark Shadows",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/11 Dark Shadows.mp3"
+          },
+          {
+            "Title": "Bird's Nest",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/12 Bird's Nest.mp3"
+          },
+          {
+            "Title": "Cool Blues",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/13 Cool Blues.mp3"
+          },
+          {
+            "Title": "Relaxin' At Camarillo",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/14 Relaxin' At Camarillo.mp3"
+          },
+          {
+            "Title": "Cheers",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/15 Cheers.mp3"
+          },
+          {
+            "Title": "Carvin' The Bird",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/16 Carvin' The Bird.mp3"
+          },
+          {
+            "Title": "Stupendous",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/17 Stupendous.mp3"
+          },
+          {
+            "Title": "Dexterity",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/18 Dexterity.mp3"
+          },
+          {
+            "Title": "Bongo Bop",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/19 Bongo Bop.mp3"
+          },
+          {
+            "Title": "Dewey Square",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/20 Dewey Square.mp3"
+          },
+          {
+            "Title": "The Hymn",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/21 The Hymn.mp3"
+          },
+          {
+            "Title": "Bird Of Paradise",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/22 Bird Of Paradise.mp3"
+          },
+          {
+            "Title": "Embracable You",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/23 Embracable You.mp3"
+          },
+          {
+            "Title": "Bird Feathers",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/24 Bird Feathers.mp3"
+          },
+          {
+            "Title": "Klact-Oveeseds-Tene",
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 1/25 Klact-Oveeseds-Tene.mp3"
           }
         ]
       },
@@ -909,6 +1220,180 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Coleman Hawkins",
+    "Albums": [
+      {
+        "Title": "Body and Soul",
+        "Cover": "Coleman Hawkins/Body and Soul/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Meet Doctor Foo",
+            "Url": "Coleman Hawkins/Body and Soul/01 Meet Doctor Foo.mp3"
+          },
+          {
+            "Title": "Fine Dinner",
+            "Url": "Coleman Hawkins/Body and Soul/02 Fine Dinner.mp3"
+          },
+          {
+            "Title": "She's Funny That Way",
+            "Url": "Coleman Hawkins/Body and Soul/03 She's Funny That Way.mp3"
+          },
+          {
+            "Title": "Body and Soul",
+            "Url": "Coleman Hawkins/Body and Soul/04 Body and Soul.mp3"
+          },
+          {
+            "Title": "When Day Is Done",
+            "Url": "Coleman Hawkins/Body and Soul/05 When Day Is Done.mp3"
+          },
+          {
+            "Title": "The Sheik of Araby",
+            "Url": "Coleman Hawkins/Body and Soul/06 The Sheik of Araby.mp3"
+          },
+          {
+            "Title": "My Blue Heaven",
+            "Url": "Coleman Hawkins/Body and Soul/07 My Blue Heaven.mp3"
+          },
+          {
+            "Title": "Bouncing With Bean",
+            "Url": "Coleman Hawkins/Body and Soul/08 Bouncing With Bean.mp3"
+          },
+          {
+            "Title": "April In Paris",
+            "Url": "Coleman Hawkins/Body and Soul/09 April In Paris.mp3"
+          },
+          {
+            "Title": "How Strange",
+            "Url": "Coleman Hawkins/Body and Soul/10 How Strange.mp3"
+          },
+          {
+            "Title": "Half Step Down, Please",
+            "Url": "Coleman Hawkins/Body and Soul/11 Half Step Down, Please.mp3"
+          },
+          {
+            "Title": "Angel Face",
+            "Url": "Coleman Hawkins/Body and Soul/12 Angel Face.mp3"
+          },
+          {
+            "Title": "Jumpin' for Jane",
+            "Url": "Coleman Hawkins/Body and Soul/13 Jumpin' for Jane.mp3"
+          },
+          {
+            "Title": "I Love You",
+            "Url": "Coleman Hawkins/Body and Soul/14 I Love You.mp3"
+          },
+          {
+            "Title": "There Will Never Be Another You",
+            "Url": "Coleman Hawkins/Body and Soul/15 There Will Never Be Another You.mp3"
+          },
+          {
+            "Title": "Little Girl Blue",
+            "Url": "Coleman Hawkins/Body and Soul/16 Little Girl Blue.mp3"
+          },
+          {
+            "Title": "Dinner For One, Please James",
+            "Url": "Coleman Hawkins/Body and Soul/17 Dinner For One, Please James.mp3"
+          },
+          {
+            "Title": "His Very Own Blues",
+            "Url": "Coleman Hawkins/Body and Soul/18 His Very Own Blues.mp3"
+          },
+          {
+            "Title": "39'-25'-39'",
+            "Url": "Coleman Hawkins/Body and Soul/19 39'-25'-39'.mp3"
+          },
+          {
+            "Title": "The Bean Stalks Again",
+            "Url": "Coleman Hawkins/Body and Soul/20 The Bean Stalks Again.mp3"
+          },
+          {
+            "Title": "Have You Met Miss Jones",
+            "Url": "Coleman Hawkins/Body and Soul/21 Have You Met Miss Jones.mp3"
+          },
+          {
+            "Title": "Body and Soul",
+            "Url": "Coleman Hawkins/Body and Soul/22 Body and Soul.mp3"
+          },
+          {
+            "Title": "The Essence Of You",
+            "Url": "Coleman Hawkins/Body and Soul/23 The Essence Of You.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker",
+    "Albums": [
+      {
+        "Title": "Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)",
+        "Cover": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "My Melancholy Baby",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/01 My Melancholy Baby.mp3"
+          },
+          {
+            "Title": "Blue 'n' Boogie",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/02 Blue 'n' Boogie.mp3"
+          },
+          {
+            "Title": "Loverman (Oh, Where Can You Be-)",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/03 Loverman (Oh, Where Can You Be-).mp3"
+          },
+          {
+            "Title": "One Bass Hit No. 1",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/04 One Bass Hit No. 1.mp3"
+          },
+          {
+            "Title": "That's Earl Brother",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/05 That's Earl Brother.mp3"
+          },
+          {
+            "Title": "Oop Bop Sh'bam",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/06 Oop Bop Sh'bam.mp3"
+          },
+          {
+            "Title": "All The Things You Are",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/07 All The Things You Are.mp3"
+          },
+          {
+            "Title": "Dizzy Atmosphere",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/08 Dizzy Atmosphere.mp3"
+          },
+          {
+            "Title": "East of the Sun",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/09 East of the Sun.mp3"
+          },
+          {
+            "Title": "Shaw Nuff",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/10 Shaw Nuff.mp3"
+          },
+          {
+            "Title": "Hot House",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/11 Hot House.mp3"
+          },
+          {
+            "Title": "Mean To Me",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/12 Mean To Me.mp3"
+          },
+          {
+            "Title": "A Handfulla Gimme",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/13 A Handfulla Gimme.mp3"
+          },
+          {
+            "Title": "Cherokee",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/14 Cherokee.mp3"
+          },
+          {
+            "Title": "On the Alamo",
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/15 On the Alamo.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Eddie Jefferson",
     "Albums": [
       {
@@ -970,6 +1455,28 @@ export const cdVault =
   {
     "Name": "Eric Dolphy",
     "Albums": [
+      {
+        "Title": "Eric Dolphy In Europe, Vol 1",
+        "Cover": "Eric Dolphy/Eric Dolphy In Europe, Vol 1/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Hi Fly",
+            "Url": "Eric Dolphy/Eric Dolphy In Europe, Vol 1/01 Hi Fly.mp3"
+          },
+          {
+            "Title": "Glad To Be Unhappy",
+            "Url": "Eric Dolphy/Eric Dolphy In Europe, Vol 1/02 Glad To Be Unhappy.mp3"
+          },
+          {
+            "Title": "God Bless the Child",
+            "Url": "Eric Dolphy/Eric Dolphy In Europe, Vol 1/03 God Bless the Child.mp3"
+          },
+          {
+            "Title": "Oleo",
+            "Url": "Eric Dolphy/Eric Dolphy In Europe, Vol 1/04 Oleo.mp3"
+          }
+        ]
+      },
       {
         "Title": "The Essential Eric Dolphy",
         "Cover": "Eric Dolphy/The Essential Eric Dolphy/Folder.jpg",
@@ -1629,6 +2136,25 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Ornette Coleman Double Quartet",
+    "Albums": [
+      {
+        "Title": "Free Jazz- A Collective Improvisation",
+        "Cover": "Ornette Coleman Double Quartet/Free Jazz- A Collective Improvisation/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Free Jazz (Part 1)",
+            "Url": "Ornette Coleman Double Quartet/Free Jazz- A Collective Improvisation/01 Free Jazz (Part 1).mp3"
+          },
+          {
+            "Title": "Free Jazz (Part 2)",
+            "Url": "Ornette Coleman Double Quartet/Free Jazz- A Collective Improvisation/02 Free Jazz (Part 2).mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Rahsaan Roland Kirk",
     "Albums": [
       {
@@ -1716,6 +2242,52 @@ export const cdVault =
             "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/20 Side Four.mp3"
           }
         ]
+      },
+      {
+        "Title": "The Man Who Cried Fire",
+        "Cover": "Rahsaan Roland Kirk/The Man Who Cried Fire/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Slow Blues",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/01 Slow Blues.mp3"
+          },
+          {
+            "Title": "Bye Bye Black Bird",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/02 Bye Bye Black Bird.mp3"
+          },
+          {
+            "Title": "Multi-Horn Variations",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/03 Multi-Horn Variations.mp3"
+          },
+          {
+            "Title": "Unidentified Tenor Selection",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/04 Unidentified Tenor Selection.mp3"
+          },
+          {
+            "Title": "You Did It, You Did It",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/05 You Did It, You Did It.mp3"
+          },
+          {
+            "Title": "New Orleans Fantasy",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/06 New Orleans Fantasy.mp3"
+          },
+          {
+            "Title": "Night Train",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/07 Night Train.mp3"
+          },
+          {
+            "Title": "Mister Pc",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/08 Mister Pc.mp3"
+          },
+          {
+            "Title": "A Visit From The Blues",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/09 A Visit From The Blues.mp3"
+          },
+          {
+            "Title": "Hidden",
+            "Url": "Rahsaan Roland Kirk/The Man Who Cried Fire/10 Hidden.mp3"
+          }
+        ]
       }
     ]
   },
@@ -1753,6 +2325,53 @@ export const cdVault =
           {
             "Title": "The Skaters Waltz [Instrumental]",
             "Url": "Roland Kirk, Jack McDuff/Kirk's Work/07 The Skaters Waltz [Instrumental].mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Stanley Turrentine",
+    "Albums": [
+      {
+        "Title": "The Best Of Stanley Turrentine",
+        "Cover": "Stanley Turrentine/The Best Of Stanley Turrentine/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Little Sheri",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/01 Little Sheri.mp3"
+          },
+          {
+            "Title": "Since I Fell For You",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/02 Since I Fell For You.mp3"
+          },
+          {
+            "Title": "River's Invitation",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/03 River's Invitation.mp3"
+          },
+          {
+            "Title": "In Memory Of",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/04 In Memory Of.mp3"
+          },
+          {
+            "Title": "Smiley Stacy",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/05 Smiley Stacy.mp3"
+          },
+          {
+            "Title": "God Bless The Child",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/06 God Bless The Child.mp3"
+          },
+          {
+            "Title": "Feelin' Good",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/07 Feelin' Good.mp3"
+          },
+          {
+            "Title": "Lonesome Lover",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/08 Lonesome Lover.mp3"
+          },
+          {
+            "Title": "Plum",
+            "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/09 Plum.mp3"
           }
         ]
       }

@@ -24,6 +24,10 @@ Function Update-Blob-Storage {
             $result = Get-AzStorageBlob @GetBlobParams -ErrorAction Stop
             $exists = $result.Length -gt 0
         }
+        catch
+        {
+            $exists = $false
+        }
         finally
         {
             if (!$exists)
