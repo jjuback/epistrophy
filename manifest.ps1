@@ -35,7 +35,7 @@ class Artist {
 }
 
 # Process an individual blob storage item (either an audio file or JPEG image)
-Function Process-Blob {
+Function Update-Blob-Manifest {
     [CmdletBinding()]
     Param(
         [Parameter(ValueFromPipeline=$true)]$blob
@@ -52,14 +52,14 @@ Function Process-Blob {
 
         # Find or create the artist
         $objArtist = $global:Artists | Where-Object { $_.Name -eq $artist }
-        if ($objArtist -eq $null) {
+        if ($null -eq $objArtist) {
             $objArtist = [Artist]::new($artist)
             $global:Artists.Add($objArtist)    
         }
 
         # Find or create the album
         $objAlbum = $objArtist.Albums | Where-Object { $_.Title -eq $album }
-        if ($objAlbum -eq $null) {
+        if ($null -eq $objAlbum) {
             $objAlbum = [Album]::new($album)
             $objArtist.Albums.Add($objAlbum)
         }
@@ -86,7 +86,7 @@ $global:Artists = New-Object "System.Collections.Generic.List[Artist]"
 
 # Process all blobs in the storage container
 $vault = Get-AzStorageContainer -Name "cd-vault" -Context $Context
-$vault | Get-AzStorageBlob | Process-Blob
+$vault | Get-AzStorageBlob | Update-Blob-Manifest
 
 # Output the artist list as a Javascript array
 $json = ".\\src\\data.js"

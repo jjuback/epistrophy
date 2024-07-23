@@ -1,6 +1,6 @@
 ### Upload new media from the local Music folder
 
-Function Upload-Blob {
+Function Update-Blob-Storage {
     [CmdletBinding()]
     Param(
         [Parameter(ValueFromPipelineByPropertyName)]
@@ -50,10 +50,10 @@ $global:ContainerName = 'cd-vault'
 Push-Location $HOME/Music
 
 # Upload non-hidden audio files
-Get-ChildItem -LiteralPath $HOME/Music -File -Recurse | Upload-Blob
+Get-ChildItem -LiteralPath $HOME/Music -File -Recurse | Update-Blob-Storage
 
 # Upload hidden image files
-Get-ChildItem -LiteralPath $HOME/Music -File -Recurse -Hidden -Filter "Folder.jpg" | Upload-Blob
+Get-ChildItem -LiteralPath $HOME/Music -File -Recurse -Hidden -Filter "Folder.jpg" | Update-Blob-Storage
 
 # Restore current directory
 Pop-Location
