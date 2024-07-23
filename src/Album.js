@@ -10,8 +10,10 @@ export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
   useEffect(() => {
     const audio = document.getElementById("audioElement");
-    audio.autoPlay = trackNo > 0;
     audio.src = makeUrl(props.Tracks[trackNo].Url);
+    if (trackNo > 0) {
+        audio.play();
+    }
     navigator.mediaSession.metadata = new MediaMetadata({
         title: props.Tracks[trackNo].Title,
         artist: props.Artist,
