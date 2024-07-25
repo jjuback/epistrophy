@@ -452,6 +452,89 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Bud Powell Trio",
+    "Albums": [
+      {
+        "Title": "Time Was",
+        "Cover": "Bud Powell Trio/Time Was/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "There Will Never Be Another You",
+            "Url": "Bud Powell Trio/Time Was/01 There Will Never Be Another You.mp3"
+          },
+          {
+            "Title": "They Didn't Believe Me",
+            "Url": "Bud Powell Trio/Time Was/02 They Didn't Believe Me.mp3"
+          },
+          {
+            "Title": "I Cover The Waterfront",
+            "Url": "Bud Powell Trio/Time Was/03 I Cover The Waterfront.mp3"
+          },
+          {
+            "Title": "Time Was",
+            "Url": "Bud Powell Trio/Time Was/04 Time Was.mp3"
+          },
+          {
+            "Title": "Topsy Turvy",
+            "Url": "Bud Powell Trio/Time Was/05 Topsy Turvy.mp3"
+          },
+          {
+            "Title": "Elegy",
+            "Url": "Bud Powell Trio/Time Was/06 Elegy.mp3"
+          },
+          {
+            "Title": "Coscrane",
+            "Url": "Bud Powell Trio/Time Was/07 Coscrane.mp3"
+          },
+          {
+            "Title": "Jump City",
+            "Url": "Bud Powell Trio/Time Was/08 Jump City.mp3"
+          },
+          {
+            "Title": "Blues For Bessie",
+            "Url": "Bud Powell Trio/Time Was/09 Blues For Bessie.mp3"
+          },
+          {
+            "Title": "Salt Peanuts",
+            "Url": "Bud Powell Trio/Time Was/10 Salt Peanuts.mp3"
+          },
+          {
+            "Title": "Swedish Pastry",
+            "Url": "Bud Powell Trio/Time Was/11 Swedish Pastry.mp3"
+          },
+          {
+            "Title": "Shawnuff",
+            "Url": "Bud Powell Trio/Time Was/12 Shawnuff.mp3"
+          },
+          {
+            "Title": "Midway",
+            "Url": "Bud Powell Trio/Time Was/13 Midway.mp3"
+          },
+          {
+            "Title": "Oblivion",
+            "Url": "Bud Powell Trio/Time Was/14 Oblivion.mp3"
+          },
+          {
+            "Title": "Get It",
+            "Url": "Bud Powell Trio/Time Was/15 Get It.mp3"
+          },
+          {
+            "Title": "Another Dozen",
+            "Url": "Bud Powell Trio/Time Was/16 Another Dozen.mp3"
+          },
+          {
+            "Title": "She",
+            "Url": "Bud Powell Trio/Time Was/17 She.mp3"
+          },
+          {
+            "Title": "Birdland Blues",
+            "Url": "Bud Powell Trio/Time Was/18 Birdland Blues.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Bud Powell",
     "Albums": [
       {
@@ -618,6 +701,94 @@ export const cdVault =
   {
     "Name": "Charles Mingus",
     "Albums": [
+      {
+        "Title": "Epitaph [Disc 1]",
+        "Cover": "Charles Mingus/Epitaph [Disc 1]/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Main Score, Pt. 1",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/01 Main Score, Pt. 1.mp3"
+          },
+          {
+            "Title": "Percussion Discussion",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/02 Percussion Discussion.mp3"
+          },
+          {
+            "Title": "Main Score, Pt. 2",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/03 Main Score, Pt. 2.mp3"
+          },
+          {
+            "Title": "Started Melody",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/04 Started Melody.mp3"
+          },
+          {
+            "Title": "Better Get It In Your Soul",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/05 Better Get It In Your Soul.mp3"
+          },
+          {
+            "Title": "The Soul",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/06 The Soul.mp3"
+          },
+          {
+            "Title": "Moods In Mambo",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/07 Moods In Mambo.mp3"
+          },
+          {
+            "Title": "Self Portrait - Chill Of Death",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/08 Self Portrait - Chill Of Death.mp3"
+          },
+          {
+            "Title": "O.P. (Oscar Pettiford)",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/09 O.P. (Oscar Pettiford).mp3"
+          },
+          {
+            "Title": "Please Don't Come Back From The Moon",
+            "Url": "Charles Mingus/Epitaph [Disc 1]/10 Please Don't Come Back From The Moon.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Epitaph [Disc 2]",
+        "Cover": "Charles Mingus/Epitaph [Disc 2]/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Monk, Bunk & Vice Versa (Osmotin')",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/01 Monk, Bunk & Vice Versa (Osmotin').mp3"
+          },
+          {
+            "Title": "Peggy's Blue Skylight [Album Version]",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/02 Peggy's Blue Skylight [Album Version].mp3"
+          },
+          {
+            "Title": "Wolverine Blues [Album Version]",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/03 Wolverine Blues [Album Version].mp3"
+          },
+          {
+            "Title": "The Children's Hour Of Dream [Album Version]",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/04 The Children's Hour Of Dream [Album Version].mp3"
+          },
+          {
+            "Title": "Ballad (In Other Words, I Am Three) [Album Version]",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/05 Ballad (In Other Words, I Am Three) [Album Version].mp3"
+          },
+          {
+            "Title": "Freedom - Part Two [Album Version]",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/06 Freedom - Part Two [Album Version].mp3"
+          },
+          {
+            "Title": "Interlude(The Underdog Rising) [Album Version]",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/07 Interlude(The Underdog Rising) [Album Version].mp3"
+          },
+          {
+            "Title": "Noon Night [Album Version]",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/08 Noon Night [Album Version].mp3"
+          },
+          {
+            "Title": "Main Score Reprise [Album Version]",
+            "Url": "Charles Mingus/Epitaph [Disc 2]/09 Main Score Reprise [Album Version].mp3"
+          }
+        ]
+      },
       {
         "Title": "Pithecanthropus Erectus",
         "Cover": "Charles Mingus/Pithecanthropus Erectus/Folder.jpg",
@@ -1379,7 +1550,7 @@ export const cdVault =
     "Albums": [
       {
         "Title": "Early Circle",
-        "Cover": null,
+        "Cover": "Chick Corea/Early Circle/Folder.jpg",
         "Tracks": [
           {
             "Title": "Starp",
@@ -2182,6 +2353,53 @@ export const cdVault =
           {
             "Title": "Big Nick",
             "Url": "John Coltrane/The Original Master Tapes/07 Big Nick.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Kronos Quartet, Ron Carter",
+    "Albums": [
+      {
+        "Title": "Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk",
+        "Cover": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Well You Needn't",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/01 Well You Needn't.mp3"
+          },
+          {
+            "Title": "Rhythm-A-Ning",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/02 Rhythm-A-Ning.mp3"
+          },
+          {
+            "Title": "Crepuscule With Nellie",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/03 Crepuscule With Nellie.mp3"
+          },
+          {
+            "Title": "Off Minor - Epistrophy",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/04 Off Minor - Epistrophy.mp3"
+          },
+          {
+            "Title": "'Round Midnight",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/05 'Round Midnight.mp3"
+          },
+          {
+            "Title": "Misterioso",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/06 Misterioso.mp3"
+          },
+          {
+            "Title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/07 It Don't Mean A Thing (If It Ain't Got That Swing).mp3"
+          },
+          {
+            "Title": "Black And Tan Fantasy",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/08 Black And Tan Fantasy.mp3"
+          },
+          {
+            "Title": "Brilliant Corners",
+            "Url": "Kronos Quartet, Ron Carter/Monk Suite- Kronos Quartet Plays Music Of Thelonious Monk/09 Brilliant Corners.mp3"
           }
         ]
       }
@@ -3023,89 +3241,6 @@ export const cdVault =
           {
             "Title": "Plum",
             "Url": "Stanley Turrentine/The Best Of Stanley Turrentine/09 Plum.mp3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "The Bud Powell Trio",
-    "Albums": [
-      {
-        "Title": "Time Was",
-        "Cover": "The Bud Powell Trio/Time Was/Folder.jpg",
-        "Tracks": [
-          {
-            "Title": "There Will Never Be Another You",
-            "Url": "The Bud Powell Trio/Time Was/01 There Will Never Be Another You.mp3"
-          },
-          {
-            "Title": "They Didn't Believe Me",
-            "Url": "The Bud Powell Trio/Time Was/02 They Didn't Believe Me.mp3"
-          },
-          {
-            "Title": "I Cover The Waterfront",
-            "Url": "The Bud Powell Trio/Time Was/03 I Cover The Waterfront.mp3"
-          },
-          {
-            "Title": "Time Was",
-            "Url": "The Bud Powell Trio/Time Was/04 Time Was.mp3"
-          },
-          {
-            "Title": "Topsy Turvy",
-            "Url": "The Bud Powell Trio/Time Was/05 Topsy Turvy.mp3"
-          },
-          {
-            "Title": "Elegy",
-            "Url": "The Bud Powell Trio/Time Was/06 Elegy.mp3"
-          },
-          {
-            "Title": "Coscrane",
-            "Url": "The Bud Powell Trio/Time Was/07 Coscrane.mp3"
-          },
-          {
-            "Title": "Jump City",
-            "Url": "The Bud Powell Trio/Time Was/08 Jump City.mp3"
-          },
-          {
-            "Title": "Blues For Bessie",
-            "Url": "The Bud Powell Trio/Time Was/09 Blues For Bessie.mp3"
-          },
-          {
-            "Title": "Salt Peanuts",
-            "Url": "The Bud Powell Trio/Time Was/10 Salt Peanuts.mp3"
-          },
-          {
-            "Title": "Swedish Pastry",
-            "Url": "The Bud Powell Trio/Time Was/11 Swedish Pastry.mp3"
-          },
-          {
-            "Title": "Shawnuff",
-            "Url": "The Bud Powell Trio/Time Was/12 Shawnuff.mp3"
-          },
-          {
-            "Title": "Midway",
-            "Url": "The Bud Powell Trio/Time Was/13 Midway.mp3"
-          },
-          {
-            "Title": "Oblivion",
-            "Url": "The Bud Powell Trio/Time Was/14 Oblivion.mp3"
-          },
-          {
-            "Title": "Get It",
-            "Url": "The Bud Powell Trio/Time Was/15 Get It.mp3"
-          },
-          {
-            "Title": "Another Dozen",
-            "Url": "The Bud Powell Trio/Time Was/16 Another Dozen.mp3"
-          },
-          {
-            "Title": "She",
-            "Url": "The Bud Powell Trio/Time Was/17 She.mp3"
-          },
-          {
-            "Title": "Birdland Blues",
-            "Url": "The Bud Powell Trio/Time Was/18 Birdland Blues.mp3"
           }
         ]
       }
