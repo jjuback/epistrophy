@@ -73,6 +73,44 @@ export const cdVault =
     "Name": "Art Blakey",
     "Albums": [
       {
+        "Title": "At The Cafe Bohemia Volume 2",
+        "Cover": "Art Blakey/At The Cafe Bohemia Volume 2/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Sportin' Crowd",
+            "Url": "Art Blakey/At The Cafe Bohemia Volume 2/01 Sportin' Crowd.mp3"
+          },
+          {
+            "Title": "Like Someone In Love",
+            "Url": "Art Blakey/At The Cafe Bohemia Volume 2/02 Like Someone In Love.mp3"
+          },
+          {
+            "Title": "Yesterdays",
+            "Url": "Art Blakey/At The Cafe Bohemia Volume 2/03 Yesterdays.mp3"
+          },
+          {
+            "Title": "Just One Of Those Things",
+            "Url": "Art Blakey/At The Cafe Bohemia Volume 2/04 Just One Of Those Things.mp3"
+          },
+          {
+            "Title": "Hanks Symphony",
+            "Url": "Art Blakey/At The Cafe Bohemia Volume 2/05 Hanks Symphony.mp3"
+          },
+          {
+            "Title": "Gone With The Wind",
+            "Url": "Art Blakey/At The Cafe Bohemia Volume 2/06 Gone With The Wind.mp3"
+          },
+          {
+            "Title": "Avila & Tequila",
+            "Url": "Art Blakey/At The Cafe Bohemia Volume 2/07 Avila & Tequila.mp3"
+          },
+          {
+            "Title": "I Waited For You",
+            "Url": "Art Blakey/At The Cafe Bohemia Volume 2/08 I Waited For You.mp3"
+          }
+        ]
+      },
+      {
         "Title": "Moanin'",
         "Cover": "Art Blakey/Moanin'/Folder.jpg",
         "Tracks": [
@@ -1737,6 +1775,41 @@ export const cdVault =
     ]
   },
   {
+    "Name": "David Murray Quartet",
+    "Albums": [
+      {
+        "Title": "Tenors",
+        "Cover": "David Murray Quartet/Tenors/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Equinox",
+            "Url": "David Murray Quartet/Tenors/01 Equinox.mp3"
+          },
+          {
+            "Title": "Ghosts",
+            "Url": "David Murray Quartet/Tenors/02 Ghosts.mp3"
+          },
+          {
+            "Title": "Over Time",
+            "Url": "David Murray Quartet/Tenors/03 Over Time.mp3"
+          },
+          {
+            "Title": "Perfection",
+            "Url": "David Murray Quartet/Tenors/04 Perfection.mp3"
+          },
+          {
+            "Title": "Chelsea",
+            "Url": "David Murray Quartet/Tenors/05 Chelsea.mp3"
+          },
+          {
+            "Title": "St Thomas",
+            "Url": "David Murray Quartet/Tenors/06 St Thomas.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker",
     "Albums": [
       {
@@ -2137,6 +2210,41 @@ export const cdVault =
           {
             "Title": "Blowin' The Blues Away",
             "Url": "Horace Silver/The Best Of Horace Silver, Vol. 1/12 Blowin' The Blues Away.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Jackie McLean",
+    "Albums": [
+      {
+        "Title": "Demon's Dance",
+        "Cover": "Jackie McLean/Demon's Dance/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Demon's Dance",
+            "Url": "Jackie McLean/Demon's Dance/01 Demon's Dance.mp3"
+          },
+          {
+            "Title": "Toyland",
+            "Url": "Jackie McLean/Demon's Dance/02 Toyland.mp3"
+          },
+          {
+            "Title": "Boo Ann's Grind",
+            "Url": "Jackie McLean/Demon's Dance/03 Boo Ann's Grind.mp3"
+          },
+          {
+            "Title": "Sweet Love Of Mine",
+            "Url": "Jackie McLean/Demon's Dance/04 Sweet Love Of Mine.mp3"
+          },
+          {
+            "Title": "Floogeh",
+            "Url": "Jackie McLean/Demon's Dance/05 Floogeh.mp3"
+          },
+          {
+            "Title": "Message From Trane",
+            "Url": "Jackie McLean/Demon's Dance/06 Message From Trane.mp3"
           }
         ]
       }
@@ -2783,6 +2891,45 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Mal Waldron",
+    "Albums": [
+      {
+        "Title": "The Quest",
+        "Cover": "Mal Waldron/The Quest/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Status Seeking [Remastered 2015]",
+            "Url": "Mal Waldron/The Quest/01 Status Seeking [Remastered 2015].mp3"
+          },
+          {
+            "Title": "Duquility [Remastered 2015]",
+            "Url": "Mal Waldron/The Quest/02 Duquility [Remastered 2015].mp3"
+          },
+          {
+            "Title": "Thirteen [Remastered 2015]",
+            "Url": "Mal Waldron/The Quest/03 Thirteen [Remastered 2015].mp3"
+          },
+          {
+            "Title": "We Diddit [Remastered 2015]",
+            "Url": "Mal Waldron/The Quest/04 We Diddit [Remastered 2015].mp3"
+          },
+          {
+            "Title": "Warm Canto [Remastered 2015]",
+            "Url": "Mal Waldron/The Quest/05 Warm Canto [Remastered 2015].mp3"
+          },
+          {
+            "Title": "Warp and Woof [Remastered 2015]",
+            "Url": "Mal Waldron/The Quest/06 Warp and Woof [Remastered 2015].mp3"
+          },
+          {
+            "Title": "Fire Waltz [Remastered 2015]",
+            "Url": "Mal Waldron/The Quest/07 Fire Waltz [Remastered 2015].mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Max Roach Double Quartet",
     "Albums": [
       {
@@ -3011,7 +3158,7 @@ export const cdVault =
     "Albums": [
       {
         "Title": "Expandable Language",
-        "Cover": null,
+        "Cover": "Oliver Lake Quintet/Expandable Language/Folder.jpg",
         "Tracks": [
           {
             "Title": "Expandable Language",
