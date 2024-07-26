@@ -70,45 +70,6 @@ export const cdVault =
     ]
   },
   {
-    "Name": "Art Blakey & The Jazz Messengers",
-    "Albums": [
-      {
-        "Title": "The Big Beat",
-        "Cover": "Art Blakey & The Jazz Messengers/The Big Beat/Folder.jpg",
-        "Tracks": [
-          {
-            "Title": "The Chess Players",
-            "Url": "Art Blakey & The Jazz Messengers/The Big Beat/01 The Chess Players.mp3"
-          },
-          {
-            "Title": "Sakeena's Vision",
-            "Url": "Art Blakey & The Jazz Messengers/The Big Beat/02 Sakeena's Vision.mp3"
-          },
-          {
-            "Title": "Politely",
-            "Url": "Art Blakey & The Jazz Messengers/The Big Beat/03 Politely.mp3"
-          },
-          {
-            "Title": "Dat Dere",
-            "Url": "Art Blakey & The Jazz Messengers/The Big Beat/04 Dat Dere.mp3"
-          },
-          {
-            "Title": "Lester Left Town",
-            "Url": "Art Blakey & The Jazz Messengers/The Big Beat/05 Lester Left Town.mp3"
-          },
-          {
-            "Title": "It's Only A Paper Moon",
-            "Url": "Art Blakey & The Jazz Messengers/The Big Beat/06 It's Only A Paper Moon.mp3"
-          },
-          {
-            "Title": "It's Only A Paper Moon [Alternate Take]",
-            "Url": "Art Blakey & The Jazz Messengers/The Big Beat/07 It's Only A Paper Moon [Alternate Take].mp3"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "Name": "Art Blakey",
     "Albums": [
       {
@@ -142,6 +103,40 @@ export const cdVault =
           {
             "Title": "Come Rain Or Come Shine",
             "Url": "Art Blakey/Moanin'/07 Come Rain Or Come Shine.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "The Big Beat",
+        "Cover": "Art Blakey/The Big Beat/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "The Chess Players",
+            "Url": "Art Blakey/The Big Beat/01 The Chess Players.mp3"
+          },
+          {
+            "Title": "Sakeena's Vision",
+            "Url": "Art Blakey/The Big Beat/02 Sakeena's Vision.mp3"
+          },
+          {
+            "Title": "Politely",
+            "Url": "Art Blakey/The Big Beat/03 Politely.mp3"
+          },
+          {
+            "Title": "Dat Dere",
+            "Url": "Art Blakey/The Big Beat/04 Dat Dere.mp3"
+          },
+          {
+            "Title": "Lester Left Town",
+            "Url": "Art Blakey/The Big Beat/05 Lester Left Town.mp3"
+          },
+          {
+            "Title": "It's Only A Paper Moon",
+            "Url": "Art Blakey/The Big Beat/06 It's Only A Paper Moon.mp3"
+          },
+          {
+            "Title": "It's Only A Paper Moon [Alternate Take]",
+            "Url": "Art Blakey/The Big Beat/07 It's Only A Paper Moon [Alternate Take].mp3"
           }
         ]
       },
@@ -452,89 +447,6 @@ export const cdVault =
     ]
   },
   {
-    "Name": "Bud Powell Trio",
-    "Albums": [
-      {
-        "Title": "Time Was",
-        "Cover": "Bud Powell Trio/Time Was/Folder.jpg",
-        "Tracks": [
-          {
-            "Title": "There Will Never Be Another You",
-            "Url": "Bud Powell Trio/Time Was/01 There Will Never Be Another You.mp3"
-          },
-          {
-            "Title": "They Didn't Believe Me",
-            "Url": "Bud Powell Trio/Time Was/02 They Didn't Believe Me.mp3"
-          },
-          {
-            "Title": "I Cover The Waterfront",
-            "Url": "Bud Powell Trio/Time Was/03 I Cover The Waterfront.mp3"
-          },
-          {
-            "Title": "Time Was",
-            "Url": "Bud Powell Trio/Time Was/04 Time Was.mp3"
-          },
-          {
-            "Title": "Topsy Turvy",
-            "Url": "Bud Powell Trio/Time Was/05 Topsy Turvy.mp3"
-          },
-          {
-            "Title": "Elegy",
-            "Url": "Bud Powell Trio/Time Was/06 Elegy.mp3"
-          },
-          {
-            "Title": "Coscrane",
-            "Url": "Bud Powell Trio/Time Was/07 Coscrane.mp3"
-          },
-          {
-            "Title": "Jump City",
-            "Url": "Bud Powell Trio/Time Was/08 Jump City.mp3"
-          },
-          {
-            "Title": "Blues For Bessie",
-            "Url": "Bud Powell Trio/Time Was/09 Blues For Bessie.mp3"
-          },
-          {
-            "Title": "Salt Peanuts",
-            "Url": "Bud Powell Trio/Time Was/10 Salt Peanuts.mp3"
-          },
-          {
-            "Title": "Swedish Pastry",
-            "Url": "Bud Powell Trio/Time Was/11 Swedish Pastry.mp3"
-          },
-          {
-            "Title": "Shawnuff",
-            "Url": "Bud Powell Trio/Time Was/12 Shawnuff.mp3"
-          },
-          {
-            "Title": "Midway",
-            "Url": "Bud Powell Trio/Time Was/13 Midway.mp3"
-          },
-          {
-            "Title": "Oblivion",
-            "Url": "Bud Powell Trio/Time Was/14 Oblivion.mp3"
-          },
-          {
-            "Title": "Get It",
-            "Url": "Bud Powell Trio/Time Was/15 Get It.mp3"
-          },
-          {
-            "Title": "Another Dozen",
-            "Url": "Bud Powell Trio/Time Was/16 Another Dozen.mp3"
-          },
-          {
-            "Title": "She",
-            "Url": "Bud Powell Trio/Time Was/17 She.mp3"
-          },
-          {
-            "Title": "Birdland Blues",
-            "Url": "Bud Powell Trio/Time Was/18 Birdland Blues.mp3"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "Name": "Bud Powell",
     "Albums": [
       {
@@ -658,6 +570,84 @@ export const cdVault =
           {
             "Title": "Like Someone In Love",
             "Url": "Bud Powell/The Best Of Bud Powell/15 Like Someone In Love.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Time Was",
+        "Cover": "Bud Powell/Time Was/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "There Will Never Be Another You",
+            "Url": "Bud Powell/Time Was/01 There Will Never Be Another You.mp3"
+          },
+          {
+            "Title": "They Didn't Believe Me",
+            "Url": "Bud Powell/Time Was/02 They Didn't Believe Me.mp3"
+          },
+          {
+            "Title": "I Cover The Waterfront",
+            "Url": "Bud Powell/Time Was/03 I Cover The Waterfront.mp3"
+          },
+          {
+            "Title": "Time Was",
+            "Url": "Bud Powell/Time Was/04 Time Was.mp3"
+          },
+          {
+            "Title": "Topsy Turvy",
+            "Url": "Bud Powell/Time Was/05 Topsy Turvy.mp3"
+          },
+          {
+            "Title": "Elegy",
+            "Url": "Bud Powell/Time Was/06 Elegy.mp3"
+          },
+          {
+            "Title": "Coscrane",
+            "Url": "Bud Powell/Time Was/07 Coscrane.mp3"
+          },
+          {
+            "Title": "Jump City",
+            "Url": "Bud Powell/Time Was/08 Jump City.mp3"
+          },
+          {
+            "Title": "Blues For Bessie",
+            "Url": "Bud Powell/Time Was/09 Blues For Bessie.mp3"
+          },
+          {
+            "Title": "Salt Peanuts",
+            "Url": "Bud Powell/Time Was/10 Salt Peanuts.mp3"
+          },
+          {
+            "Title": "Swedish Pastry",
+            "Url": "Bud Powell/Time Was/11 Swedish Pastry.mp3"
+          },
+          {
+            "Title": "Shawnuff",
+            "Url": "Bud Powell/Time Was/12 Shawnuff.mp3"
+          },
+          {
+            "Title": "Midway",
+            "Url": "Bud Powell/Time Was/13 Midway.mp3"
+          },
+          {
+            "Title": "Oblivion",
+            "Url": "Bud Powell/Time Was/14 Oblivion.mp3"
+          },
+          {
+            "Title": "Get It",
+            "Url": "Bud Powell/Time Was/15 Get It.mp3"
+          },
+          {
+            "Title": "Another Dozen",
+            "Url": "Bud Powell/Time Was/16 Another Dozen.mp3"
+          },
+          {
+            "Title": "She",
+            "Url": "Bud Powell/Time Was/17 She.mp3"
+          },
+          {
+            "Title": "Birdland Blues",
+            "Url": "Bud Powell/Time Was/18 Birdland Blues.mp3"
           }
         ]
       }
@@ -1948,6 +1938,62 @@ export const cdVault =
         ]
       },
       {
+        "Title": "Last Date",
+        "Cover": "Eric Dolphy/Last Date/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Epistrophy",
+            "Url": "Eric Dolphy/Last Date/01 Epistrophy.mp3"
+          },
+          {
+            "Title": "South Street Exit",
+            "Url": "Eric Dolphy/Last Date/02 South Street Exit.mp3"
+          },
+          {
+            "Title": "Madrig Speaks, The Panther Walks",
+            "Url": "Eric Dolphy/Last Date/03 Madrig Speaks, The Panther Walks.mp3"
+          },
+          {
+            "Title": "Hypochristmutreefuzz",
+            "Url": "Eric Dolphy/Last Date/04 Hypochristmutreefuzz.mp3"
+          },
+          {
+            "Title": "You Don't Know What Love Is",
+            "Url": "Eric Dolphy/Last Date/05 You Don't Know What Love Is.mp3"
+          },
+          {
+            "Title": "Miss Ann",
+            "Url": "Eric Dolphy/Last Date/06 Miss Ann.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Out To Lunch!",
+        "Cover": "Eric Dolphy/Out To Lunch!/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Hat And Beard",
+            "Url": "Eric Dolphy/Out To Lunch!/01 Hat And Beard.mp3"
+          },
+          {
+            "Title": "Something Sweet, Something Tender",
+            "Url": "Eric Dolphy/Out To Lunch!/02 Something Sweet, Something Tender.mp3"
+          },
+          {
+            "Title": "Gazzelloni",
+            "Url": "Eric Dolphy/Out To Lunch!/03 Gazzelloni.mp3"
+          },
+          {
+            "Title": "Out To Lunch",
+            "Url": "Eric Dolphy/Out To Lunch!/04 Out To Lunch.mp3"
+          },
+          {
+            "Title": "Straight Up And Down",
+            "Url": "Eric Dolphy/Out To Lunch!/05 Straight Up And Down.mp3"
+          }
+        ]
+      },
+      {
         "Title": "The Essential Eric Dolphy",
         "Cover": "Eric Dolphy/The Essential Eric Dolphy/Folder.jpg",
         "Tracks": [
@@ -2297,6 +2343,52 @@ export const cdVault =
           {
             "Title": "Syeeda's Song Flute [Alternate]",
             "Url": "John Coltrane/Giant Steps/12 Syeeda's Song Flute [Alternate].mp3"
+          }
+        ]
+      },
+      {
+        "Title": "John Coltrane And The Jazz Giants",
+        "Cover": "John Coltrane/John Coltrane And The Jazz Giants/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Airegin",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/01 Airegin.mp3"
+          },
+          {
+            "Title": "Mating Call",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/02 Mating Call.mp3"
+          },
+          {
+            "Title": "Monk's Mood",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/03 Monk's Mood.mp3"
+          },
+          {
+            "Title": "Trinkle, Tinkle",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/04 Trinkle, Tinkle.mp3"
+          },
+          {
+            "Title": "I Love You",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/05 I Love You.mp3"
+          },
+          {
+            "Title": "Soft Lights And Sweet Music",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/06 Soft Lights And Sweet Music.mp3"
+          },
+          {
+            "Title": "Billie's Bounce",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/07 Billie's Bounce.mp3"
+          },
+          {
+            "Title": "Lover",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/08 Lover.mp3"
+          },
+          {
+            "Title": "Russian Lullaby",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/09 Russian Lullaby.mp3"
+          },
+          {
+            "Title": "Invitation",
+            "Url": "John Coltrane/John Coltrane And The Jazz Giants/10 Invitation.mp3"
           }
         ]
       },
@@ -2915,6 +3007,41 @@ export const cdVault =
     ]
   },
   {
+    "Name": "Oliver Lake Quintet",
+    "Albums": [
+      {
+        "Title": "Expandable Language",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "Expandable Language",
+            "Url": "Oliver Lake Quintet/Expandable Language/01 Expandable Language.mp3"
+          },
+          {
+            "Title": "Comous",
+            "Url": "Oliver Lake Quintet/Expandable Language/02 Comous.mp3"
+          },
+          {
+            "Title": "N. S",
+            "Url": "Oliver Lake Quintet/Expandable Language/03 N. S.mp3"
+          },
+          {
+            "Title": "Page Four",
+            "Url": "Oliver Lake Quintet/Expandable Language/04 Page Four.mp3"
+          },
+          {
+            "Title": "Soons",
+            "Url": "Oliver Lake Quintet/Expandable Language/05 Soons.mp3"
+          },
+          {
+            "Title": "Everybody Knows That",
+            "Url": "Oliver Lake Quintet/Expandable Language/06 Everybody Knows That.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Ornette Coleman Double Quartet",
     "Albums": [
       {
@@ -3247,51 +3374,86 @@ export const cdVault =
     ]
   },
   {
-    "Name": "Thelonious Monk Quartet",
-    "Albums": [
-      {
-        "Title": "Monk's Dream",
-        "Cover": "Thelonious Monk Quartet/Monk's Dream/Folder.jpg",
-        "Tracks": [
-          {
-            "Title": "Monk's Dream",
-            "Url": "Thelonious Monk Quartet/Monk's Dream/01 Monk's Dream.mp3"
-          },
-          {
-            "Title": "Body And Soul",
-            "Url": "Thelonious Monk Quartet/Monk's Dream/02 Body And Soul.mp3"
-          },
-          {
-            "Title": "Bright Mississippi",
-            "Url": "Thelonious Monk Quartet/Monk's Dream/03 Bright Mississippi.mp3"
-          },
-          {
-            "Title": "Five Spot Blues",
-            "Url": "Thelonious Monk Quartet/Monk's Dream/04 Five Spot Blues.mp3"
-          },
-          {
-            "Title": "Bolivar Blues",
-            "Url": "Thelonious Monk Quartet/Monk's Dream/05 Bolivar Blues.mp3"
-          },
-          {
-            "Title": "Just A Gigolo",
-            "Url": "Thelonious Monk Quartet/Monk's Dream/06 Just A Gigolo.mp3"
-          },
-          {
-            "Title": "Bye-Ya",
-            "Url": "Thelonious Monk Quartet/Monk's Dream/07 Bye-Ya.mp3"
-          },
-          {
-            "Title": "Sweet And Lovely",
-            "Url": "Thelonious Monk Quartet/Monk's Dream/08 Sweet And Lovely.mp3"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "Name": "Thelonious Monk",
     "Albums": [
+      {
+        "Title": "Genius Of Modern Music Vol. 2",
+        "Cover": "Thelonious Monk/Genius Of Modern Music Vol. 2/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Four In One",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/01 Four In One.mp3"
+          },
+          {
+            "Title": "Four In One [Alternative Take]",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/02 Four In One [Alternative Take].mp3"
+          },
+          {
+            "Title": "Criss Cross",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/03 Criss Cross.mp3"
+          },
+          {
+            "Title": "Criss Cross [Alternate Take]",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/04 Criss Cross [Alternate Take].mp3"
+          },
+          {
+            "Title": "Eronel",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/05 Eronel.mp3"
+          },
+          {
+            "Title": "Straight No Chaser",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/06 Straight No Chaser.mp3"
+          },
+          {
+            "Title": "Ask Me Now [Alternate Take]",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/07 Ask Me Now [Alternate Take].mp3"
+          },
+          {
+            "Title": "Ask Me Now",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/08 Ask Me Now.mp3"
+          },
+          {
+            "Title": "Willow Weep For Me",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/09 Willow Weep For Me.mp3"
+          },
+          {
+            "Title": "Skippy",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/10 Skippy.mp3"
+          },
+          {
+            "Title": "Skippy [Alternate Take]",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/11 Skippy [Alternate Take].mp3"
+          },
+          {
+            "Title": "Hornin' In [Alternate Take]",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/12 Hornin' In [Alternate Take].mp3"
+          },
+          {
+            "Title": "Hornin' In",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/13 Hornin' In.mp3"
+          },
+          {
+            "Title": "Sixteen [First Take]",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/14 Sixteen [First Take].mp3"
+          },
+          {
+            "Title": "Sixteen [Second Take]",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/15 Sixteen [Second Take].mp3"
+          },
+          {
+            "Title": "Carolina Moon",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/16 Carolina Moon.mp3"
+          },
+          {
+            "Title": "Let's Cool One",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/17 Let's Cool One.mp3"
+          },
+          {
+            "Title": "I'll Follow You",
+            "Url": "Thelonious Monk/Genius Of Modern Music Vol. 2/18 I'll Follow You.mp3"
+          }
+        ]
+      },
       {
         "Title": "Monk's Classic Recordings",
         "Cover": "Thelonious Monk/Monk's Classic Recordings/Folder.jpg",
@@ -3343,6 +3505,44 @@ export const cdVault =
           {
             "Title": "Something In Blue",
             "Url": "Thelonious Monk/Monk's Classic Recordings/12 Something In Blue.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Monk's Dream",
+        "Cover": "Thelonious Monk/Monk's Dream/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Monk's Dream",
+            "Url": "Thelonious Monk/Monk's Dream/01 Monk's Dream.mp3"
+          },
+          {
+            "Title": "Body And Soul",
+            "Url": "Thelonious Monk/Monk's Dream/02 Body And Soul.mp3"
+          },
+          {
+            "Title": "Bright Mississippi",
+            "Url": "Thelonious Monk/Monk's Dream/03 Bright Mississippi.mp3"
+          },
+          {
+            "Title": "Five Spot Blues",
+            "Url": "Thelonious Monk/Monk's Dream/04 Five Spot Blues.mp3"
+          },
+          {
+            "Title": "Bolivar Blues",
+            "Url": "Thelonious Monk/Monk's Dream/05 Bolivar Blues.mp3"
+          },
+          {
+            "Title": "Just A Gigolo",
+            "Url": "Thelonious Monk/Monk's Dream/06 Just A Gigolo.mp3"
+          },
+          {
+            "Title": "Bye-Ya",
+            "Url": "Thelonious Monk/Monk's Dream/07 Bye-Ya.mp3"
+          },
+          {
+            "Title": "Sweet And Lovely",
+            "Url": "Thelonious Monk/Monk's Dream/08 Sweet And Lovely.mp3"
           }
         ]
       },
@@ -3629,6 +3829,82 @@ export const cdVault =
           {
             "Title": "Crepuscule With Nellie",
             "Url": "Thelonious Monk/The Composer/11 Crepuscule With Nellie.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Thelonious Monk And The Jazz Giants",
+        "Cover": "Thelonious Monk/Thelonious Monk And The Jazz Giants/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Bemsha Swing",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/01 Bemsha Swing.mp3"
+          },
+          {
+            "Title": "Crepuscule With Nellie",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/02 Crepuscule With Nellie.mp3"
+          },
+          {
+            "Title": "Nutty",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/03 Nutty.mp3"
+          },
+          {
+            "Title": "I Mean You",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/04 I Mean You.mp3"
+          },
+          {
+            "Title": "Pea Eye",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/05 Pea Eye.mp3"
+          },
+          {
+            "Title": "In Walked Bud",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/06 In Walked Bud.mp3"
+          },
+          {
+            "Title": "Little Rootie Tootie [Live]",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/07 Little Rootie Tootie [Live].mp3"
+          },
+          {
+            "Title": "Played Twice",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/08 Played Twice.mp3"
+          },
+          {
+            "Title": "San Francisco Holiday (Worry Later) [Live]",
+            "Url": "Thelonious Monk/Thelonious Monk And The Jazz Giants/09 San Francisco Holiday (Worry Later) [Live].mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Underground",
+        "Cover": "Thelonious Monk/Underground/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Thelonious",
+            "Url": "Thelonious Monk/Underground/01 Thelonious.mp3"
+          },
+          {
+            "Title": "Ugly Beauty",
+            "Url": "Thelonious Monk/Underground/02 Ugly Beauty.mp3"
+          },
+          {
+            "Title": "Raise Four",
+            "Url": "Thelonious Monk/Underground/03 Raise Four.mp3"
+          },
+          {
+            "Title": "Boo Boo's Birthday",
+            "Url": "Thelonious Monk/Underground/04 Boo Boo's Birthday.mp3"
+          },
+          {
+            "Title": "Easy Street",
+            "Url": "Thelonious Monk/Underground/05 Easy Street.mp3"
+          },
+          {
+            "Title": "Green Chimneys",
+            "Url": "Thelonious Monk/Underground/06 Green Chimneys.mp3"
+          },
+          {
+            "Title": "In Walked Bud",
+            "Url": "Thelonious Monk/Underground/07 In Walked Bud.mp3"
           }
         ]
       }
