@@ -8,8 +8,7 @@ import Figure from 'react-bootstrap/Figure';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Stack from 'react-bootstrap/Stack';
-import Button from 'react-bootstrap/Button';
+import Navbar from 'react-bootstrap/Navbar';
 
 export const Artists = (props) => {
 
@@ -19,34 +18,20 @@ export const Artists = (props) => {
   
   return (
     <>
-      <Stack direction="horizontal" gap={1} className="fixed-top bg-dark py-3 justify-content-center">
-        <Button variant="primary" className="btn-sm">A</Button>
-        <Button variant="primary" className="btn-sm">B</Button>
-        <Button variant="primary" className="btn-sm">C</Button>
-        <Button variant="primary" className="btn-sm">D</Button>
-        <Button variant="primary" className="btn-sm">E</Button>
-        <Button variant="primary" className="btn-sm">F</Button>
-        <Button variant="primary" className="btn-sm">G</Button>
-        <Button variant="primary" className="btn-sm" onClick={() => window.scrollTo(0, 400)}>H</Button>
-        <Button variant="primary" className="btn-sm">I</Button>
-        <Button variant="primary" className="btn-sm">J</Button>
-        <Button variant="primary" className="btn-sm">K</Button>
-        <Button variant="primary" className="btn-sm">L</Button>
-        <Button variant="primary" className="btn-sm">M</Button>
-        <Button variant="primary" className="btn-sm">N</Button>
-        <Button variant="primary" className="btn-sm">O</Button>
-        <Button variant="primary" className="btn-sm">P</Button>
-        <Button variant="primary" className="btn-sm">Q</Button>
-        <Button variant="primary" className="btn-sm">R</Button>
-        <Button variant="primary" className="btn-sm">S</Button>
-        <Button variant="primary" className="btn-sm">T</Button>
-        <Button variant="primary" className="btn-sm">U</Button>
-        <Button variant="primary" className="btn-sm">V</Button>
-        <Button variant="primary" className="btn-sm">W</Button>
-        <Button variant="primary" className="btn-sm">X</Button>
-        <Button variant="primary" className="btn-sm">Y</Button>
-        <Button variant="primary" className="btn-sm">Z</Button>
-      </Stack>
+      <Navbar className="fixed-top bg-body-tertiary">
+        <Container>
+          <Navbar.Brand>
+            <img
+              alt=""
+              src="/apple-touch-icon.png"
+              width="30"
+              height="30"
+              className="d-inline-block align-top"
+            />{' '}
+            Epistrophy
+          </Navbar.Brand>
+        </Container>
+      </Navbar>
       <Accordion className="mt-5" defaultActiveKey={props.current}>
         {cdVault.map((artist, key) => {
             return (
