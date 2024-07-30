@@ -1,4 +1,5 @@
 import React, {useEffect} from "react";
+import parse from "html-react-parser";
 import "./Artists.css";
 import { cdVault } from "./data";
 import { makeUrl } from "./utils";
@@ -50,7 +51,7 @@ export const Artists = (props) => {
         {cdVault.map((artist, key) => {
             return (
                 <Accordion.Item key={key} eventKey={key}>
-                    <Accordion.Header>{artist.Name}</Accordion.Header>
+                    <Accordion.Header><span>{parse(artist.DisplayName, {trim: false})}</span></Accordion.Header>
                     <Accordion.Body>
                         <Container>
                           <Row className="flex-wrap">

@@ -26,10 +26,15 @@ class Album {
 # Represents an artist with a collection of albums
 class Artist {
     [string]$Name
+    [string]$Index
+    [string]$DisplayName
     [System.Collections.Generic.List[Album]]$Albums
 
     Artist([string]$Name) {
         $this.Name = $Name
+        $hash = $global:Index.Item($Name)
+        $this.Index = $hash[0]
+        $this.DisplayName = $hash[1]
         $this.Albums = New-Object "System.Collections.Generic.List[Album]"
     }
 }
@@ -84,11 +89,17 @@ $Context = $StorageAccount.Context
 # Create empty list of artists
 $global:Artists = New-Object "System.Collections.Generic.List[Artist]"
 
+# Load index of artists
+$global:Index = Get-Content -Raw ".\\index.json" | ConvertFrom-Json -AsHashtable
+
 # Process all blobs in the storage container
 $vault = Get-AzStorageContainer -Name "cd-vault" -Context $Context
 $vault | Get-AzStorageBlob | Update-Blob-Manifest
 
+# Sort the artist list
+$global:Artists = $global:Artists | Sort-Object "Index"
+
 # Output the artist list as a Javascript array
 $json = ".\\src\\data.js"
 "export const cdVault =" | Out-File -FilePath $json
-ConvertTo-Json $global:Artists -Depth 5 | Out-File -Append -FilePath $json
+ConvertTo-Json $global:Artists -Depth 5 -EscapeHandling EscapeHtml | Out-File -Append -FilePath $json
