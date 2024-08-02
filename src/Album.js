@@ -10,7 +10,7 @@ export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
   useEffect(() => {
     const audio = document.getElementById("audioElement");
-    audio.src = makeUrl(props.Tracks[trackNo].Url);
+    audio.src = makeUrl(props.Tracks[trackNo].Url, props.genre);
     if (trackNo > 0) {
         audio.play();
     }
@@ -19,7 +19,7 @@ export const Album = (props) => {
         artist: props.Artist,
         album: props.Title,
         artwork: [
-            { src: makeUrl(props.Cover), sizes: '96x96' }
+            { src: makeUrl(props.Cover, props.genre), sizes: '96x96' }
         ]
     });
   }, [props, trackNo]);
@@ -49,7 +49,7 @@ export const Album = (props) => {
                 </ListGroup>
             </Tab>
             <Tab eventKey="cover" title="Cover">
-                <Image className="cover-large-thumbnail" src={makeUrl(props.Cover)} />
+                <Image className="cover-large-thumbnail" src={makeUrl(props.Cover, props.genre)} />
             </Tab>
         </Tabs>
     </>

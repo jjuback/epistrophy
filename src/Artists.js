@@ -54,7 +54,7 @@ export const Artists = (props) => {
                             return (
                               <Col key={index.toString()} className="col-auto figure text-center">
                                   <Figure className="align-items-center" onClick={() => { props.selectAlbum(data, artist.Name) }}>
-                                    <Figure.Image className="cover-thumbnail" src={makeUrl(data.Cover)} />
+                                    <Figure.Image className="cover-thumbnail" src={makeUrl(data.Cover, props.genre)} />
                                     <Figure.Caption className="cover-caption">
                                       {data.Title}
                                     </Figure.Caption>

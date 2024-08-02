@@ -30,7 +30,7 @@ const App = () => {
           return (
             <Container className="p-3">
               <div className="App">
-                <Album {...album} Artist={artist} goBack={goBack} />
+                <Album {...album} Artist={artist} genre={genre} goBack={goBack} />
               </div>
             </Container>
           )
