@@ -82,24 +82,41 @@ Function Update-Blob-Manifest {
     End {}
 }
 
-# Access Azure storage account
-$StorageAccount = Get-AzStorageAccount -ResourceGroupName "media-resource-group" -Name "epistrophy"
-$Context = $StorageAccount.Context
+# Build an array of artists/albums/tracks from blobs in a named storage container
+Function Build-Manifest-Array {
+    [CmdletBinding()]
+    Param(
+        [string]$ContainerName
+    )
+    Process {
+        # Access Azure storage account
+        $StorageAccount = Get-AzStorageAccount -ResourceGroupName "media-resource-group" -Name "epistrophy"
+        $Context = $StorageAccount.Context
 
-# Create empty list of artists
-$global:Artists = New-Object "System.Collections.Generic.List[Artist]"
+        # Create empty list of artists
+        $global:Artists = New-Object "System.Collections.Generic.List[Artist]"
 
-# Load index of artists
-$global:Index = Get-Content -Raw ".\\index.json" | ConvertFrom-Json -AsHashtable
+        # Load index of artists
+        $global:Index = Get-Content -Raw ".\\index.json" | ConvertFrom-Json -AsHashtable
 
-# Process all blobs in the storage container
-$vault = Get-AzStorageContainer -Name "cd-vault" -Context $Context
-$vault | Get-AzStorageBlob | Update-Blob-Manifest
+        # Process all blobs in the storage container
+        $vault = Get-AzStorageContainer -Name $ContainerName -Context $Context
+        $vault | Get-AzStorageBlob | Update-Blob-Manifest
 
-# Sort the artist list
-$global:Artists = $global:Artists | Sort-Object "Index"
+        # Sort the artist list
+        $global:Artists = $global:Artists | Sort-Object "Index"
 
-# Output the artist list as a Javascript array
+        # Return manifest array as JSON string
+        return ConvertTo-Json $global:Artists -Depth 5 -EscapeHandling EscapeHtml
+    }
+}
+
+
+# Output artist lists by genre as Javascript arrays
 $json = ".\\src\\data.js"
+
 "export const cdVault =" | Out-File -FilePath $json
-ConvertTo-Json $global:Artists -Depth 5 -EscapeHandling EscapeHtml | Out-File -Append -FilePath $json
+Build-Manifest-Array -ContainerName "cd-vault" | Out-File -Append -FilePath $json
+
+"export const cdVaultClassical =" | Out-File -Append -FilePath $json
+Build-Manifest-Array -ContainerName "cd-vault-classical" | Out-File -Append -FilePath $json
