@@ -42,7 +42,7 @@ export const Artists = (props) => {
         </Navbar.Collapse>
         </Container>
       </Navbar>
-      <Accordion className="mt-5" activeKey={props.current}>
+      <Accordion className="mt-5" defaultActiveKey={props.current}>
         {(props.genre === 0 ? cdVault : cdVaultClassical).map((artist) => {
             return (
                 <Accordion.Item key={artist.Name} eventKey={artist.Name}>
