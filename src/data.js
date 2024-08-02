@@ -4361,3 +4361,84 @@ export const cdVault =
     ]
   }
 ]
+export const cdVaultClassical =
+[
+  {
+    "Name": "Erik Satie",
+    "Index": "Erik Satie",
+    "DisplayName": "Erik Satie",
+    "Albums": [
+      {
+        "Title": "Satie- Early Piano Works [Disc 1]",
+        "Cover": "Erik Satie/Satie- Early Piano Works [Disc 1]/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Satie- Gnossiennes - 1. Lent",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/01 Satie- Gnossiennes - 1. Lent.mp3"
+          },
+          {
+            "Title": "Satie- Gnossiennes - 2. Avec Étonnement",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/02 Satie- Gnossiennes - 2. Avec Étonnement.mp3"
+          },
+          {
+            "Title": "Satie- Gnossiennes - 3. Lent",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/03 Satie- Gnossiennes - 3. Lent.mp3"
+          },
+          {
+            "Title": "Satie- Gnossiennes - 4. Lent",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/04 Satie- Gnossiennes - 4. Lent.mp3"
+          },
+          {
+            "Title": "Satie- Gnossiennes - 5. Modéré",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/05 Satie- Gnossiennes - 5. Modéré.mp3"
+          },
+          {
+            "Title": "Satie- Gnossiennes - 6. Avec Conviction Et Avec Une Tristesse Rigoureuse",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/06 Satie- Gnossiennes - 6. Avec Conviction Et Avec Une Tristesse Rigoureuse.mp3"
+          },
+          {
+            "Title": "Satie- Petite Ouverture A Danser",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/07 Satie- Petite Ouverture A Danser.mp3"
+          },
+          {
+            "Title": "Satie- Prélude De La Porte Héroïque Du Ciel",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/08 Satie- Prélude De La Porte Héroïque Du Ciel.mp3"
+          },
+          {
+            "Title": "Satie- Danses Gothiques",
+            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/09 Satie- Danses Gothiques.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Kamran Ince",
+    "Index": "Kamran Ince",
+    "DisplayName": "Kamran Ince",
+    "Albums": [
+      {
+        "Title": "Kamran Ince - Present Music",
+        "Cover": "Kamran Ince/Kamran Ince - Present Music/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Waves Of Talya",
+            "Url": "Kamran Ince/Kamran Ince - Present Music/01 Waves Of Talya.mp3"
+          },
+          {
+            "Title": "Hammer Music",
+            "Url": "Kamran Ince/Kamran Ince - Present Music/02 Hammer Music.mp3"
+          },
+          {
+            "Title": "Cross Scintillations",
+            "Url": "Kamran Ince/Kamran Ince - Present Music/03 Cross Scintillations.mp3"
+          },
+          {
+            "Title": "Night Passage",
+            "Url": "Kamran Ince/Kamran Ince - Present Music/04 Night Passage.mp3"
+          }
+        ]
+      }
+    ]
+  }
+]
