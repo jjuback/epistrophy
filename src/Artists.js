@@ -34,7 +34,7 @@ export const Artists = (props) => {
           </Navbar.Brand>
           <Navbar.Collapse className="justify-content-end">
           <Nav className="me-2">
-            <NavDropdown title="Genre" onSelect={(key, event) => { props.selectGenre(event.target.id === "genre-jazz" ? 0 : 1); }}>
+            <NavDropdown title="Genre" drop="start" onSelect={(key, event) => { props.selectGenre(event.target.id === "genre-jazz" ? 0 : 1); }}>
               <NavDropdown.Item id="genre-jazz" active={props.genre === 0}>Jazz</NavDropdown.Item>
               <NavDropdown.Item id="genre-classical" active={props.genre === 1}>Classical</NavDropdown.Item>
             </NavDropdown>
