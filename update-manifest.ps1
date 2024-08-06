@@ -45,7 +45,6 @@ Function Update-Blob-Manifest {
     Param(
         [Parameter(ValueFromPipeline=$true)]$blob
     )
-    Begin {}
     Process
     {
         $items = $blob.Name.Split("/")
@@ -79,7 +78,6 @@ Function Update-Blob-Manifest {
             $objAlbum.Cover = $blob.Name
         }
     }
-    End {}
 }
 
 # Build an array of artists/albums/tracks from blobs in a named storage container
@@ -110,7 +108,6 @@ Function Build-Manifest-Array {
         return ConvertTo-Json $global:Artists -Depth 5 -EscapeHandling EscapeHtml
     }
 }
-
 
 # Output artist lists by genre as Javascript arrays
 $json = ".\\src\\data.js"

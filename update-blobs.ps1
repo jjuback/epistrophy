@@ -70,5 +70,6 @@ Function Update-Blob-Container {
     }
 }
 
-#Update-Blob-Container -Name 'cd-vault' -LocalPath $HOME/Music
+# Scan local media folders and update Azure storage containers accordingly
+Update-Blob-Container -Name 'cd-vault' -LocalPath $HOME/Music
 Update-Blob-Container -Name 'cd-vault-classical' -LocalPath $HOME/"Classical Music"
