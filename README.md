@@ -2,8 +2,7 @@
 
 ![Epistrophy](/public/apple-touch-icon.png?raw=true)
 
-This project implements a static web app ([tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)) that provides access to a library of audio files stored in Azure.\
-It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses visual components from the [React Bootstrap](https://react-bootstrap.netlify.app/) framework.
+This project implements a static web app ([tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)) that provides access to a library of audio files stored in Azure. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses visual components from the [React Bootstrap](https://react-bootstrap.netlify.app/) framework. GitHub Actions are used to build and deploy the app whenever a commit is pushed.
 
 ![Epistrophy](/images/Epistrophy.gif)
 
@@ -85,5 +84,5 @@ File | Description
 `App.js` | The main page of the app. Displays a list of artists or the selected album, if any.
 `Artists.js` | A scrollable list of artists. Clicking an artist reveals their available albums.
 `Album.js` | Displays the tracks for the selected album. Includes an audio control for playback.
-`data.js` | The result of running the `update-manifest` script. Contains an array for each storage container (genre).
-`index.json` | Used by the `update-manifest` script to implement sorting and formatted display names for artists.
+`data.js` | Output from the `update-manifest` script. Contains an array for each storage container (genre).
+`index.json` | Used by the `update-manifest` script to sort and format display names for artists.
