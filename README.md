@@ -7,6 +7,10 @@ It was bootstrapped with [Create React App](https://github.com/facebook/create-r
 
 [tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)
 
+![Artist view](/images/Artists.png)
+
+![Tracks view](/images/Tracks.png)
+
 ## Azure Resource Scripts
 
 This project uses PowerShell scripts to create and update Azure resource groups and storage containers.\
@@ -43,6 +47,40 @@ Where `Folder.jpg` is a hidden image file representing album cover art. If Windo
 ### `update-manifest`
 
 Builds a JSON manifest file from the resources previously uploaded to the Azure storage containers. This file is used to populate the main screen of the application, providing a top-level list of artists that you can expand to reveal the available albums for each. In turn, selecting an album displays a list of its tracks with a standard HTML5 audio control for playback.
+
+For example, the media subfolder shown above is represented in the manifest file as follows:
+
+```
+{
+  "Name": "John Coltrane",
+  "Index": "Coltrane",
+  "DisplayName": "John \u003cb\u003eColtrane\u003c/b\u003e",
+  "Albums": [
+    {
+      "Title": "My Favorite Things",
+      "Cover": "John Coltrane/My Favorite Things/Folder.jpg",
+      "Tracks": [
+        {
+          "Title": "My Favorite Things",
+          "Url": "John Coltrane/My Favorite Things/01 My Favorite Things.mp3"
+        },
+        {
+          "Title": "Everytime We Say Goodbye",
+          "Url": "John Coltrane/My Favorite Things/02 Everytime We Say Goodbye.mp3"
+        },
+        {
+          "Title": "Summertime",
+          "Url": "John Coltrane/My Favorite Things/03 Summertime.mp3"
+        },
+        {
+          "Title": "But Not For Me",
+          "Url": "John Coltrane/My Favorite Things/04 But Not For Me.mp3"
+        }
+      ]
+    }
+  ]
+}
+```
 
 ## Source Files
 
