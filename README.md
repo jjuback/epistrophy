@@ -2,14 +2,10 @@
 
 ![Epistrophy](/public/apple-touch-icon.png?raw=true)
 
-This project implements a static web app that provides access to a library of audio files stored in Azure.\
+This project implements a static web app ([tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)) that provides access to a library of audio files stored in Azure.\
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses visual components from the [React Bootstrap](https://react-bootstrap.netlify.app/) framework.
 
-[tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)
-
-![Artist view](/images/Artists.png)
-
-![Tracks view](/images/Tracks.png)
+![Epistrophy](/images/Epistrophy.gif)
 
 ## Azure Resource Scripts
 
