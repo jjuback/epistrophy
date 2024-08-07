@@ -189,6 +189,11 @@
       "KirkMcDuff",
       "Roland <b>Kirk</b>, Jack <b>McDuff</b>"
     ],
+  "ROVA Saxophone Quartet":
+    [
+      "Rova",
+      "<b>ROVA</b> Saxophone Quartet"
+    ],
   "Sonny Rollins":
     [
       "Rollins",
@@ -214,9 +219,49 @@
       "VariousArtists",
       "<b>Various Artists</b>"
     ],
+  "Water Shed 5tet":
+    [
+      "WaterShed",
+      "<b>Water Shed</b> 5tet"
+    ],
   "Yusef Lateef":
     [
       "Lateef",
       "Yusef <b>Lateef</b>"
+    ],
+  "Alan Hovhaness":
+    [
+      "Hovhaness",
+      "Alan <b>Hovhaness</b>"
+    ],
+  "Conlon Nancarrow":
+    [
+      "Nancarrow",
+      "Conlon <b>Nancarrow</b>"
+    ],
+  "Erik Satie":
+    [
+      "Satie",
+      "Erik <b>Satie</b>"
+    ],
+  "György Ligeti":
+    [
+      "Ligeti",
+      "György <b>Ligeti</b>"
+    ],
+  "John Cage":
+    [
+      "Cage",
+      "John <b>Cage</b>"
+    ],
+  "Kamran Ince":
+    [
+      "Ince",
+      "Kamran <b>Ince</b>"
+    ],
+  "Kronos Quartet":
+    [
+      "Kronos",
+      "<b>Kronos</b> Quartet"
     ]
 }

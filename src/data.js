@@ -4001,6 +4001,73 @@ export const cdVault =
     ]
   },
   {
+    "Name": "ROVA Saxophone Quartet",
+    "Index": "Rova",
+    "DisplayName": "\u003cb\u003eROVA\u003c/b\u003e Saxophone Quartet",
+    "Albums": [
+      {
+        "Title": "Beat Kennel",
+        "Cover": "ROVA Saxophone Quartet/Beat Kennel/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "El Amor En Los Tiempos De La Finca",
+            "Url": "ROVA Saxophone Quartet/Beat Kennel/01 El Amor En Los Tiempos De La Finca.mp3"
+          },
+          {
+            "Title": "The Aggregate",
+            "Url": "ROVA Saxophone Quartet/Beat Kennel/02 The Aggregate.mp3"
+          },
+          {
+            "Title": "Sportspeak",
+            "Url": "ROVA Saxophone Quartet/Beat Kennel/03 Sportspeak.mp3"
+          },
+          {
+            "Title": "Composition 30 Egn Kbm",
+            "Url": "ROVA Saxophone Quartet/Beat Kennel/04 Composition 30 Egn Kbm.mp3"
+          },
+          {
+            "Title": "What Was Lost Regained",
+            "Url": "ROVA Saxophone Quartet/Beat Kennel/05 What Was Lost Regained.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "This Time We Are Both",
+        "Cover": "ROVA Saxophone Quartet/This Time We Are Both/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Introduction",
+            "Url": "ROVA Saxophone Quartet/This Time We Are Both/01 Introduction.mp3"
+          },
+          {
+            "Title": "Third Terrain",
+            "Url": "ROVA Saxophone Quartet/This Time We Are Both/02 Third Terrain.mp3"
+          },
+          {
+            "Title": "Torque",
+            "Url": "ROVA Saxophone Quartet/This Time We Are Both/03 Torque.mp3"
+          },
+          {
+            "Title": "The Freedom Of Information",
+            "Url": "ROVA Saxophone Quartet/This Time We Are Both/04 The Freedom Of Information.mp3"
+          },
+          {
+            "Title": "What Was Lost Regained",
+            "Url": "ROVA Saxophone Quartet/This Time We Are Both/05 What Was Lost Regained.mp3"
+          },
+          {
+            "Title": "Other Brothers",
+            "Url": "ROVA Saxophone Quartet/This Time We Are Both/06 Other Brothers.mp3"
+          },
+          {
+            "Title": "The Unquestioned Answer",
+            "Url": "ROVA Saxophone Quartet/This Time We Are Both/07 The Unquestioned Answer.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Poncho Sanchez",
     "Index": "Sanchez",
     "DisplayName": "Poncho \u003cb\u003eSanchez\u003c/b\u003e",
@@ -4359,18 +4426,364 @@ export const cdVault =
         ]
       }
     ]
+  },
+  {
+    "Name": "Water Shed 5tet",
+    "Index": "WaterShed",
+    "DisplayName": "\u003cb\u003eWater Shed\u003c/b\u003e 5tet",
+    "Albums": [
+      {
+        "Title": "Blue Plate Tectonics",
+        "Cover": "Water Shed 5tet/Blue Plate Tectonics/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Hedora",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/01 Hedora.mp3"
+          },
+          {
+            "Title": "Homage to Doris Wishman",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/02 Homage to Doris Wishman.mp3"
+          },
+          {
+            "Title": "Homage to Bert I. Gordon",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/03 Homage to Bert I. Gordon.mp3"
+          },
+          {
+            "Title": "Braque",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/04 Braque.mp3"
+          },
+          {
+            "Title": "Homage to Jack Hill",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/05 Homage to Jack Hill.mp3"
+          },
+          {
+            "Title": "Homage to Dario Argento",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/06 Homage to Dario Argento.mp3"
+          },
+          {
+            "Title": "The Sun Setting in the East",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/07 The Sun Setting in the East.mp3"
+          },
+          {
+            "Title": "Homage to Inoshiro Honda",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/08 Homage to Inoshiro Honda.mp3"
+          },
+          {
+            "Title": "Homage to Tod Browning",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/09 Homage to Tod Browning.mp3"
+          },
+          {
+            "Title": "The Perfect Man",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/10 The Perfect Man.mp3"
+          },
+          {
+            "Title": "Mattress in the Basement",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/11 Mattress in the Basement.mp3"
+          },
+          {
+            "Title": "Blues",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/12 Blues.mp3"
+          },
+          {
+            "Title": "Homage to Herk Harvey",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/13 Homage to Herk Harvey.mp3"
+          },
+          {
+            "Title": "Homage to Phil Tucker",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/14 Homage to Phil Tucker.mp3"
+          },
+          {
+            "Title": "We Smell Sausage",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/15 We Smell Sausage.mp3"
+          },
+          {
+            "Title": "Looking Outward (Alternative Take)",
+            "Url": "Water Shed 5tet/Blue Plate Tectonics/16 Looking Outward (Alternative Take).mp3"
+          }
+        ]
+      }
+    ]
   }
 ]
 export const cdVaultClassical =
 [
   {
+    "Name": "John Cage",
+    "Index": "Cage",
+    "DisplayName": "John \u003cb\u003eCage\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "The Perilous Night; Four Walls",
+        "Cover": "John Cage/The Perilous Night; Four Walls/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "The Perilous Night 1",
+            "Url": "John Cage/The Perilous Night; Four Walls/01 The Perilous Night 1.mp3"
+          },
+          {
+            "Title": "The Perilous Night 2",
+            "Url": "John Cage/The Perilous Night; Four Walls/02 The Perilous Night 2.mp3"
+          },
+          {
+            "Title": "The Perilous Night 3",
+            "Url": "John Cage/The Perilous Night; Four Walls/03 The Perilous Night 3.mp3"
+          },
+          {
+            "Title": "The Perilous Night 4",
+            "Url": "John Cage/The Perilous Night; Four Walls/04 The Perilous Night 4.mp3"
+          },
+          {
+            "Title": "The Perilous Night 5",
+            "Url": "John Cage/The Perilous Night; Four Walls/05 The Perilous Night 5.mp3"
+          },
+          {
+            "Title": "The Perilous Night 6",
+            "Url": "John Cage/The Perilous Night; Four Walls/06 The Perilous Night 6.mp3"
+          },
+          {
+            "Title": "Four Walls Act 1 Scene I",
+            "Url": "John Cage/The Perilous Night; Four Walls/07 Four Walls Act 1 Scene I.mp3"
+          },
+          {
+            "Title": "Four Walls Act 1 Scene II",
+            "Url": "John Cage/The Perilous Night; Four Walls/08 Four Walls Act 1 Scene II.mp3"
+          },
+          {
+            "Title": "Four Walls Act 1 Scene III; Dance",
+            "Url": "John Cage/The Perilous Night; Four Walls/09 Four Walls Act 1 Scene III; Dance.mp3"
+          },
+          {
+            "Title": "Four Walls Act 1 Scene IV; Dance",
+            "Url": "John Cage/The Perilous Night; Four Walls/10 Four Walls Act 1 Scene IV; Dance.mp3"
+          },
+          {
+            "Title": "Four Walls Act 1 Scene V",
+            "Url": "John Cage/The Perilous Night; Four Walls/11 Four Walls Act 1 Scene V.mp3"
+          },
+          {
+            "Title": "Four Walls Act 1 Scene VI",
+            "Url": "John Cage/The Perilous Night; Four Walls/12 Four Walls Act 1 Scene VI.mp3"
+          },
+          {
+            "Title": "Four Walls Act 1 Scene VII- Vocal Interlude",
+            "Url": "John Cage/The Perilous Night; Four Walls/13 Four Walls Act 1 Scene VII- Vocal Interlude.mp3"
+          },
+          {
+            "Title": "Four Walls Act 1 Scene VIII",
+            "Url": "John Cage/The Perilous Night; Four Walls/14 Four Walls Act 1 Scene VIII.mp3"
+          },
+          {
+            "Title": "Four Walls Act 2 Scene IX",
+            "Url": "John Cage/The Perilous Night; Four Walls/15 Four Walls Act 2 Scene IX.mp3"
+          },
+          {
+            "Title": "Four Walls Act 2 Scene X",
+            "Url": "John Cage/The Perilous Night; Four Walls/16 Four Walls Act 2 Scene X.mp3"
+          },
+          {
+            "Title": "Four Walls Act 2 Scene XI",
+            "Url": "John Cage/The Perilous Night; Four Walls/17 Four Walls Act 2 Scene XI.mp3"
+          },
+          {
+            "Title": "Four Walls Act 2 Scene XII",
+            "Url": "John Cage/The Perilous Night; Four Walls/18 Four Walls Act 2 Scene XII.mp3"
+          },
+          {
+            "Title": "Four Walls Act 2 Scene XIII",
+            "Url": "John Cage/The Perilous Night; Four Walls/19 Four Walls Act 2 Scene XIII.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Alan Hovhaness",
+    "Index": "Hovhaness",
+    "DisplayName": "Alan \u003cb\u003eHovhaness\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Symphonies #50 \u0026 22",
+        "Cover": "Alan Hovhaness/Symphonies #50 \u0026 22/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Symphony #50, \u0027Mount St. Helens\u0027 - 1. Andante",
+            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/01 Symphony #50, \u0027Mount St. Helens\u0027 - 1. Andante.mp3"
+          },
+          {
+            "Title": "Symphony #50, \u0027Mount St. Helens\u0027 - 2. Spirit Lake",
+            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/02 Symphony #50, \u0027Mount St. Helens\u0027 - 2. Spirit Lake.mp3"
+          },
+          {
+            "Title": "Symphony #50, \u0027Mount St. Helens\u0027 - 3. Volcano",
+            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/03 Symphony #50, \u0027Mount St. Helens\u0027 - 3. Volcano.mp3"
+          },
+          {
+            "Title": "Symphony #22, Op. 236, \u0027City Of Light\u0027 - 1. Allegro Moderato",
+            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/04 Symphony #22, Op. 236, \u0027City Of Light\u0027 - 1. Allegro Moderato.mp3"
+          },
+          {
+            "Title": "Symphony #22, Op. 236, \u0027City Of Light\u0027 - 2. Angel Of Light",
+            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/05 Symphony #22, Op. 236, \u0027City Of Light\u0027 - 2. Angel Of Light.mp3"
+          },
+          {
+            "Title": "Symphony #22, Op. 236, \u0027City Of Light\u0027 - 3. Allegretto Grazioso",
+            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/06 Symphony #22, Op. 236, \u0027City Of Light\u0027 - 3. Allegretto Grazioso.mp3"
+          },
+          {
+            "Title": "Symphony #22, Op. 236, \u0027City Of Light\u0027 - 4. Finale- Largo Maestoso",
+            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/07 Symphony #22, Op. 236, \u0027City Of Light\u0027 - 4. Finale- Largo Maestoso.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Kamran Ince",
+    "Index": "Ince",
+    "DisplayName": "Kamran \u003cb\u003eInce\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Kamran Ince - Present Music",
+        "Cover": "Kamran Ince/Kamran Ince - Present Music/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Waves Of Talya",
+            "Url": "Kamran Ince/Kamran Ince - Present Music/01 Waves Of Talya.mp3"
+          },
+          {
+            "Title": "Hammer Music",
+            "Url": "Kamran Ince/Kamran Ince - Present Music/02 Hammer Music.mp3"
+          },
+          {
+            "Title": "Cross Scintillations",
+            "Url": "Kamran Ince/Kamran Ince - Present Music/03 Cross Scintillations.mp3"
+          },
+          {
+            "Title": "Night Passage",
+            "Url": "Kamran Ince/Kamran Ince - Present Music/04 Night Passage.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Kronos Quartet",
+    "Index": "Kronos",
+    "DisplayName": "\u003cb\u003eKronos\u003c/b\u003e Quartet",
+    "Albums": [
+      {
+        "Title": "Winter Was Hard",
+        "Cover": "Kronos Quartet/Winter Was Hard/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Sallinen- Winter Was Hard, Op. 20",
+            "Url": "Kronos Quartet/Winter Was Hard/01 Sallinen- Winter Was Hard, Op. 20.mp3"
+          },
+          {
+            "Title": "Riley- Salome Dances For Peace- Half-Wolf Dances Mad In Moonlight",
+            "Url": "Kronos Quartet/Winter Was Hard/02 Riley- Salome Dances For Peace- Half-Wolf Dances Mad In Moonlight.mp3"
+          },
+          {
+            "Title": "Pärt- Fratres",
+            "Url": "Kronos Quartet/Winter Was Hard/03 Pärt- Fratres.mp3"
+          },
+          {
+            "Title": "Webern- 6 Bagatelles, Op. 9",
+            "Url": "Kronos Quartet/Winter Was Hard/04 Webern- 6 Bagatelles, Op. 9.mp3"
+          },
+          {
+            "Title": "Zorn- Forbidden Fruit",
+            "Url": "Kronos Quartet/Winter Was Hard/05 Zorn- Forbidden Fruit.mp3"
+          },
+          {
+            "Title": "Lurie- Bella By Barlight",
+            "Url": "Kronos Quartet/Winter Was Hard/06 Lurie- Bella By Barlight.mp3"
+          },
+          {
+            "Title": "Piazzolla- Four For Tango",
+            "Url": "Kronos Quartet/Winter Was Hard/07 Piazzolla- Four For Tango.mp3"
+          },
+          {
+            "Title": "Schinttke- Quartet No. 3",
+            "Url": "Kronos Quartet/Winter Was Hard/08 Schinttke- Quartet No. 3.mp3"
+          },
+          {
+            "Title": "Barber- Adagio For Strings, Op. 11",
+            "Url": "Kronos Quartet/Winter Was Hard/09 Barber- Adagio For Strings, Op. 11.mp3"
+          },
+          {
+            "Title": "Anon- A Door Is Ajar",
+            "Url": "Kronos Quartet/Winter Was Hard/10 Anon- A Door Is Ajar.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "György Ligeti",
+    "Index": "Ligeti",
+    "DisplayName": "György \u003cb\u003eLigeti\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Concertos",
+        "Cover": "György Ligeti/Concertos/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Cello Concerto - 1. = 40",
+            "Url": "György Ligeti/Concertos/01 Cello Concerto - 1. = 40.mp3"
+          },
+          {
+            "Title": "Cello Concerto - 2. (Lo Stesso Tempo)",
+            "Url": "György Ligeti/Concertos/02 Cello Concerto - 2. (Lo Stesso Tempo).mp3"
+          },
+          {
+            "Title": "Piano Concerto - 1. Vivace Molto Ritmico E Preciso",
+            "Url": "György Ligeti/Concertos/03 Piano Concerto - 1. Vivace Molto Ritmico E Preciso.mp3"
+          },
+          {
+            "Title": "Piano Concerto - 2. Lento E Deserto",
+            "Url": "György Ligeti/Concertos/04 Piano Concerto - 2. Lento E Deserto.mp3"
+          },
+          {
+            "Title": "Piano Concerto - 3. Vivace Cantabile",
+            "Url": "György Ligeti/Concertos/05 Piano Concerto - 3. Vivace Cantabile.mp3"
+          },
+          {
+            "Title": "Piano Concerto - 4. Allegro Risoluto, Molto Ritmico",
+            "Url": "György Ligeti/Concertos/06 Piano Concerto - 4. Allegro Risoluto, Molto Ritmico.mp3"
+          },
+          {
+            "Title": "Piano Concerto - 5. Presto Luminoso- Fluido, Constante",
+            "Url": "György Ligeti/Concertos/07 Piano Concerto - 5. Presto Luminoso- Fluido, Constante.mp3"
+          },
+          {
+            "Title": "Chamber Concerto - 1. Corrente (Fliessend)",
+            "Url": "György Ligeti/Concertos/08 Chamber Concerto - 1. Corrente (Fliessend).mp3"
+          },
+          {
+            "Title": "Chamber Concerto - 2. Calmo, Sostenuto",
+            "Url": "György Ligeti/Concertos/09 Chamber Concerto - 2. Calmo, Sostenuto.mp3"
+          },
+          {
+            "Title": "Chamber Concerto - 3. Movimento Preciso E Meccanico",
+            "Url": "György Ligeti/Concertos/10 Chamber Concerto - 3. Movimento Preciso E Meccanico.mp3"
+          },
+          {
+            "Title": "Chamber Concerto - 4. Presto",
+            "Url": "György Ligeti/Concertos/11 Chamber Concerto - 4. Presto.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Conlon Nancarrow",
-    "Index": "Conlon Nancarrow",
-    "DisplayName": "Conlon Nancarrow",
+    "Index": "Nancarrow",
+    "DisplayName": "Conlon \u003cb\u003eNancarrow\u003c/b\u003e",
     "Albums": [
       {
         "Title": "Studies",
-        "Cover": null,
+        "Cover": "Conlon Nancarrow/Studies/Folder.jpg",
         "Tracks": [
           {
             "Title": "Studies For Player Piano - Study #5",
@@ -4454,8 +4867,8 @@ export const cdVaultClassical =
   },
   {
     "Name": "Erik Satie",
-    "Index": "Erik Satie",
-    "DisplayName": "Erik Satie",
+    "Index": "Satie",
+    "DisplayName": "Erik \u003cb\u003eSatie\u003c/b\u003e",
     "Albums": [
       {
         "Title": "Early Piano Works [Disc 1]",
@@ -4496,35 +4909,6 @@ export const cdVaultClassical =
           {
             "Title": "Danses Gothiques",
             "Url": "Erik Satie/Early Piano Works [Disc 1]/09 Danses Gothiques.mp3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Kamran Ince",
-    "Index": "Kamran Ince",
-    "DisplayName": "Kamran Ince",
-    "Albums": [
-      {
-        "Title": "Kamran Ince - Present Music",
-        "Cover": "Kamran Ince/Kamran Ince - Present Music/Folder.jpg",
-        "Tracks": [
-          {
-            "Title": "Waves Of Talya",
-            "Url": "Kamran Ince/Kamran Ince - Present Music/01 Waves Of Talya.mp3"
-          },
-          {
-            "Title": "Hammer Music",
-            "Url": "Kamran Ince/Kamran Ince - Present Music/02 Hammer Music.mp3"
-          },
-          {
-            "Title": "Cross Scintillations",
-            "Url": "Kamran Ince/Kamran Ince - Present Music/03 Cross Scintillations.mp3"
-          },
-          {
-            "Title": "Night Passage",
-            "Url": "Kamran Ince/Kamran Ince - Present Music/04 Night Passage.mp3"
           }
         ]
       }
