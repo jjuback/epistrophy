@@ -53,6 +53,7 @@ Function Update-Blob-Manifest {
         $artist = $items[0]
         $album = $items[1]
         $url = $items[2]
+        $esc = $blob.Name -replace '#', '%23'
 
         # Find or create the artist
         $objArtist = $global:Artists | Where-Object { $_.Name -eq $artist }
@@ -72,10 +73,10 @@ Function Update-Blob-Manifest {
         if (!$url.EndsWith(".jpg")) {
             $title = $url | Select-String -Pattern "^[0-9]+\s(.+)\..+$"
             $title = $title.Matches.Groups[1].Value
-            $objTrack = [Track]::new($title, $blob.Name)
+            $objTrack = [Track]::new($title, $esc)
             $objAlbum.Tracks.Add($objTrack)
         } else {
-            $objAlbum.Cover = $blob.Name
+            $objAlbum.Cover = $esc
         }
     }
 }

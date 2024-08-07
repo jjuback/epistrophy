@@ -1024,19 +1024,19 @@ export const cdVault =
           },
           {
             "Title": "Duet For Bass And Piano #1",
-            "Url": "Chick Corea/Early Circle/04 Duet For Bass And Piano #1.mp3"
+            "Url": "Chick Corea/Early Circle/04 Duet For Bass And Piano %231.mp3"
           },
           {
             "Title": "Duet For Bass And Piano #2",
-            "Url": "Chick Corea/Early Circle/05 Duet For Bass And Piano #2.mp3"
+            "Url": "Chick Corea/Early Circle/05 Duet For Bass And Piano %232.mp3"
           },
           {
             "Title": "Danse For Clarinet And Piano #1",
-            "Url": "Chick Corea/Early Circle/06 Danse For Clarinet And Piano #1.mp3"
+            "Url": "Chick Corea/Early Circle/06 Danse For Clarinet And Piano %231.mp3"
           },
           {
             "Title": "Danse For Clarinet And Piano #2",
-            "Url": "Chick Corea/Early Circle/07 Danse For Clarinet And Piano #2.mp3"
+            "Url": "Chick Corea/Early Circle/07 Danse For Clarinet And Piano %232.mp3"
           },
           {
             "Title": "Chimes I",
@@ -3655,11 +3655,11 @@ export const cdVault =
           },
           {
             "Title": "Blues #1 (\u0027Short\u0027)",
-            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 2/11 Blues #1 (\u0027Short\u0027).mp3"
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 2/11 Blues %231 (\u0027Short\u0027).mp3"
           },
           {
             "Title": "Blues #2 (\u0027Long\u0027)",
-            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 2/12 Blues #2 (\u0027Long\u0027).mp3"
+            "Url": "Charlie Parker/The Legendary Dial Masters- Vol. 2/12 Blues %232 (\u0027Long\u0027).mp3"
           },
           {
             "Title": "Yardbird Suite",
@@ -4603,35 +4603,35 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Symphonies #50 \u0026 22",
-        "Cover": "Alan Hovhaness/Symphonies #50 \u0026 22/Folder.jpg",
+        "Cover": "Alan Hovhaness/Symphonies %2350 \u0026 22/Folder.jpg",
         "Tracks": [
           {
             "Title": "Symphony #50, \u0027Mount St. Helens\u0027 - 1. Andante",
-            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/01 Symphony #50, \u0027Mount St. Helens\u0027 - 1. Andante.mp3"
+            "Url": "Alan Hovhaness/Symphonies %2350 \u0026 22/01 Symphony %2350, \u0027Mount St. Helens\u0027 - 1. Andante.mp3"
           },
           {
             "Title": "Symphony #50, \u0027Mount St. Helens\u0027 - 2. Spirit Lake",
-            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/02 Symphony #50, \u0027Mount St. Helens\u0027 - 2. Spirit Lake.mp3"
+            "Url": "Alan Hovhaness/Symphonies %2350 \u0026 22/02 Symphony %2350, \u0027Mount St. Helens\u0027 - 2. Spirit Lake.mp3"
           },
           {
             "Title": "Symphony #50, \u0027Mount St. Helens\u0027 - 3. Volcano",
-            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/03 Symphony #50, \u0027Mount St. Helens\u0027 - 3. Volcano.mp3"
+            "Url": "Alan Hovhaness/Symphonies %2350 \u0026 22/03 Symphony %2350, \u0027Mount St. Helens\u0027 - 3. Volcano.mp3"
           },
           {
             "Title": "Symphony #22, Op. 236, \u0027City Of Light\u0027 - 1. Allegro Moderato",
-            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/04 Symphony #22, Op. 236, \u0027City Of Light\u0027 - 1. Allegro Moderato.mp3"
+            "Url": "Alan Hovhaness/Symphonies %2350 \u0026 22/04 Symphony %2322, Op. 236, \u0027City Of Light\u0027 - 1. Allegro Moderato.mp3"
           },
           {
             "Title": "Symphony #22, Op. 236, \u0027City Of Light\u0027 - 2. Angel Of Light",
-            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/05 Symphony #22, Op. 236, \u0027City Of Light\u0027 - 2. Angel Of Light.mp3"
+            "Url": "Alan Hovhaness/Symphonies %2350 \u0026 22/05 Symphony %2322, Op. 236, \u0027City Of Light\u0027 - 2. Angel Of Light.mp3"
           },
           {
             "Title": "Symphony #22, Op. 236, \u0027City Of Light\u0027 - 3. Allegretto Grazioso",
-            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/06 Symphony #22, Op. 236, \u0027City Of Light\u0027 - 3. Allegretto Grazioso.mp3"
+            "Url": "Alan Hovhaness/Symphonies %2350 \u0026 22/06 Symphony %2322, Op. 236, \u0027City Of Light\u0027 - 3. Allegretto Grazioso.mp3"
           },
           {
             "Title": "Symphony #22, Op. 236, \u0027City Of Light\u0027 - 4. Finale- Largo Maestoso",
-            "Url": "Alan Hovhaness/Symphonies #50 \u0026 22/07 Symphony #22, Op. 236, \u0027City Of Light\u0027 - 4. Finale- Largo Maestoso.mp3"
+            "Url": "Alan Hovhaness/Symphonies %2350 \u0026 22/07 Symphony %2322, Op. 236, \u0027City Of Light\u0027 - 4. Finale- Largo Maestoso.mp3"
           }
         ]
       }
@@ -4787,47 +4787,47 @@ export const cdVaultClassical =
         "Tracks": [
           {
             "Title": "Studies For Player Piano - Study #5",
-            "Url": "Conlon Nancarrow/Studies/01 Studies For Player Piano - Study #5.mp3"
+            "Url": "Conlon Nancarrow/Studies/01 Studies For Player Piano - Study %235.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #2",
-            "Url": "Conlon Nancarrow/Studies/02 Studies For Player Piano - Study #2.mp3"
+            "Url": "Conlon Nancarrow/Studies/02 Studies For Player Piano - Study %232.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #1",
-            "Url": "Conlon Nancarrow/Studies/03 Studies For Player Piano - Study #1.mp3"
+            "Url": "Conlon Nancarrow/Studies/03 Studies For Player Piano - Study %231.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #6",
-            "Url": "Conlon Nancarrow/Studies/04 Studies For Player Piano - Study #6.mp3"
+            "Url": "Conlon Nancarrow/Studies/04 Studies For Player Piano - Study %236.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #7",
-            "Url": "Conlon Nancarrow/Studies/05 Studies For Player Piano - Study #7.mp3"
+            "Url": "Conlon Nancarrow/Studies/05 Studies For Player Piano - Study %237.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #3C",
-            "Url": "Conlon Nancarrow/Studies/06 Studies For Player Piano - Study #3C.mp3"
+            "Url": "Conlon Nancarrow/Studies/06 Studies For Player Piano - Study %233C.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #9",
-            "Url": "Conlon Nancarrow/Studies/07 Studies For Player Piano - Study #9.mp3"
+            "Url": "Conlon Nancarrow/Studies/07 Studies For Player Piano - Study %239.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #14",
-            "Url": "Conlon Nancarrow/Studies/08 Studies For Player Piano - Study #14.mp3"
+            "Url": "Conlon Nancarrow/Studies/08 Studies For Player Piano - Study %2314.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #12",
-            "Url": "Conlon Nancarrow/Studies/09 Studies For Player Piano - Study #12.mp3"
+            "Url": "Conlon Nancarrow/Studies/09 Studies For Player Piano - Study %2312.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #18",
-            "Url": "Conlon Nancarrow/Studies/10 Studies For Player Piano - Study #18.mp3"
+            "Url": "Conlon Nancarrow/Studies/10 Studies For Player Piano - Study %2318.mp3"
           },
           {
             "Title": "Studies For Player Piano - Study #19",
-            "Url": "Conlon Nancarrow/Studies/11 Studies For Player Piano - Study #19.mp3"
+            "Url": "Conlon Nancarrow/Studies/11 Studies For Player Piano - Study %2319.mp3"
           },
           {
             "Title": "Tango",
@@ -4839,7 +4839,7 @@ export const cdVaultClassical =
           },
           {
             "Title": "Piece #2 For Small Orchestra",
-            "Url": "Conlon Nancarrow/Studies/14 Piece #2 For Small Orchestra.mp3"
+            "Url": "Conlon Nancarrow/Studies/14 Piece %232 For Small Orchestra.mp3"
           },
           {
             "Title": "Trio - 1. Presto",
