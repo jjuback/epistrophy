@@ -1,4 +1,5 @@
 export function makeUrl(fragment, genre) {
     let vault = genre === 0 ? "cd-vault/" : "cd-vault-classical/";
-    return !fragment ? "no-cover.jpg" : "https://epistrophy.blob.core.windows.net/" + vault + fragment;
+    let cover = genre === 0 ? "no-cover.jpg" : "no-cover-classical.jpg";
+    return !fragment ? cover : "https://epistrophy.blob.core.windows.net/" + vault + fragment;
 }
