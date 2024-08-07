@@ -4364,49 +4364,138 @@ export const cdVault =
 export const cdVaultClassical =
 [
   {
+    "Name": "Conlon Nancarrow",
+    "Index": "Conlon Nancarrow",
+    "DisplayName": "Conlon Nancarrow",
+    "Albums": [
+      {
+        "Title": "Studies",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "Studies For Player Piano - Study #5",
+            "Url": "Conlon Nancarrow/Studies/01 Studies For Player Piano - Study #5.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #2",
+            "Url": "Conlon Nancarrow/Studies/02 Studies For Player Piano - Study #2.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #1",
+            "Url": "Conlon Nancarrow/Studies/03 Studies For Player Piano - Study #1.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #6",
+            "Url": "Conlon Nancarrow/Studies/04 Studies For Player Piano - Study #6.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #7",
+            "Url": "Conlon Nancarrow/Studies/05 Studies For Player Piano - Study #7.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #3C",
+            "Url": "Conlon Nancarrow/Studies/06 Studies For Player Piano - Study #3C.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #9",
+            "Url": "Conlon Nancarrow/Studies/07 Studies For Player Piano - Study #9.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #14",
+            "Url": "Conlon Nancarrow/Studies/08 Studies For Player Piano - Study #14.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #12",
+            "Url": "Conlon Nancarrow/Studies/09 Studies For Player Piano - Study #12.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #18",
+            "Url": "Conlon Nancarrow/Studies/10 Studies For Player Piano - Study #18.mp3"
+          },
+          {
+            "Title": "Studies For Player Piano - Study #19",
+            "Url": "Conlon Nancarrow/Studies/11 Studies For Player Piano - Study #19.mp3"
+          },
+          {
+            "Title": "Tango",
+            "Url": "Conlon Nancarrow/Studies/12 Tango.mp3"
+          },
+          {
+            "Title": "Toccata",
+            "Url": "Conlon Nancarrow/Studies/13 Toccata.mp3"
+          },
+          {
+            "Title": "Piece #2 For Small Orchestra",
+            "Url": "Conlon Nancarrow/Studies/14 Piece #2 For Small Orchestra.mp3"
+          },
+          {
+            "Title": "Trio - 1. Presto",
+            "Url": "Conlon Nancarrow/Studies/15 Trio - 1. Presto.mp3"
+          },
+          {
+            "Title": "Trio - 2. Andantino",
+            "Url": "Conlon Nancarrow/Studies/16 Trio - 2. Andantino.mp3"
+          },
+          {
+            "Title": "Trio - 3. Allegro Molto",
+            "Url": "Conlon Nancarrow/Studies/17 Trio - 3. Allegro Molto.mp3"
+          },
+          {
+            "Title": "Sarabande \u0026 Scherzo - 1. Sarabande",
+            "Url": "Conlon Nancarrow/Studies/18 Sarabande \u0026 Scherzo - 1. Sarabande.mp3"
+          },
+          {
+            "Title": "Sarabande \u0026 Scherzo - 2. Scherzo",
+            "Url": "Conlon Nancarrow/Studies/19 Sarabande \u0026 Scherzo - 2. Scherzo.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Erik Satie",
     "Index": "Erik Satie",
     "DisplayName": "Erik Satie",
     "Albums": [
       {
-        "Title": "Satie- Early Piano Works [Disc 1]",
-        "Cover": "Erik Satie/Satie- Early Piano Works [Disc 1]/Folder.jpg",
+        "Title": "Early Piano Works [Disc 1]",
+        "Cover": "Erik Satie/Early Piano Works [Disc 1]/Folder.jpg",
         "Tracks": [
           {
-            "Title": "Satie- Gnossiennes - 1. Lent",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/01 Satie- Gnossiennes - 1. Lent.mp3"
+            "Title": "Gnossiennes - 1. Lent",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/01 Gnossiennes - 1. Lent.mp3"
           },
           {
-            "Title": "Satie- Gnossiennes - 2. Avec Étonnement",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/02 Satie- Gnossiennes - 2. Avec Étonnement.mp3"
+            "Title": "Gnossiennes - 2. Avec Étonnement",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/02 Gnossiennes - 2. Avec Étonnement.mp3"
           },
           {
-            "Title": "Satie- Gnossiennes - 3. Lent",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/03 Satie- Gnossiennes - 3. Lent.mp3"
+            "Title": "Gnossiennes - 3. Lent",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/03 Gnossiennes - 3. Lent.mp3"
           },
           {
-            "Title": "Satie- Gnossiennes - 4. Lent",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/04 Satie- Gnossiennes - 4. Lent.mp3"
+            "Title": "Gnossiennes - 4. Lent",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/04 Gnossiennes - 4. Lent.mp3"
           },
           {
-            "Title": "Satie- Gnossiennes - 5. Modéré",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/05 Satie- Gnossiennes - 5. Modéré.mp3"
+            "Title": "Gnossiennes - 5. Modéré",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/05 Gnossiennes - 5. Modéré.mp3"
           },
           {
-            "Title": "Satie- Gnossiennes - 6. Avec Conviction Et Avec Une Tristesse Rigoureuse",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/06 Satie- Gnossiennes - 6. Avec Conviction Et Avec Une Tristesse Rigoureuse.mp3"
+            "Title": "Gnossiennes - 6. Avec Conviction Et Avec Une Tristesse Rigoureuse",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/06 Gnossiennes - 6. Avec Conviction Et Avec Une Tristesse Rigoureuse.mp3"
           },
           {
-            "Title": "Satie- Petite Ouverture A Danser",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/07 Satie- Petite Ouverture A Danser.mp3"
+            "Title": "Petite Ouverture A Danser",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/07 Petite Ouverture A Danser.mp3"
           },
           {
-            "Title": "Satie- Prélude De La Porte Héroïque Du Ciel",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/08 Satie- Prélude De La Porte Héroïque Du Ciel.mp3"
+            "Title": "Prélude De La Porte Héroïque Du Ciel",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/08 Prélude De La Porte Héroïque Du Ciel.mp3"
           },
           {
-            "Title": "Satie- Danses Gothiques",
-            "Url": "Erik Satie/Satie- Early Piano Works [Disc 1]/09 Satie- Danses Gothiques.mp3"
+            "Title": "Danses Gothiques",
+            "Url": "Erik Satie/Early Piano Works [Disc 1]/09 Danses Gothiques.mp3"
           }
         ]
       }
