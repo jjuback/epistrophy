@@ -4508,6 +4508,105 @@ export const cdVault =
 export const cdVaultClassical =
 [
   {
+    "Name": "John Adams, Steve Reich",
+    "Index": "AdamsReich",
+    "DisplayName": "John \u003cb\u003eAdams\u003c/b\u003e, Steve \u003cb\u003eReich\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Grand Pianola, Eight Lines, Vermont Counterpoint",
+        "Cover": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Adams- On The Transmigration Of Souls",
+            "Url": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/01 Adams- On The Transmigration Of Souls.mp3"
+          },
+          {
+            "Title": "Adams- Grand Pianola Music - Mvt. 3",
+            "Url": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/02 Adams- Grand Pianola Music - Mvt. 3.mp3"
+          },
+          {
+            "Title": "Reich- Vermont Counterpoint",
+            "Url": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/03 Reich- Vermont Counterpoint.mp3"
+          },
+          {
+            "Title": "Reich- Eight Lines",
+            "Url": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/04 Reich- Eight Lines.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Béla Bartók",
+    "Index": "Bartók",
+    "DisplayName": "Béla \u003cb\u003eBartók\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Concerto for Orchestra; Two Images",
+        "Cover": "Béla Bartók/Concerto for Orchestra; Two Images/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Concerto For Orchestra - 1. Introduzione (Andante Non Troppo - Allegro Vivace",
+            "Url": "Béla Bartók/Concerto for Orchestra; Two Images/01 Concerto For Orchestra - 1. Introduzione (Andante Non Troppo - Allegro Vivace.mp3"
+          },
+          {
+            "Title": "Concerto For Orchestra - 2. Giuoco Delle Coppie",
+            "Url": "Béla Bartók/Concerto for Orchestra; Two Images/02 Concerto For Orchestra - 2. Giuoco Delle Coppie.mp3"
+          },
+          {
+            "Title": "Concerto For Orchestra - 3. Elegia (Andante, Non Troppo)",
+            "Url": "Béla Bartók/Concerto for Orchestra; Two Images/03 Concerto For Orchestra - 3. Elegia (Andante, Non Troppo).mp3"
+          },
+          {
+            "Title": "Concerto For Orchestra - 4. Intermezzo Interrotto",
+            "Url": "Béla Bartók/Concerto for Orchestra; Two Images/04 Concerto For Orchestra - 4. Intermezzo Interrotto.mp3"
+          },
+          {
+            "Title": "Concerto For Orchestra - 5. Finale (Pesante - Presto)",
+            "Url": "Béla Bartók/Concerto for Orchestra; Two Images/05 Concerto For Orchestra - 5. Finale (Pesante - Presto).mp3"
+          },
+          {
+            "Title": "Two Pictures - In Voller Blüte",
+            "Url": "Béla Bartók/Concerto for Orchestra; Two Images/06 Two Pictures - In Voller Blüte.mp3"
+          },
+          {
+            "Title": "Two Pictures - Dorftanz",
+            "Url": "Béla Bartók/Concerto for Orchestra; Two Images/07 Two Pictures - Dorftanz.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Johannes Brahms",
+    "Index": "Brahms",
+    "DisplayName": "Johannes \u003cb\u003eBrahms\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Symphony #1 in C Minor, Op. 68",
+        "Cover": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "1. Un Poco Sostenuto, Allegro",
+            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/01 1. Un Poco Sostenuto, Allegro.mp3"
+          },
+          {
+            "Title": "2. Andante Sostenuto",
+            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/02 2. Andante Sostenuto.mp3"
+          },
+          {
+            "Title": "3. Un Poco Allegretto E Grazioso",
+            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/03 3. Un Poco Allegretto E Grazioso.mp3"
+          },
+          {
+            "Title": "4. Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio",
+            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/04 4. Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "John Cage",
     "Index": "Cage",
     "DisplayName": "John \u003cb\u003eCage\u003c/b\u003e",
@@ -4667,10 +4766,85 @@ export const cdVaultClassical =
     ]
   },
   {
+    "Name": "Aaron Jay Kernis",
+    "Index": "Kernis",
+    "DisplayName": "Aaron Jay \u003cb\u003eKernis\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Air For Violin, Double Concerto, Lament and Prayer",
+        "Cover": "Aaron Jay Kernis/Air For Violin, Double Concerto, Lament and Prayer/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Air For Violin",
+            "Url": "Aaron Jay Kernis/Air For Violin, Double Concerto, Lament and Prayer/01 Air For Violin.mp3"
+          },
+          {
+            "Title": "Double Concerto For Violin \u0026 Guitar - 1. Fast \u0026 Jazzy",
+            "Url": "Aaron Jay Kernis/Air For Violin, Double Concerto, Lament and Prayer/02 Double Concerto For Violin \u0026 Guitar - 1. Fast \u0026 Jazzy.mp3"
+          },
+          {
+            "Title": "Double Concerto For Violin \u0026 Guitar - 2. Adagio Molto",
+            "Url": "Aaron Jay Kernis/Air For Violin, Double Concerto, Lament and Prayer/03 Double Concerto For Violin \u0026 Guitar - 2. Adagio Molto.mp3"
+          },
+          {
+            "Title": "Double Concerto For Violin \u0026 Guitar - 3. Presto, Sempre Ritmico",
+            "Url": "Aaron Jay Kernis/Air For Violin, Double Concerto, Lament and Prayer/04 Double Concerto For Violin \u0026 Guitar - 3. Presto, Sempre Ritmico.mp3"
+          },
+          {
+            "Title": "Lament \u0026 Prayer - 1. Lament",
+            "Url": "Aaron Jay Kernis/Air For Violin, Double Concerto, Lament and Prayer/05 Lament \u0026 Prayer - 1. Lament.mp3"
+          },
+          {
+            "Title": "Lament \u0026 Prayer - 2. Prayer",
+            "Url": "Aaron Jay Kernis/Air For Violin, Double Concerto, Lament and Prayer/06 Lament \u0026 Prayer - 2. Prayer.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Kronos Quartet",
     "Index": "Kronos",
     "DisplayName": "\u003cb\u003eKronos\u003c/b\u003e Quartet",
     "Albums": [
+      {
+        "Title": "White Man Sleeps",
+        "Cover": "Kronos Quartet/White Man Sleeps/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Volans- String Quartet #1, \u0027White Man Sleeps\u0027 - Mvt. 1",
+            "Url": "Kronos Quartet/White Man Sleeps/01 Volans- String Quartet %231, \u0027White Man Sleeps\u0027 - Mvt. 1.mp3"
+          },
+          {
+            "Title": "Ives- A Set of 3 Short Pieces, S 84 - Scherzo- Holding Your Own",
+            "Url": "Kronos Quartet/White Man Sleeps/02 Ives- A Set of 3 Short Pieces, S 84 - Scherzo- Holding Your Own.mp3"
+          },
+          {
+            "Title": "Hassell- Pano Da Costa",
+            "Url": "Kronos Quartet/White Man Sleeps/03 Hassell- Pano Da Costa.mp3"
+          },
+          {
+            "Title": "Oboe Lee- Morango... Almost A Tango",
+            "Url": "Kronos Quartet/White Man Sleeps/04 Oboe Lee- Morango... Almost A Tango.mp3"
+          },
+          {
+            "Title": "Coleman- Lonely Woman",
+            "Url": "Kronos Quartet/White Man Sleeps/05 Coleman- Lonely Woman.mp3"
+          },
+          {
+            "Title": "Johnston- String Quartet #4, \u0027Amazing Grace\u0027",
+            "Url": "Kronos Quartet/White Man Sleeps/06 Johnston- String Quartet %234, \u0027Amazing Grace\u0027.mp3"
+          },
+          {
+            "Title": "Volans- String Quartet #1, \u0027White Man Sleeps\u0027 - Mvt. 5",
+            "Url": "Kronos Quartet/White Man Sleeps/07 Volans- String Quartet %231, \u0027White Man Sleeps\u0027 - Mvt. 5.mp3"
+          },
+          {
+            "Title": "Bartók- String Quartet #3, SZ 85",
+            "Url": "Kronos Quartet/White Man Sleeps/08 Bartók- String Quartet %233, SZ 85.mp3"
+          }
+        ]
+      },
       {
         "Title": "Winter Was Hard",
         "Cover": "Kronos Quartet/Winter Was Hard/Folder.jpg",
