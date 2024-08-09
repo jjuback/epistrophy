@@ -4587,20 +4587,20 @@ export const cdVaultClassical =
         "Cover": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/Folder.jpg",
         "Tracks": [
           {
-            "Title": "1. Un Poco Sostenuto, Allegro",
-            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/01 1. Un Poco Sostenuto, Allegro.mp3"
+            "Title": "Un Poco Sostenuto, Allegro",
+            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/01 Un Poco Sostenuto, Allegro.mp3"
           },
           {
-            "Title": "2. Andante Sostenuto",
-            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/02 2. Andante Sostenuto.mp3"
+            "Title": "Andante Sostenuto",
+            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/02 Andante Sostenuto.mp3"
           },
           {
-            "Title": "3. Un Poco Allegretto E Grazioso",
-            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/03 3. Un Poco Allegretto E Grazioso.mp3"
+            "Title": "Un Poco Allegretto E Grazioso",
+            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/03 Un Poco Allegretto E Grazioso.mp3"
           },
           {
-            "Title": "4. Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio",
-            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/04 4. Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio.mp3"
+            "Title": "Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio",
+            "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/04 Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio.mp3"
           }
         ]
       }
