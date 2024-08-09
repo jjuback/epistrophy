@@ -1616,68 +1616,68 @@ export const cdVault =
     "DisplayName": "Dizzy \u003cb\u003eGillespie\u003c/b\u003e - Sarah \u003cb\u003eVaughn\u003c/b\u003e - Charlie \u003cb\u003eParker\u003c/b\u003e",
     "Albums": [
       {
-        "Title": "Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)",
-        "Cover": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/Folder.jpg",
+        "Title": "Masters of Jazz",
+        "Cover": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/Folder.jpg",
         "Tracks": [
           {
             "Title": "My Melancholy Baby",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/01 My Melancholy Baby.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/01 My Melancholy Baby.mp3"
           },
           {
             "Title": "Blue \u0027n\u0027 Boogie",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/02 Blue \u0027n\u0027 Boogie.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/02 Blue \u0027n\u0027 Boogie.mp3"
           },
           {
             "Title": "Loverman (Oh, Where Can You Be-)",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/03 Loverman (Oh, Where Can You Be-).mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/03 Loverman (Oh, Where Can You Be-).mp3"
           },
           {
             "Title": "One Bass Hit No. 1",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/04 One Bass Hit No. 1.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/04 One Bass Hit No. 1.mp3"
           },
           {
             "Title": "That\u0027s Earl Brother",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/05 That\u0027s Earl Brother.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/05 That\u0027s Earl Brother.mp3"
           },
           {
             "Title": "Oop Bop Sh\u0027bam",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/06 Oop Bop Sh\u0027bam.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/06 Oop Bop Sh\u0027bam.mp3"
           },
           {
             "Title": "All The Things You Are",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/07 All The Things You Are.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/07 All The Things You Are.mp3"
           },
           {
             "Title": "Dizzy Atmosphere",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/08 Dizzy Atmosphere.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/08 Dizzy Atmosphere.mp3"
           },
           {
             "Title": "East of the Sun",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/09 East of the Sun.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/09 East of the Sun.mp3"
           },
           {
             "Title": "Shaw Nuff",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/10 Shaw Nuff.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/10 Shaw Nuff.mp3"
           },
           {
             "Title": "Hot House",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/11 Hot House.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/11 Hot House.mp3"
           },
           {
             "Title": "Mean To Me",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/12 Mean To Me.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/12 Mean To Me.mp3"
           },
           {
             "Title": "A Handfulla Gimme",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/13 A Handfulla Gimme.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/13 A Handfulla Gimme.mp3"
           },
           {
             "Title": "Cherokee",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/14 Cherokee.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/14 Cherokee.mp3"
           },
           {
             "Title": "On the Alamo",
-            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz (Dizzy Gillespie, Sarah Vaughn and Charlie Parker)/15 On the Alamo.mp3"
+            "Url": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker/Masters of Jazz/15 On the Alamo.mp3"
           }
         ]
       }
@@ -2032,88 +2032,88 @@ export const cdVault =
     "DisplayName": "Rahsaan Roland \u003cb\u003eKirk\u003c/b\u003e",
     "Albums": [
       {
-        "Title": "The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]",
-        "Cover": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/Folder.jpg",
+        "Title": "The Case Of The 3 Sided Dream In Audio Color",
+        "Cover": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/Folder.jpg",
         "Tracks": [
           {
             "Title": "Conversation",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/01 Conversation.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/01 Conversation.mp3"
           },
           {
             "Title": "Bye Bye Blackbird",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/02 Bye Bye Blackbird.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/02 Bye Bye Blackbird.mp3"
           },
           {
             "Title": "Horses",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/03 Horses.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/03 Horses.mp3"
           },
           {
             "Title": "High Heel Sneakers",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/04 High Heel Sneakers.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/04 High Heel Sneakers.mp3"
           },
           {
             "Title": "Dream",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/05 Dream.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/05 Dream.mp3"
           },
           {
             "Title": "Echoes Of Primitive Ohio \u0026 Chili Dogs",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/06 Echoes Of Primitive Ohio \u0026 Chili Dogs.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/06 Echoes Of Primitive Ohio \u0026 Chili Dogs.mp3"
           },
           {
             "Title": "The Entertainer (Done In The Style Of The Blues)",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/07 The Entertainer (Done In The Style Of The Blues).mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/07 The Entertainer (Done In The Style Of The Blues).mp3"
           },
           {
             "Title": "Freaks For The Festival",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/08 Freaks For The Festival.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/08 Freaks For The Festival.mp3"
           },
           {
             "Title": "Dream",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/09 Dream.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/09 Dream.mp3"
           },
           {
             "Title": "Portrait Of Those Beatiful Ladies",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/10 Portrait Of Those Beatiful Ladies.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/10 Portrait Of Those Beatiful Ladies.mp3"
           },
           {
             "Title": "Dream",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/11 Dream.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/11 Dream.mp3"
           },
           {
             "Title": "The Entertainer",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/12 The Entertainer.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/12 The Entertainer.mp3"
           },
           {
             "Title": "Dream",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/13 Dream.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/13 Dream.mp3"
           },
           {
             "Title": "Portrait Of Those Beatiful Ladies",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/14 Portrait Of Those Beatiful Ladies.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/14 Portrait Of Those Beatiful Ladies.mp3"
           },
           {
             "Title": "Dream",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/15 Dream.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/15 Dream.mp3"
           },
           {
             "Title": "Freaks For The Festival",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/16 Freaks For The Festival.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/16 Freaks For The Festival.mp3"
           },
           {
             "Title": "sesroH",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/17 sesroH.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/17 sesroH.mp3"
           },
           {
             "Title": "Bye Bye Blackbird",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/18 Bye Bye Blackbird.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/18 Bye Bye Blackbird.mp3"
           },
           {
             "Title": "Conversation",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/19 Conversation.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/19 Conversation.mp3"
           },
           {
             "Title": "Side Four",
-            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color [Original Recording Remastered]/20 Side Four.mp3"
+            "Url": "Rahsaan Roland Kirk/The Case Of The 3 Sided Dream In Audio Color/20 Side Four.mp3"
           }
         ]
       },
@@ -2298,68 +2298,68 @@ export const cdVault =
     "DisplayName": "\u003cb\u003eLambert\u003c/b\u003e, \u003cb\u003eHendricks\u003c/b\u003e \u0026 \u003cb\u003eBavan\u003c/b\u003e",
     "Albums": [
       {
-        "Title": "Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]",
-        "Cover": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/Folder.jpg",
+        "Title": "Swingin\u0027 Till the Girls Come Home",
+        "Cover": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/Folder.jpg",
         "Tracks": [
           {
             "Title": "One O\u0027Clock Jump",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/01 One O\u0027Clock Jump.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/01 One O\u0027Clock Jump.mp3"
           },
           {
             "Title": "Doodlin\u0027",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/02 Doodlin\u0027.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/02 Doodlin\u0027.mp3"
           },
           {
             "Title": "Cousin Mary",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/03 Cousin Mary.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/03 Cousin Mary.mp3"
           },
           {
             "Title": "April in Paris",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/04 April in Paris.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/04 April in Paris.mp3"
           },
           {
             "Title": "Feed Me",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/05 Feed Me.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/05 Feed Me.mp3"
           },
           {
             "Title": "Melba\u0027s Blues",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/06 Melba\u0027s Blues.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/06 Melba\u0027s Blues.mp3"
           },
           {
             "Title": "Dis Hyunh",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/07 Dis Hyunh.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/07 Dis Hyunh.mp3"
           },
           {
             "Title": "Swingin\u0027 Till the Girls Come Home",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/08 Swingin\u0027 Till the Girls Come Home.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/08 Swingin\u0027 Till the Girls Come Home.mp3"
           },
           {
             "Title": "Gimmie That Wine",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/09 Gimmie That Wine.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/09 Gimmie That Wine.mp3"
           },
           {
             "Title": "Watermelon Man",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/10 Watermelon Man.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/10 Watermelon Man.mp3"
           },
           {
             "Title": "Walkin\u0027",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/11 Walkin\u0027.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/11 Walkin\u0027.mp3"
           },
           {
             "Title": "Cloudburst",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/12 Cloudburst.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/12 Cloudburst.mp3"
           },
           {
             "Title": "Jumpin\u0027 at the Woodside",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/13 Jumpin\u0027 at the Woodside.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/13 Jumpin\u0027 at the Woodside.mp3"
           },
           {
             "Title": "It\u0027s Sand, Man",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/14 It\u0027s Sand, Man.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/14 It\u0027s Sand, Man.mp3"
           },
           {
             "Title": "Stops and Goes Blues",
-            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home [Hq Remastered 2024]/15 Stops and Goes Blues.mp3"
+            "Url": "Lambert, Hendricks \u0026 Bavan/Swingin\u0027 Till the Girls Come Home/15 Stops and Goes Blues.mp3"
           }
         ]
       }
