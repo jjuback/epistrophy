@@ -25,12 +25,15 @@ export const Album = (props) => {
         ]
     });
   }, [props, trackNo]);
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [props.count]);  
   if (props === undefined) return null;
   return (
     <>
       <Navbar className="fixed-top bg-body-tertiary">
         <Container>
-          <Navbar.Brand>
+          <Navbar.Brand className="mw-75 text-truncate">
             <img
               alt=""
               src={makeUrl(props.Cover, props.genre)}
@@ -41,10 +44,11 @@ export const Album = (props) => {
             {props.Title}
           </Navbar.Brand>
           <Navbar.Collapse className="justify-content-end">
-            <Navbar.Text>
+            <Navbar.Text className="mw-75 text-truncate">
               {props.Artist}
             </Navbar.Text>
-        </Navbar.Collapse>        </Container>
+          </Navbar.Collapse>
+        </Container>
       </Navbar>
         <Tabs className="mt-5" defaultActiveKey="tracks" onSelect={(k) => k==="back" ? props.goBack() : {}}>
             <Tab eventKey="back" title="<<" />

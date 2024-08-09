@@ -8,8 +8,9 @@ const App = () => {
     const [album, setAlbum] = useState();
     const [artist, setArtist] = useState();
     const [genre, setGenre] = useState(0);
+    const [count, setCount] = useState(0);
     const [scrollY, setScrollY] = useState(0);
-    const selectAlbum = (data, name) => { setAlbum(data); setArtist(name); setScrollY(window.scrollY); }
+    const selectAlbum = (data, name) => { setAlbum(data); setArtist(name); setScrollY(window.scrollY); setCount(count + 1); }
     const selectGenre = (n) => { setArtist(undefined); setGenre(n); setScrollY(0); }
     const goBack = () => setAlbum(undefined);
 
@@ -30,7 +31,7 @@ const App = () => {
           return (
             <Container className="p-3">
               <div className="App">
-                <Album {...album} Artist={artist} genre={genre} goBack={goBack} />
+                <Album {...album} Artist={artist} genre={genre} goBack={goBack} count={count} />
               </div>
             </Container>
           )
