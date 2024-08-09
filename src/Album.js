@@ -44,7 +44,7 @@ export const Album = (props) => {
             {props.Title}
           </Navbar.Brand>
           <Navbar.Collapse className="justify-content-end">
-            <Navbar.Text className="mw-75 text-truncate">
+            <Navbar.Text className="mw-25 text-truncate">
               {props.Artist}
             </Navbar.Text>
           </Navbar.Collapse>
