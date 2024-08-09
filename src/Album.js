@@ -5,6 +5,8 @@ import ListGroup from 'react-bootstrap/ListGroup';
 import Image from 'react-bootstrap/Image';
 import Tabs from 'react-bootstrap/Tabs';
 import Tab from 'react-bootstrap/Tab';
+import Container from 'react-bootstrap/Container';
+import Navbar from 'react-bootstrap/Navbar';
 
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
@@ -26,7 +28,25 @@ export const Album = (props) => {
   if (props === undefined) return null;
   return (
     <>
-        <Tabs defaultActiveKey="tracks" onSelect={(k) => k==="back" ? props.goBack() : {}}>
+      <Navbar className="fixed-top bg-body-tertiary">
+        <Container>
+          <Navbar.Brand>
+            <img
+              alt=""
+              src={makeUrl(props.Cover, props.genre)}
+              width="30"
+              height="30"
+              className="d-inline-block align-top"
+            />&nbsp;&nbsp;
+            {props.Title}
+          </Navbar.Brand>
+          <Navbar.Collapse className="justify-content-end">
+            <Navbar.Text>
+              {props.Artist}
+            </Navbar.Text>
+        </Navbar.Collapse>        </Container>
+      </Navbar>
+        <Tabs className="mt-5" defaultActiveKey="tracks" onSelect={(k) => k==="back" ? props.goBack() : {}}>
             <Tab eventKey="back" title="<<" />
             <Tab eventKey="tracks" title="Tracks">
                 <audio id="audioElement" controls autoPlay={trackNo > 0}
