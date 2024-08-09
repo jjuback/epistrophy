@@ -7,6 +7,7 @@ import Tabs from 'react-bootstrap/Tabs';
 import Tab from 'react-bootstrap/Tab';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
+import Stack from 'react-bootstrap/Stack';
 
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
@@ -33,20 +34,20 @@ export const Album = (props) => {
     <>
       <Navbar className="fixed-top bg-body-tertiary">
         <Container>
-          <Navbar.Brand className="album-title text-truncate">
+          <Navbar.Brand>
             <img
               alt=""
               src={makeUrl(props.Cover, props.genre)}
               width="30"
               height="30"
               className="d-inline-block align-top"
-            />&nbsp;&nbsp;
-            {props.Title}
+            />&nbsp;
           </Navbar.Brand>
-          <Navbar.Collapse className="justify-content-end album-artist">
-            <Navbar.Text className="text-truncate">
-              {props.Artist}
-            </Navbar.Text>
+          <Navbar.Collapse>
+            <Stack className="small" gap={0}>
+                <div class="fw-bold">{props.Title}</div>
+                <div class="opacity-50">{props.Artist}</div>
+            </Stack>
           </Navbar.Collapse>
         </Container>
       </Navbar>
