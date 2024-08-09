@@ -33,7 +33,7 @@ export const Album = (props) => {
     <>
       <Navbar className="fixed-top bg-body-tertiary">
         <Container>
-          <Navbar.Brand className="mw-75 text-truncate">
+          <Navbar.Brand className="album-title text-truncate">
             <img
               alt=""
               src={makeUrl(props.Cover, props.genre)}
@@ -43,8 +43,8 @@ export const Album = (props) => {
             />&nbsp;&nbsp;
             {props.Title}
           </Navbar.Brand>
-          <Navbar.Collapse className="justify-content-end">
-            <Navbar.Text className="mw-25 text-truncate">
+          <Navbar.Collapse className="justify-content-end album-artist">
+            <Navbar.Text className="text-truncate">
               {props.Artist}
             </Navbar.Text>
           </Navbar.Collapse>
