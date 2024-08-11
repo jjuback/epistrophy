@@ -41,12 +41,12 @@ export const Album = (props) => {
               width="30"
               height="30"
               className="d-inline-block align-top"
-            />&nbsp;
+            />
           </Navbar.Brand>
           <Navbar.Collapse>
             <Stack className="small" gap={0}>
-                <div class="fw-bold">{props.Title}</div>
-                <div class="opacity-50">{props.Artist}</div>
+                <div class="fw-bold album-title text-truncate">{props.Title}</div>
+                <div class="opacity-50 album-title text-truncate">{props.Artist}</div>
             </Stack>
           </Navbar.Collapse>
         </Container>

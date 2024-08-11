@@ -30,9 +30,5 @@ audio {
 }
 
 .album-title {
-    max-width: 60% !important;
-}
-
-.album-artist {
-    max-width: 40% !important;
+    max-width: 90% !important;
 }
