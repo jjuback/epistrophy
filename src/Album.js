@@ -8,6 +8,7 @@ import Tab from 'react-bootstrap/Tab';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Stack from 'react-bootstrap/Stack';
+import { Nav } from "react-bootstrap";
 
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
@@ -43,16 +44,22 @@ export const Album = (props) => {
               className="d-inline-block align-top"
             />
           </Navbar.Brand>
-          <Navbar.Collapse>
-            <Stack className="small" gap={0}>
-                <div class="fw-bold album-title text-truncate">{props.Title}</div>
-                <div class="opacity-50 album-title text-truncate">{props.Artist}</div>
+          <Navbar.Collapse className="album-title">
+            <Stack className="small text-truncate" gap={0}>
+                <div className="fw-bold text-truncate">{props.Title}</div>
+                <div className="opacity-50 text-truncate">{props.Artist}</div>
             </Stack>
+          </Navbar.Collapse>
+          <Navbar.Collapse className="justify-content-end">
+            <Nav defaultActiveKey="back" onSelect={() => props.goBack()}>
+              <Nav.Item>
+                <Nav.Link className="fw-bold" eventKey="back">&lt;&lt;</Nav.Link>
+              </Nav.Item>
+            </Nav>
           </Navbar.Collapse>
         </Container>
       </Navbar>
         <Tabs className="mt-5" defaultActiveKey="tracks" onSelect={(k) => k==="back" ? props.goBack() : {}}>
-            <Tab eventKey="back" title="<<" />
             <Tab eventKey="tracks" title="Tracks">
                 <audio id="audioElement" controls autoPlay={trackNo > 0}
                  onEnded={() => {
