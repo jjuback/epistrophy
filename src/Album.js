@@ -53,7 +53,7 @@ export const Album = (props) => {
           <Navbar.Collapse className="justify-content-end">
             <Nav defaultActiveKey="back" onSelect={() => props.goBack()}>
               <Nav.Item>
-                <Nav.Link className="fw-bold" eventKey="back">&lt;&lt;</Nav.Link>
+                <Nav.Link className="fw-bold" eventKey="back">&#x23f4;</Nav.Link>
               </Nav.Item>
             </Nav>
           </Navbar.Collapse>
