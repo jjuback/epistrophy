@@ -4508,29 +4508,21 @@ export const cdVault =
 export const cdVaultClassical =
 [
   {
-    "Name": "John Adams, Steve Reich",
-    "Index": "AdamsReich",
-    "DisplayName": "John \u003cb\u003eAdams\u003c/b\u003e, Steve \u003cb\u003eReich\u003c/b\u003e",
+    "Name": "John Adams",
+    "Index": "Adams",
+    "DisplayName": "John \u003cb\u003eAdams\u003c/b\u003e",
     "Albums": [
       {
-        "Title": "Grand Pianola, Eight Lines, Vermont Counterpoint",
-        "Cover": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/Folder.jpg",
+        "Title": "Grand Pianola Music",
+        "Cover": "John Adams/Grand Pianola Music/Folder.jpg",
         "Tracks": [
           {
-            "Title": "Adams- On The Transmigration Of Souls",
-            "Url": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/01 Adams- On The Transmigration Of Souls.mp3"
+            "Title": "On The Transmigration Of Souls",
+            "Url": "John Adams/Grand Pianola Music/01 On The Transmigration Of Souls.mp3"
           },
           {
-            "Title": "Adams- Grand Pianola Music - Mvt. 3",
-            "Url": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/02 Adams- Grand Pianola Music - Mvt. 3.mp3"
-          },
-          {
-            "Title": "Reich- Vermont Counterpoint",
-            "Url": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/03 Reich- Vermont Counterpoint.mp3"
-          },
-          {
-            "Title": "Reich- Eight Lines",
-            "Url": "John Adams, Steve Reich/Grand Pianola, Eight Lines, Vermont Counterpoint/04 Reich- Eight Lines.mp3"
+            "Title": "Grand Pianola Music - Mvt. 3",
+            "Url": "John Adams/Grand Pianola Music/02 Grand Pianola Music - Mvt. 3.mp3"
           }
         ]
       }
@@ -4601,6 +4593,31 @@ export const cdVaultClassical =
           {
             "Title": "Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio",
             "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/04 Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Anton Bruckner",
+    "Index": "Bruckner",
+    "DisplayName": "Anton \u003cb\u003eBruckner\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Symphony #9 in D Minor",
+        "Cover": "Anton Bruckner/Symphony %239 in D Minor/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Feierlich, Misterioso",
+            "Url": "Anton Bruckner/Symphony %239 in D Minor/01 Feierlich, Misterioso.mp3"
+          },
+          {
+            "Title": "Scherzo- Bewegt, Lebhaft",
+            "Url": "Anton Bruckner/Symphony %239 in D Minor/02 Scherzo- Bewegt, Lebhaft.mp3"
+          },
+          {
+            "Title": "Adagio, Langsam, Feierlich",
+            "Url": "Anton Bruckner/Symphony %239 in D Minor/03 Adagio, Langsam, Feierlich.mp3"
           }
         ]
       }
@@ -4690,6 +4707,152 @@ export const cdVaultClassical =
           {
             "Title": "Four Walls Act 2 Scene XIII",
             "Url": "John Cage/The Perilous Night; Four Walls/19 Four Walls Act 2 Scene XIII.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Henryk Górecki",
+    "Index": "Górecki",
+    "DisplayName": "Henryk \u003cb\u003eGórecki\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Symphony #3, Op. 36, \u0027Symphony Of Sorrowful Songs\u0027",
+        "Cover": "Henryk Górecki/Symphony %233, Op. 36, \u0027Symphony Of Sorrowful Songs\u0027/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Lento, Sostenuto Tranquillo Ma Cantabile",
+            "Url": "Henryk Górecki/Symphony %233, Op. 36, \u0027Symphony Of Sorrowful Songs\u0027/01 Lento, Sostenuto Tranquillo Ma Cantabile.mp3"
+          },
+          {
+            "Title": "Lento E Largo, Tranquillissimo",
+            "Url": "Henryk Górecki/Symphony %233, Op. 36, \u0027Symphony Of Sorrowful Songs\u0027/02 Lento E Largo, Tranquillissimo.mp3"
+          },
+          {
+            "Title": "Lento",
+            "Url": "Henryk Górecki/Symphony %233, Op. 36, \u0027Symphony Of Sorrowful Songs\u0027/03 Lento.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Arthur Honegger",
+    "Index": "Honegger",
+    "DisplayName": "Arthur \u003cb\u003eHonegger\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Le Roi David",
+        "Cover": "Arthur Honegger/Le Roi David/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Part 1- Introduction (Orchestra)",
+            "Url": "Arthur Honegger/Le Roi David/01 Part 1- Introduction (Orchestra).mp3"
+          },
+          {
+            "Title": "Part 1- Song Of The Shepherd David (Contralto)",
+            "Url": "Arthur Honegger/Le Roi David/02 Part 1- Song Of The Shepherd David (Contralto).mp3"
+          },
+          {
+            "Title": "Part 1- Psalm \u0027All Praise To Him\u0027 (Mixed Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/03 Part 1- Psalm \u0027All Praise To Him\u0027 (Mixed Chorus).mp3"
+          },
+          {
+            "Title": "Part 1- Song Of Victory (Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/04 Part 1- Song Of Victory (Chorus).mp3"
+          },
+          {
+            "Title": "Part 1- March (Orchestra) - Reprise No. 4",
+            "Url": "Arthur Honegger/Le Roi David/05 Part 1- March (Orchestra) - Reprise No. 4.mp3"
+          },
+          {
+            "Title": "Part 1- Psalm \u0027In The Lord I Put My Faith\u0027 (Tenor)",
+            "Url": "Arthur Honegger/Le Roi David/06 Part 1- Psalm \u0027In The Lord I Put My Faith\u0027 (Tenor).mp3"
+          },
+          {
+            "Title": "Part 1- Psalm \u0027Oh Had I Wings Like A Dove\u0027 (Soprano)",
+            "Url": "Arthur Honegger/Le Roi David/07 Part 1- Psalm \u0027Oh Had I Wings Like A Dove\u0027 (Soprano).mp3"
+          },
+          {
+            "Title": "Part 1- Song Of The Prophets (Male Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/08 Part 1- Song Of The Prophets (Male Chorus).mp3"
+          },
+          {
+            "Title": "Part 1- Psalm \u0027Pity Me, Lord!\u0027 (Tenor)",
+            "Url": "Arthur Honegger/Le Roi David/09 Part 1- Psalm \u0027Pity Me, Lord!\u0027 (Tenor).mp3"
+          },
+          {
+            "Title": "Part 1- The Camp Of Saul (Orchestra)",
+            "Url": "Arthur Honegger/Le Roi David/10 Part 1- The Camp Of Saul (Orchestra).mp3"
+          },
+          {
+            "Title": "Part 1- Psalm \u0027God, The Lord Shall Be My Light\u0027 (Full Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/11 Part 1- Psalm \u0027God, The Lord Shall Be My Light\u0027 (Full Chorus).mp3"
+          },
+          {
+            "Title": "Part 1- Incantation The Witch Of Endor (Speaking Voice - Orchestra)",
+            "Url": "Arthur Honegger/Le Roi David/12 Part 1- Incantation The Witch Of Endor (Speaking Voice - Orchestra).mp3"
+          },
+          {
+            "Title": "Part 1- March Of The Philistines (Orchestra)",
+            "Url": "Arthur Honegger/Le Roi David/13 Part 1- March Of The Philistines (Orchestra).mp3"
+          },
+          {
+            "Title": "Part 1- Lamentation Of Gilboa (Soprano, Contralto, Female Chorus, Speaking Voice, Orchestra)",
+            "Url": "Arthur Honegger/Le Roi David/14 Part 1- Lamentation Of Gilboa (Soprano, Contralto, Female Chorus, Speaking Voice, Orchestra).mp3"
+          },
+          {
+            "Title": "Part 2- Song Of The Festival (Soprano, Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/15 Part 2- Song Of The Festival (Soprano, Chorus).mp3"
+          },
+          {
+            "Title": "Part 2- The Dance Before The Ark (Orchestra, Narrator, Chorus, Soprano)",
+            "Url": "Arthur Honegger/Le Roi David/16 Part 2- The Dance Before The Ark (Orchestra, Narrator, Chorus, Soprano).mp3"
+          },
+          {
+            "Title": "Part 3- Song \u0027Now My Voice In Song Upsoaring\u0027 (Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/17 Part 3- Song \u0027Now My Voice In Song Upsoaring\u0027 (Chorus).mp3"
+          },
+          {
+            "Title": "Part 3- Song Of The Maidswevant (Contralto)",
+            "Url": "Arthur Honegger/Le Roi David/18 Part 3- Song Of The Maidswevant (Contralto).mp3"
+          },
+          {
+            "Title": "Part 3- Psalm Of Penitence (Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/19 Part 3- Psalm Of Penitence (Chorus).mp3"
+          },
+          {
+            "Title": "Part 3- Psalm \u0027Behold, In Evil I Was Born\u0027 (Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/20 Part 3- Psalm \u0027Behold, In Evil I Was Born\u0027 (Chorus).mp3"
+          },
+          {
+            "Title": "Part 3- Psalm \u0027O Shall I Raise Mine Eyes Unto The Mountains-\u0027 (Tenor)",
+            "Url": "Arthur Honegger/Le Roi David/21 Part 3- Psalm \u0027O Shall I Raise Mine Eyes Unto The Mountains-\u0027 (Tenor).mp3"
+          },
+          {
+            "Title": "Part 3- The Song Of Ephraim (Soprano, Wordless Female Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/22 Part 3- The Song Of Ephraim (Soprano, Wordless Female Chorus).mp3"
+          },
+          {
+            "Title": "Part 3- March Of The Hebrews (Orchestra)",
+            "Url": "Arthur Honegger/Le Roi David/23 Part 3- March Of The Hebrews (Orchestra).mp3"
+          },
+          {
+            "Title": "Part 3- Psalm \u0027Thee Will I Love, O Lord\u0027 (Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/24 Part 3- Psalm \u0027Thee Will I Love, O Lord\u0027 (Chorus).mp3"
+          },
+          {
+            "Title": "Part 3- Psalm \u0027In My Distress\u0027 (Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/25 Part 3- Psalm \u0027In My Distress\u0027 (Chorus).mp3"
+          },
+          {
+            "Title": "Part 3- The Crowning Of Solomon (Orchestra, Narrator)",
+            "Url": "Arthur Honegger/Le Roi David/26 Part 3- The Crowning Of Solomon (Orchestra, Narrator).mp3"
+          },
+          {
+            "Title": "Part 3- The Death Of David (Orchestra, Narrator, Speaking Voice, Soprano, Chorus)",
+            "Url": "Arthur Honegger/Le Roi David/27 Part 3- The Death Of David (Orchestra, Narrator, Speaking Voice, Soprano, Chorus).mp3"
           }
         ]
       }
@@ -4803,10 +4966,61 @@ export const cdVaultClassical =
     ]
   },
   {
+    "Name": "Zoltán Kodály",
+    "Index": "Kodály",
+    "DisplayName": "Zoltán \u003cb\u003eKodály\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Háry János Suite, Op. 35A",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "The Fairy Tale Begins",
+            "Url": "Zoltán Kodály/Háry János Suite, Op. 35A/01 The Fairy Tale Begins.mp3"
+          },
+          {
+            "Title": "Viennese Musical Clock",
+            "Url": "Zoltán Kodály/Háry János Suite, Op. 35A/02 Viennese Musical Clock.mp3"
+          },
+          {
+            "Title": "Song",
+            "Url": "Zoltán Kodály/Háry János Suite, Op. 35A/03 Song.mp3"
+          },
+          {
+            "Title": "Battle and Defeat of Napol",
+            "Url": "Zoltán Kodály/Háry János Suite, Op. 35A/04 Battle and Defeat of Napol.mp3"
+          },
+          {
+            "Title": "Intermezzo",
+            "Url": "Zoltán Kodály/Háry János Suite, Op. 35A/05 Intermezzo.mp3"
+          },
+          {
+            "Title": "Entrance Of The Emperor \u0026 His Court",
+            "Url": "Zoltán Kodály/Háry János Suite, Op. 35A/06 Entrance Of The Emperor \u0026 His Court.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Kronos Quartet",
     "Index": "Kronos",
     "DisplayName": "\u003cb\u003eKronos\u003c/b\u003e Quartet",
     "Albums": [
+      {
+        "Title": "Lutoslawski- String Quartet",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "Lutoslawski- String Quartet - Introductory Movement",
+            "Url": "Kronos Quartet/Lutoslawski- String Quartet/01 Lutoslawski- String Quartet - Introductory Movement.mp3"
+          },
+          {
+            "Title": "Lutoslawski- String Quartet - Main Movement",
+            "Url": "Kronos Quartet/Lutoslawski- String Quartet/02 Lutoslawski- String Quartet - Main Movement.mp3"
+          }
+        ]
+      },
       {
         "Title": "White Man Sleeps",
         "Cover": "Kronos Quartet/White Man Sleeps/Folder.jpg",
@@ -4951,6 +5165,35 @@ export const cdVaultClassical =
     ]
   },
   {
+    "Name": "Gustav Mahler",
+    "Index": "Mahler",
+    "DisplayName": "Gustav \u003cb\u003eMahler\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Symphony #1 In D, \u0027Titan\u0027",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "Langsam Schleppend",
+            "Url": "Gustav Mahler/Symphony %231 In D, \u0027Titan\u0027/01 Langsam Schleppend.mp3"
+          },
+          {
+            "Title": "Kraftig Bewegt",
+            "Url": "Gustav Mahler/Symphony %231 In D, \u0027Titan\u0027/02 Kraftig Bewegt.mp3"
+          },
+          {
+            "Title": "Feierlich Und Gemessen, Ohne Zu Schleppen",
+            "Url": "Gustav Mahler/Symphony %231 In D, \u0027Titan\u0027/03 Feierlich Und Gemessen, Ohne Zu Schleppen.mp3"
+          },
+          {
+            "Title": "Sturmisch Bewegt",
+            "Url": "Gustav Mahler/Symphony %231 In D, \u0027Titan\u0027/04 Sturmisch Bewegt.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Conlon Nancarrow",
     "Index": "Nancarrow",
     "DisplayName": "Conlon \u003cb\u003eNancarrow\u003c/b\u003e",
@@ -5040,6 +5283,194 @@ export const cdVaultClassical =
     ]
   },
   {
+    "Name": "Carl Nielsen",
+    "Index": "Nielsen",
+    "DisplayName": "Carl \u003cb\u003eNielsen\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Symphony #4, Op. 29, \u0027The Inextinguishable\u0027",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "Allegro, Poco Allegretto",
+            "Url": "Carl Nielsen/Symphony %234, Op. 29, \u0027The Inextinguishable\u0027/01 Allegro, Poco Allegretto.mp3"
+          },
+          {
+            "Title": "Poco Adagio Quasi Andante, Allegro",
+            "Url": "Carl Nielsen/Symphony %234, Op. 29, \u0027The Inextinguishable\u0027/02 Poco Adagio Quasi Andante, Allegro.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Karl Orff",
+    "Index": "Orff",
+    "DisplayName": "Karl \u003cb\u003eOrff\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Carmina Burana",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "Fortuna Imperatrix Mundi- O Fortuna",
+            "Url": "Karl Orff/Carmina Burana/01 Fortuna Imperatrix Mundi- O Fortuna.mp3"
+          },
+          {
+            "Title": "Fortuna Imperatrix Mundi- Fortune Plango Vulnera",
+            "Url": "Karl Orff/Carmina Burana/02 Fortuna Imperatrix Mundi- Fortune Plango Vulnera.mp3"
+          },
+          {
+            "Title": "Primo Vere- Veris Leta Facies",
+            "Url": "Karl Orff/Carmina Burana/03 Primo Vere- Veris Leta Facies.mp3"
+          },
+          {
+            "Title": "Primo Vere- Omnia Sol Temperat",
+            "Url": "Karl Orff/Carmina Burana/04 Primo Vere- Omnia Sol Temperat.mp3"
+          },
+          {
+            "Title": "Primo Vere- Ecce Gratum",
+            "Url": "Karl Orff/Carmina Burana/05 Primo Vere- Ecce Gratum.mp3"
+          },
+          {
+            "Title": "Uf Dem Anger- Tanz",
+            "Url": "Karl Orff/Carmina Burana/06 Uf Dem Anger- Tanz.mp3"
+          },
+          {
+            "Title": "Uf Dem Anger- Floret Silva Nobilis",
+            "Url": "Karl Orff/Carmina Burana/07 Uf Dem Anger- Floret Silva Nobilis.mp3"
+          },
+          {
+            "Title": "Uf Dem Anger- Chramer, Gip Die Varwe Mir",
+            "Url": "Karl Orff/Carmina Burana/08 Uf Dem Anger- Chramer, Gip Die Varwe Mir.mp3"
+          },
+          {
+            "Title": "Uf Dem Anger- Reie, Swaz Hie Gat Umbe, Chume, Chum, Geselle Min!",
+            "Url": "Karl Orff/Carmina Burana/09 Uf Dem Anger- Reie, Swaz Hie Gat Umbe, Chume, Chum, Geselle Min!.mp3"
+          },
+          {
+            "Title": "Uf Dem Anger- Were Diu Werlt Alle Min",
+            "Url": "Karl Orff/Carmina Burana/10 Uf Dem Anger- Were Diu Werlt Alle Min.mp3"
+          },
+          {
+            "Title": "In Taberna- Estuans Interius",
+            "Url": "Karl Orff/Carmina Burana/11 In Taberna- Estuans Interius.mp3"
+          },
+          {
+            "Title": "In Taberna- Olim Lacus Colueram",
+            "Url": "Karl Orff/Carmina Burana/12 In Taberna- Olim Lacus Colueram.mp3"
+          },
+          {
+            "Title": "In Taberna- Ego Sum Abbas",
+            "Url": "Karl Orff/Carmina Burana/13 In Taberna- Ego Sum Abbas.mp3"
+          },
+          {
+            "Title": "In Taberna- In Taberna Quando Sumus",
+            "Url": "Karl Orff/Carmina Burana/14 In Taberna- In Taberna Quando Sumus.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- Amor Volat Undique",
+            "Url": "Karl Orff/Carmina Burana/15 Cour D\u0027Amours- Amor Volat Undique.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- Dies, Nox Et Omnia",
+            "Url": "Karl Orff/Carmina Burana/16 Cour D\u0027Amours- Dies, Nox Et Omnia.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- Stetit Puella",
+            "Url": "Karl Orff/Carmina Burana/17 Cour D\u0027Amours- Stetit Puella.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- Circa Mea Pectora",
+            "Url": "Karl Orff/Carmina Burana/18 Cour D\u0027Amours- Circa Mea Pectora.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- Si Puer Cum Puellula",
+            "Url": "Karl Orff/Carmina Burana/19 Cour D\u0027Amours- Si Puer Cum Puellula.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- Veni, Veni, Venias",
+            "Url": "Karl Orff/Carmina Burana/20 Cour D\u0027Amours- Veni, Veni, Venias.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- In Trutina",
+            "Url": "Karl Orff/Carmina Burana/21 Cour D\u0027Amours- In Trutina.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- Tempus Est Iocundum",
+            "Url": "Karl Orff/Carmina Burana/22 Cour D\u0027Amours- Tempus Est Iocundum.mp3"
+          },
+          {
+            "Title": "Cour D\u0027Amours- Dulcissime",
+            "Url": "Karl Orff/Carmina Burana/23 Cour D\u0027Amours- Dulcissime.mp3"
+          },
+          {
+            "Title": "Blanziflor Et Helena- Ave Formosissima",
+            "Url": "Karl Orff/Carmina Burana/24 Blanziflor Et Helena- Ave Formosissima.mp3"
+          },
+          {
+            "Title": "Fortuna Imperatrix Mundi- O Fortuna",
+            "Url": "Karl Orff/Carmina Burana/25 Fortuna Imperatrix Mundi- O Fortuna.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Serge Prokofiev",
+    "Index": "Prokofiev",
+    "DisplayName": "Serge \u003cb\u003eProkofiev\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Lieutenant Kijé Suite, Op. 60",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "The Birth Of Kijé",
+            "Url": "Serge Prokofiev/Lieutenant Kijé Suite, Op. 60/01 The Birth Of Kijé.mp3"
+          },
+          {
+            "Title": "Romance",
+            "Url": "Serge Prokofiev/Lieutenant Kijé Suite, Op. 60/02 Romance.mp3"
+          },
+          {
+            "Title": "Kijé\u0027s Wedding",
+            "Url": "Serge Prokofiev/Lieutenant Kijé Suite, Op. 60/03 Kijé\u0027s Wedding.mp3"
+          },
+          {
+            "Title": "Troika",
+            "Url": "Serge Prokofiev/Lieutenant Kijé Suite, Op. 60/04 Troika.mp3"
+          },
+          {
+            "Title": "Kijé\u0027s Funeral",
+            "Url": "Serge Prokofiev/Lieutenant Kijé Suite, Op. 60/05 Kijé\u0027s Funeral.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Steve Reich",
+    "Index": "Reich",
+    "DisplayName": "Steve \u003cb\u003eReich\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Eight Lines, Vermont Counterpoint",
+        "Cover": "Steve Reich/Eight Lines, Vermont Counterpoint/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Vermont Counterpoint",
+            "Url": "Steve Reich/Eight Lines, Vermont Counterpoint/01 Vermont Counterpoint.mp3"
+          },
+          {
+            "Title": "Eight Lines",
+            "Url": "Steve Reich/Eight Lines, Vermont Counterpoint/02 Eight Lines.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Erik Satie",
     "Index": "Satie",
     "DisplayName": "Erik \u003cb\u003eSatie\u003c/b\u003e",
@@ -5083,6 +5514,237 @@ export const cdVaultClassical =
           {
             "Title": "Danses Gothiques",
             "Url": "Erik Satie/Early Piano Works [Disc 1]/09 Danses Gothiques.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Dmitri Shostakovich",
+    "Index": "Shostakovich",
+    "DisplayName": "Dmitri \u003cb\u003eShostakovich\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Symphonies #9 \u0026 10",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "Symphony #9 In E Flat, Op. 70 - 1. Allegro",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/01 Symphony %239 In E Flat, Op. 70 - 1. Allegro.mp3"
+          },
+          {
+            "Title": "Symphony #9 In E Flat, Op. 70 - 2. Moderato",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/02 Symphony %239 In E Flat, Op. 70 - 2. Moderato.mp3"
+          },
+          {
+            "Title": "Symphony #9 In E Flat, Op. 70 - 3. Presto",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/03 Symphony %239 In E Flat, Op. 70 - 3. Presto.mp3"
+          },
+          {
+            "Title": "Symphony #9 In E Flat, Op. 70 - 4. Largo",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/04 Symphony %239 In E Flat, Op. 70 - 4. Largo.mp3"
+          },
+          {
+            "Title": "Symphony #9 In E Flat, Op. 70 - 5. Allegretto",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/05 Symphony %239 In E Flat, Op. 70 - 5. Allegretto.mp3"
+          },
+          {
+            "Title": "Symphony #10 In E Minor, Op. 93 - 1. Moderato",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/06 Symphony %2310 In E Minor, Op. 93 - 1. Moderato.mp3"
+          },
+          {
+            "Title": "Symphony #10 In E Minor, Op. 93 - 2. Allegro",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/07 Symphony %2310 In E Minor, Op. 93 - 2. Allegro.mp3"
+          },
+          {
+            "Title": "Symphony #10 In E Minor, Op. 93 - 3. Allegretto",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/08 Symphony %2310 In E Minor, Op. 93 - 3. Allegretto.mp3"
+          },
+          {
+            "Title": "Symphony #10 In E Minor, Op. 93 - 4. Andante, Allegro",
+            "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/09 Symphony %2310 In E Minor, Op. 93 - 4. Andante, Allegro.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "David Stock",
+    "Index": "Stock",
+    "DisplayName": "David \u003cb\u003eStock\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "MMC Chamber Music - Volume IV",
+        "Cover": "David Stock/MMC Chamber Music - Volume IV/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "William Thomas McKinley- Curtain Up",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/01 William Thomas McKinley- Curtain Up.mp3"
+          },
+          {
+            "Title": "Michael P. Ellison- Before All Beginning",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/02 Michael P. Ellison- Before All Beginning.mp3"
+          },
+          {
+            "Title": "Elliott Miles McKinley- Summer Portraits- The Solstice",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/03 Elliott Miles McKinley- Summer Portraits- The Solstice.mp3"
+          },
+          {
+            "Title": "Elliott Miles McKinley- Summer Portraits- Morning Stars",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/04 Elliott Miles McKinley- Summer Portraits- Morning Stars.mp3"
+          },
+          {
+            "Title": "Elliott Miles McKinley- Summer Portraits- Warm Breezes",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/05 Elliott Miles McKinley- Summer Portraits- Warm Breezes.mp3"
+          },
+          {
+            "Title": "Elliott Miles McKinley- Summer Portraits- Summer Showers",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/06 Elliott Miles McKinley- Summer Portraits- Summer Showers.mp3"
+          },
+          {
+            "Title": "Elliott Miles McKinley- Summer Portraits- Hot Sunshine",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/07 Elliott Miles McKinley- Summer Portraits- Hot Sunshine.mp3"
+          },
+          {
+            "Title": "Elliott Miles McKinley- Summer Portraits- Violet-Pink Sunsets",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/08 Elliott Miles McKinley- Summer Portraits- Violet-Pink Sunsets.mp3"
+          },
+          {
+            "Title": "Jackson Hill- Tholos",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/09 Jackson Hill- Tholos.mp3"
+          },
+          {
+            "Title": "David Stock- Night Vision",
+            "Url": "David Stock/MMC Chamber Music - Volume IV/10 David Stock- Night Vision.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Speaking Extravagantly - String Quartets of David Stock",
+        "Cover": "David Stock/Speaking Extravagantly - String Quartets of David Stock/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Quartet No. 3- Obsessive",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/01 Quartet No. 3- Obsessive.mp3"
+          },
+          {
+            "Title": "Quartet No. 3- Reflective",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/02 Quartet No. 3- Reflective.mp3"
+          },
+          {
+            "Title": "Quartet No. 3- Manic",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/03 Quartet No. 3- Manic.mp3"
+          },
+          {
+            "Title": "Quartet No. 3- Intense",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/04 Quartet No. 3- Intense.mp3"
+          },
+          {
+            "Title": "Speaking Extravagantly (Quartet No. 2)- With great extremes of expression",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/05 Speaking Extravagantly (Quartet No. 2)- With great extremes of expression.mp3"
+          },
+          {
+            "Title": "Speaking Extravagantly (Quartet No. 2)- Scherzo Ostinato",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/06 Speaking Extravagantly (Quartet No. 2)- Scherzo Ostinato.mp3"
+          },
+          {
+            "Title": "Speaking Extravagantly (Quartet No. 2)- Adagio",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/07 Speaking Extravagantly (Quartet No. 2)- Adagio.mp3"
+          },
+          {
+            "Title": "Quartet No. 4- Fast; Intense",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/08 Quartet No. 4- Fast; Intense.mp3"
+          },
+          {
+            "Title": "Quartet No. 4- Slow, Hypnotic",
+            "Url": "David Stock/Speaking Extravagantly - String Quartets of David Stock/09 Quartet No. 4- Slow, Hypnotic.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Taking Stock",
+        "Cover": "David Stock/Taking Stock/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "The Particle Zoo - 1. Fast And Driving",
+            "Url": "David Stock/Taking Stock/01 The Particle Zoo - 1. Fast And Driving.mp3"
+          },
+          {
+            "Title": "The Particle Zoo - 2. Floating, Dreamlike",
+            "Url": "David Stock/Taking Stock/02 The Particle Zoo - 2. Floating, Dreamlike.mp3"
+          },
+          {
+            "Title": "The Particle Zoo - 3. Fast And Driving",
+            "Url": "David Stock/Taking Stock/03 The Particle Zoo - 3. Fast And Driving.mp3"
+          },
+          {
+            "Title": "The Particle Zoo - 4. Graceful, Fluid",
+            "Url": "David Stock/Taking Stock/04 The Particle Zoo - 4. Graceful, Fluid.mp3"
+          },
+          {
+            "Title": "The Particle Zoo - 5. Menacing",
+            "Url": "David Stock/Taking Stock/05 The Particle Zoo - 5. Menacing.mp3"
+          },
+          {
+            "Title": "The Particle Zoo - 6. Relaxed",
+            "Url": "David Stock/Taking Stock/06 The Particle Zoo - 6. Relaxed.mp3"
+          },
+          {
+            "Title": "The Particle Zoo - 7. With Great Energy",
+            "Url": "David Stock/Taking Stock/07 The Particle Zoo - 7. With Great Energy.mp3"
+          },
+          {
+            "Title": "Tekiah - 1. Light, Airy, Propulsive",
+            "Url": "David Stock/Taking Stock/08 Tekiah - 1. Light, Airy, Propulsive.mp3"
+          },
+          {
+            "Title": "Tekiah - 2. Warm, Flexible Tempo; Fleeting, Scurrying",
+            "Url": "David Stock/Taking Stock/09 Tekiah - 2. Warm, Flexible Tempo; Fleeting, Scurrying.mp3"
+          },
+          {
+            "Title": "Tekiah - 3. With Energy, Relentlessly",
+            "Url": "David Stock/Taking Stock/10 Tekiah - 3. With Energy, Relentlessly.mp3"
+          },
+          {
+            "Title": "Yerusha",
+            "Url": "David Stock/Taking Stock/11 Yerusha.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Various Composers",
+    "Index": "VariousComposers",
+    "DisplayName": "\u003cb\u003eVarious Composers\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Vaughan Williams, Satie, Barber, Fauré",
+        "Cover": null,
+        "Tracks": [
+          {
+            "Title": "Vaughan Williams- Fantasia On A Theme By Thomas Tallis",
+            "Url": "Various Composers/Vaughan Williams, Satie, Barber, Fauré/01 Vaughan Williams- Fantasia On A Theme By Thomas Tallis.mp3"
+          },
+          {
+            "Title": "Satie- 3 Gymnopédies - 1. Lent Et Douloureaux",
+            "Url": "Various Composers/Vaughan Williams, Satie, Barber, Fauré/02 Satie- 3 Gymnopédies - 1. Lent Et Douloureaux.mp3"
+          },
+          {
+            "Title": "Satie- 3 Gymnopédies - 3. Lent Et Grave",
+            "Url": "Various Composers/Vaughan Williams, Satie, Barber, Fauré/03 Satie- 3 Gymnopédies - 3. Lent Et Grave.mp3"
+          },
+          {
+            "Title": "Barber- Adagio For Strings, Op. 11",
+            "Url": "Various Composers/Vaughan Williams, Satie, Barber, Fauré/04 Barber- Adagio For Strings, Op. 11.mp3"
+          },
+          {
+            "Title": "Fauré- Pavane, Op. 50",
+            "Url": "Various Composers/Vaughan Williams, Satie, Barber, Fauré/05 Fauré- Pavane, Op. 50.mp3"
+          },
+          {
+            "Title": "Grainger- Irish Tune From County Derry, \u0027Danny Boy\u0027",
+            "Url": "Various Composers/Vaughan Williams, Satie, Barber, Fauré/06 Grainger- Irish Tune From County Derry, \u0027Danny Boy\u0027.mp3"
           }
         ]
       }

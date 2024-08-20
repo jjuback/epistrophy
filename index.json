@@ -239,35 +239,70 @@
       "Hovhaness",
       "Alan <b>Hovhaness</b>"
     ],
+  "Anton Bruckner":
+    [
+      "Bruckner",
+      "Anton <b>Bruckner</b>"
+    ],
+  "Arthur Honegger":
+    [
+      "Honegger",
+      "Arthur <b>Honegger</b>"
+    ],
   "Béla Bartók":
     [
       "Bartók",
       "Béla <b>Bartók</b>"
+    ],
+  "Carl Nielsen":
+    [
+      "Nielsen",
+      "Carl <b>Nielsen</b>"
     ],
   "Conlon Nancarrow":
     [
       "Nancarrow",
       "Conlon <b>Nancarrow</b>"
     ],
+  "David Stock":
+    [
+      "Stock",
+      "David <b>Stock</b>"
+    ],
+  "Dmitri Shostakovich":
+    [
+      "Shostakovich",
+      "Dmitri <b>Shostakovich</b>"
+    ],
   "Erik Satie":
     [
       "Satie",
       "Erik <b>Satie</b>"
+    ],
+  "Gustav Mahler":
+    [
+      "Mahler",
+      "Gustav <b>Mahler</b>"
     ],
   "György Ligeti":
     [
       "Ligeti",
       "György <b>Ligeti</b>"
     ],
+  "Henryk Górecki":
+    [
+      "Górecki",
+      "Henryk <b>Górecki</b>"
+    ],
   "Johannes Brahms":
     [
       "Brahms",
       "Johannes <b>Brahms</b>"
     ],
-  "John Adams, Steve Reich":
+  "John Adams":
     [
-      "AdamsReich",
-      "John <b>Adams</b>, Steve <b>Reich</b>"
+      "Adams",
+      "John <b>Adams</b>"
     ],
   "John Cage":
     [
@@ -279,9 +314,34 @@
       "Ince",
       "Kamran <b>Ince</b>"
     ],
+  "Karl Orff":
+    [
+      "Orff",
+      "Karl <b>Orff</b>"
+    ],
   "Kronos Quartet":
     [
       "Kronos",
       "<b>Kronos</b> Quartet"
+    ],
+  "Serge Prokofiev":
+    [
+      "Prokofiev",
+      "Serge <b>Prokofiev</b>"
+    ],
+  "Steve Reich":
+    [
+      "Reich",
+      "Steve <b>Reich</b>"
+    ],
+  "Various Composers":
+    [
+      "VariousComposers",
+      "<b>Various Composers</b>"
+    ],
+  "Zoltán Kodály":
+    [
+      "Kodály",
+      "Zoltán <b>Kodály</b>"
     ]
 }
