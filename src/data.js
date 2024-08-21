@@ -4972,7 +4972,7 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Háry János Suite, Op. 35A",
-        "Cover": null,
+        "Cover": "Zoltán Kodály/Háry János Suite, Op. 35A/Folder.jpg",
         "Tracks": [
           {
             "Title": "The Fairy Tale Begins",
@@ -5009,7 +5009,7 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Lutoslawski- String Quartet",
-        "Cover": null,
+        "Cover": "Kronos Quartet/Lutoslawski- String Quartet/Folder.jpg",
         "Tracks": [
           {
             "Title": "Lutoslawski- String Quartet - Introductory Movement",
@@ -5171,7 +5171,7 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Symphony #1 In D, \u0027Titan\u0027",
-        "Cover": null,
+        "Cover": "Gustav Mahler/Symphony %231 In D, \u0027Titan\u0027/Folder.jpg",
         "Tracks": [
           {
             "Title": "Langsam Schleppend",
@@ -5289,7 +5289,7 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Symphony #4, Op. 29, \u0027The Inextinguishable\u0027",
-        "Cover": null,
+        "Cover": "Carl Nielsen/Symphony %234, Op. 29, \u0027The Inextinguishable\u0027/Folder.jpg",
         "Tracks": [
           {
             "Title": "Allegro, Poco Allegretto",
@@ -5310,7 +5310,7 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Carmina Burana",
-        "Cover": null,
+        "Cover": "Karl Orff/Carmina Burana/Folder.jpg",
         "Tracks": [
           {
             "Title": "Fortuna Imperatrix Mundi- O Fortuna",
@@ -5423,7 +5423,7 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Lieutenant Kijé Suite, Op. 60",
-        "Cover": null,
+        "Cover": "Serge Prokofiev/Lieutenant Kijé Suite, Op. 60/Folder.jpg",
         "Tracks": [
           {
             "Title": "The Birth Of Kijé",
@@ -5526,7 +5526,7 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Symphonies #9 \u0026 10",
-        "Cover": null,
+        "Cover": "Dmitri Shostakovich/Symphonies %239 \u0026 10/Folder.jpg",
         "Tracks": [
           {
             "Title": "Symphony #9 In E Flat, Op. 70 - 1. Allegro",
@@ -5720,7 +5720,7 @@ export const cdVaultClassical =
     "Albums": [
       {
         "Title": "Vaughan Williams, Satie, Barber, Fauré",
-        "Cover": null,
+        "Cover": "Various Composers/Vaughan Williams, Satie, Barber, Fauré/Folder.jpg",
         "Tracks": [
           {
             "Title": "Vaughan Williams- Fantasia On A Theme By Thomas Tallis",
