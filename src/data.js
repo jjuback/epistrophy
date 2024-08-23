@@ -4529,6 +4529,67 @@ export const cdVaultClassical =
     ]
   },
   {
+    "Name": "Johann Sebastian Bach",
+    "Index": "Bach",
+    "DisplayName": "Johann Sebastian \u003cb\u003eBach\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "The Four Great Toccatas \u0026 Fugues",
+        "Cover": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Toccata \u0026 Fugue In D Minor, BWV 565 - Toccata",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/01 Toccata \u0026 Fugue In D Minor, BWV 565 - Toccata.mp3"
+          },
+          {
+            "Title": "Toccata \u0026 Fugue In D Minor, BWV 565 - Fugue",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/02 Toccata \u0026 Fugue In D Minor, BWV 565 - Fugue.mp3"
+          },
+          {
+            "Title": "Toccata \u0026 Fugue In F, BWV 540 - Toccata",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/03 Toccata \u0026 Fugue In F, BWV 540 - Toccata.mp3"
+          },
+          {
+            "Title": "Toccata \u0026 Fugue In F, BWV 540 - Fugue",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/04 Toccata \u0026 Fugue In F, BWV 540 - Fugue.mp3"
+          },
+          {
+            "Title": "Toccata \u0026 Fugue In D Minor, BWV 538, \u0027Dorian\u0027 - Toccata",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/05 Toccata \u0026 Fugue In D Minor, BWV 538, \u0027Dorian\u0027 - Toccata.mp3"
+          },
+          {
+            "Title": "Toccata \u0026 Fugue In D Minor, BWV 538, \u0027Dorian\u0027 - Fugue",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/06 Toccata \u0026 Fugue In D Minor, BWV 538, \u0027Dorian\u0027 - Fugue.mp3"
+          },
+          {
+            "Title": "Toccata, Adagio \u0026 Fugue In C, BWV 564 - Toccata",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/07 Toccata, Adagio \u0026 Fugue In C, BWV 564 - Toccata.mp3"
+          },
+          {
+            "Title": "Toccata, Adagio \u0026 Fugue In C, BWV 564 - Adagio",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/08 Toccata, Adagio \u0026 Fugue In C, BWV 564 - Adagio.mp3"
+          },
+          {
+            "Title": "Toccata, Adagio \u0026 Fugue In C, BWV 564 - Fugue",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/09 Toccata, Adagio \u0026 Fugue In C, BWV 564 - Fugue.mp3"
+          },
+          {
+            "Title": "Wir Glauben All\u0027 An Einen Gott, BWV 680",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/10 Wir Glauben All\u0027 An Einen Gott, BWV 680.mp3"
+          },
+          {
+            "Title": "Jesu, Meine Freude, BWV 753",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/11 Jesu, Meine Freude, BWV 753.mp3"
+          },
+          {
+            "Title": "Fantasy In G, BWV 572",
+            "Url": "Johann Sebastian Bach/The Four Great Toccatas \u0026 Fugues/12 Fantasy In G, BWV 572.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Béla Bartók",
     "Index": "Bartók",
     "DisplayName": "Béla \u003cb\u003eBartók\u003c/b\u003e",
@@ -4564,6 +4625,47 @@ export const cdVaultClassical =
           {
             "Title": "Two Pictures - Dorftanz",
             "Url": "Béla Bartók/Concerto for Orchestra; Two Images/07 Two Pictures - Dorftanz.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Ludwig van Beethoven",
+    "Index": "Beethoven",
+    "DisplayName": "Ludwig van \u003cb\u003eBeethoven\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Symphony #8 In F, Op. 93",
+        "Cover": "Ludwig van Beethoven/Symphony %238 In F, Op. 93/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Symphony #8 In F, Op. 93 - 1. Allegro Vivace E Con Brio",
+            "Url": "Ludwig van Beethoven/Symphony %238 In F, Op. 93/01 Symphony %238 In F, Op. 93 - 1. Allegro Vivace E Con Brio.mp3"
+          },
+          {
+            "Title": "Symphony #8 In F, Op. 93 - 2. Allegretto Scherzando",
+            "Url": "Ludwig van Beethoven/Symphony %238 In F, Op. 93/02 Symphony %238 In F, Op. 93 - 2. Allegretto Scherzando.mp3"
+          },
+          {
+            "Title": "Symphony #8 In F, Op. 93 - 3. Tempo Di Menuetto",
+            "Url": "Ludwig van Beethoven/Symphony %238 In F, Op. 93/03 Symphony %238 In F, Op. 93 - 3. Tempo Di Menuetto.mp3"
+          },
+          {
+            "Title": "Symphony #8 In F, Op. 93 - 4. Allegro Vivace",
+            "Url": "Ludwig van Beethoven/Symphony %238 In F, Op. 93/04 Symphony %238 In F, Op. 93 - 4. Allegro Vivace.mp3"
+          },
+          {
+            "Title": "Coriolan Overture, Op. 62",
+            "Url": "Ludwig van Beethoven/Symphony %238 In F, Op. 93/05 Coriolan Overture, Op. 62.mp3"
+          },
+          {
+            "Title": "Fidelio Overture, Op. 72b",
+            "Url": "Ludwig van Beethoven/Symphony %238 In F, Op. 93/06 Fidelio Overture, Op. 72b.mp3"
+          },
+          {
+            "Title": "Leonore Overture #3, Op. 72a",
+            "Url": "Ludwig van Beethoven/Symphony %238 In F, Op. 93/07 Leonore Overture %233, Op. 72a.mp3"
           }
         ]
       }
@@ -4974,6 +5076,10 @@ export const cdVaultClassical =
         "Title": "Háry János Suite, Op. 35A",
         "Cover": "Zoltán Kodály/Háry János Suite, Op. 35A/Folder.jpg",
         "Tracks": [
+          {
+            "Title": "Prelude- The Fairy Tale Begins",
+            "Url": "Zoltán Kodály/Háry János Suite, Op. 35A/01 Prelude- The Fairy Tale Begins.mp3"
+          },
           {
             "Title": "The Fairy Tale Begins",
             "Url": "Zoltán Kodály/Háry János Suite, Op. 35A/01 The Fairy Tale Begins.mp3"
@@ -5450,6 +5556,63 @@ export const cdVaultClassical =
     ]
   },
   {
+    "Name": "Maurice Ravel",
+    "Index": "Ravel",
+    "DisplayName": "Maurice \u003cb\u003eRavel\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Daphnis Et Chloë",
+        "Cover": "Maurice Ravel/Daphnis Et Chloë/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Part 1- Lent",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/01 Part 1- Lent.mp3"
+          },
+          {
+            "Title": "Part 1- Vif (Chiffre 17)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/02 Part 1- Vif (Chiffre 17).mp3"
+          },
+          {
+            "Title": "Part 1- Vif (Chiffre 29)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/03 Part 1- Vif (Chiffre 29).mp3"
+          },
+          {
+            "Title": "Part 1- Lent (Chiffre 53)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/04 Part 1- Lent (Chiffre 53).mp3"
+          },
+          {
+            "Title": "Part 1- Modéré (Chiffre 70)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/05 Part 1- Modéré (Chiffre 70).mp3"
+          },
+          {
+            "Title": "Part 1- (Chiffre 83)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/06 Part 1- (Chiffre 83).mp3"
+          },
+          {
+            "Title": "Part 2- Animé Et Très Rude (Chiffre 92)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/07 Part 2- Animé Et Très Rude (Chiffre 92).mp3"
+          },
+          {
+            "Title": "Part 2- Très Rude (Chiffre 131)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/08 Part 2- Très Rude (Chiffre 131).mp3"
+          },
+          {
+            "Title": "Part 3- Lent (Chiffre 155)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/09 Part 3- Lent (Chiffre 155).mp3"
+          },
+          {
+            "Title": "Part 3- (Chiffre 170)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/10 Part 3- (Chiffre 170).mp3"
+          },
+          {
+            "Title": "Part 3- Lent (Chiffre 193)",
+            "Url": "Maurice Ravel/Daphnis Et Chloë/11 Part 3- Lent (Chiffre 193).mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Name": "Steve Reich",
     "Index": "Reich",
     "DisplayName": "Steve \u003cb\u003eReich\u003c/b\u003e",
@@ -5465,6 +5628,125 @@ export const cdVaultClassical =
           {
             "Title": "Eight Lines",
             "Url": "Steve Reich/Eight Lines, Vermont Counterpoint/02 Eight Lines.mp3"
+          }
+        ]
+      },
+      {
+        "Title": "Octet, Music for a Large Ensemble, Violin Phase",
+        "Cover": "Steve Reich/Octet, Music for a Large Ensemble, Violin Phase/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Music for a Large Ensemble",
+            "Url": "Steve Reich/Octet, Music for a Large Ensemble, Violin Phase/01 Music for a Large Ensemble.mp3"
+          },
+          {
+            "Title": "Violin Phase",
+            "Url": "Steve Reich/Octet, Music for a Large Ensemble, Violin Phase/02 Violin Phase.mp3"
+          },
+          {
+            "Title": "Octet",
+            "Url": "Steve Reich/Octet, Music for a Large Ensemble, Violin Phase/03 Octet.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Albert Roussel",
+    "Index": "Roussel",
+    "DisplayName": "Albert \u003cb\u003eRoussel\u003c/b\u003e",
+    "Albums": [
+      {
+        "Title": "Bacchus Et Ariane, Le Festin De L\u0027Araignée",
+        "Cover": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/Folder.jpg",
+        "Tracks": [
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 1- Introduction",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/01 Bacchus Et Ariane, Op. 43 - Act 1- Introduction.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 1- Jeux Des Éphèbes Et Des Vierges",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/02 Bacchus Et Ariane, Op. 43 - Act 1- Jeux Des Éphèbes Et Des Vierges.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 1- Danse Du Labyrinthe",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/03 Bacchus Et Ariane, Op. 43 - Act 1- Danse Du Labyrinthe.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 1- Bacchus Apparaît (La Danse Est Interrompue)",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/04 Bacchus Et Ariane, Op. 43 - Act 1- Bacchus Apparaît (La Danse Est Interrompue).mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 1- Thésée Est Ses Compagnons Se Précipitent",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/05 Bacchus Et Ariane, Op. 43 - Act 1- Thésée Est Ses Compagnons Se Précipitent.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 1- Danse De Bacchus",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/06 Bacchus Et Ariane, Op. 43 - Act 1- Danse De Bacchus.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- Introduction",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/07 Bacchus Et Ariane, Op. 43 - Act 2- Introduction.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- Réveil d\u0027Ariane",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/08 Bacchus Et Ariane, Op. 43 - Act 2- Réveil d\u0027Ariane.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- Bacchus Danse Seul",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/09 Bacchus Et Ariane, Op. 43 - Act 2- Bacchus Danse Seul.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- Le Baiser",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/10 Bacchus Et Ariane, Op. 43 - Act 2- Le Baiser.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- L\u0027Enchantement Dionysiaque",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/11 Bacchus Et Ariane, Op. 43 - Act 2- L\u0027Enchantement Dionysiaque.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- Le Thiase Défile",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/12 Bacchus Et Ariane, Op. 43 - Act 2- Le Thiase Défile.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- Danse D\u0027Ariane",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/13 Bacchus Et Ariane, Op. 43 - Act 2- Danse D\u0027Ariane.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- Danse D\u0027Ariane",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/14 Bacchus Et Ariane, Op. 43 - Act 2- Danse D\u0027Ariane.mp3"
+          },
+          {
+            "Title": "Bacchus Et Ariane, Op. 43 - Act 2- Bacchanale",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/15 Bacchus Et Ariane, Op. 43 - Act 2- Bacchanale.mp3"
+          },
+          {
+            "Title": "Le Festin De L\u0027Araignée, Op. 17 - Prélude",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/16 Le Festin De L\u0027Araignée, Op. 17 - Prélude.mp3"
+          },
+          {
+            "Title": "Le Festin De L\u0027Araignée, Op. 17 - Entree Des Fourmis",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/17 Le Festin De L\u0027Araignée, Op. 17 - Entree Des Fourmis.mp3"
+          },
+          {
+            "Title": "Le Festin De L\u0027Araignée, Op. 17 - Danse Du Papillon",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/18 Le Festin De L\u0027Araignée, Op. 17 - Danse Du Papillon.mp3"
+          },
+          {
+            "Title": "Le Festin De L\u0027Araignée, Op. 17 - Eclosion De L\u0027Éphémère",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/19 Le Festin De L\u0027Araignée, Op. 17 - Eclosion De L\u0027Éphémère.mp3"
+          },
+          {
+            "Title": "Le Festin De L\u0027Araignée, Op. 17 - Danse De L\u0027Éphémère",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/20 Le Festin De L\u0027Araignée, Op. 17 - Danse De L\u0027Éphémère.mp3"
+          },
+          {
+            "Title": "Le Festin De L\u0027Araignée, Op. 17 - Funérailles De L\u0027Éphémère",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/21 Le Festin De L\u0027Araignée, Op. 17 - Funérailles De L\u0027Éphémère.mp3"
+          },
+          {
+            "Title": "Le Festin De L\u0027Araignée, Op. 17 - La Nuit Tombe Sur Le Jardin Solitaire",
+            "Url": "Albert Roussel/Bacchus Et Ariane, Le Festin De L\u0027Araignée/22 Le Festin De L\u0027Araignée, Op. 17 - La Nuit Tombe Sur Le Jardin Solitaire.mp3"
           }
         ]
       }

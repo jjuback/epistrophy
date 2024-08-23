@@ -239,6 +239,11 @@
       "Hovhaness",
       "Alan <b>Hovhaness</b>"
     ],
+  "Albert Roussel":
+    [
+      "Roussel",
+      "Albert <b>Roussel</b>"
+    ],
   "Anton Bruckner":
     [
       "Bruckner",
@@ -294,6 +299,11 @@
       "Górecki",
       "Henryk <b>Górecki</b>"
     ],
+  "Johann Sebastian Bach":
+    [
+      "Bach",
+      "Johann Sebastian <b>Bach</b>"
+    ],
   "Johannes Brahms":
     [
       "Brahms",
@@ -323,6 +333,16 @@
     [
       "Kronos",
       "<b>Kronos</b> Quartet"
+    ],
+  "Ludwig van Beethoven":
+    [
+      "Beethoven",
+      "Ludwig van <b>Beethoven</b>"
+    ],
+  "Maurice Ravel":
+    [
+      "Ravel",
+      "Maurice <b>Ravel</b>"
     ],
   "Serge Prokofiev":
     [
