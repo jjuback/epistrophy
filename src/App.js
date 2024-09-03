@@ -1,4 +1,3 @@
-//import './App.css';
 import React, {useState, useEffect} from "react";
 import { Artists } from './Artists';
 import { Album } from './Album';
@@ -15,7 +14,7 @@ const App = () => {
     const goBack = () => setAlbum(undefined);
 
     useEffect(() => {
-      document.title = album ? album.Title : "Epistrophy";
+      document.title = album ? album.title : "Epistrophy";
     }, [album]);
 
     switch (album) {
@@ -23,7 +22,7 @@ const App = () => {
           return (
             <Container className="p-3">
               <div className="App">
-                <Artists current={artist} genre={genre} selectGenre={selectGenre} selectAlbum={selectAlbum} scrollY={scrollY} />
+                <Artists current={artist} setArtist={setArtist} genre={genre} selectGenre={selectGenre} selectAlbum={selectAlbum} scrollY={scrollY} />
               </div>
             </Container>
           )
@@ -31,7 +30,7 @@ const App = () => {
           return (
             <Container className="p-3">
               <div className="App">
-                <Album {...album} Artist={artist} genre={genre} goBack={goBack} count={count} />
+                <Album {...album} artist={artist} genre={genre} goBack={goBack} count={count} />
               </div>
             </Container>
           )

@@ -1,23 +1,51 @@
 import React, {useEffect} from "react";
 import parse from "html-react-parser";
 import "./Artists.css";
-import { cdVault, cdVaultClassical } from "./data";
-import { makeUrl } from "./utils";
 import Accordion from 'react-bootstrap/Accordion';
-import Figure from 'react-bootstrap/Figure';
 import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import { ArtistDetail } from "./ArtistDetail";
 import Nav from "react-bootstrap/Nav";
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import Spinner from 'react-bootstrap/Spinner';
+import { QueryClient, QueryClientProvider, useQuery } from '@tanstack/react-query'
+
+const queryClient = new QueryClient();
+
+queryClient.setDefaultOptions({
+  queries: {
+    staleTime: Infinity,
+  },
+})
 
 export const Artists = (props) => {
+  return (
+    <QueryClientProvider client={queryClient}>
+      <ArtistsByGenre {...props} />
+    </QueryClientProvider>
+  )
+}
+
+export const ArtistsByGenre = (props) => {
 
   useEffect(() => {
     window.scrollTo(0, props.scrollY);
   }, [props.scrollY]);
-  
+
+  const { isPending, error, data } = useQuery({
+    queryKey: ['artists', props.genre],
+    queryFn: async () => {
+      const response = await fetch(
+        `https://epistrophy-api.azurewebsites.net/genres/${props.genre}/artists`,
+      )
+      return await response.json()
+    },
+  })
+
+  if (isPending) return <Spinner animation="border" />;
+
+  if (error) return 'An error has occurred: ' + error.message;
+
   return (
     <>
       <Navbar className="fixed-top bg-body-tertiary">
@@ -43,30 +71,15 @@ export const Artists = (props) => {
         </Container>
       </Navbar>
       <Accordion className="mt-5" defaultActiveKey={props.current}>
-        {(props.genre === 0 ? cdVault : cdVaultClassical).map((artist) => {
-            return (
-                <Accordion.Item key={artist.Name} eventKey={artist.Name}>
-                    <Accordion.Header><span>{parse(artist.DisplayName, {trim: false})}</span></Accordion.Header>
-                    <Accordion.Body>
-                        <Container>
-                          <Row className="flex-wrap">
-                          {artist.Albums.map((data, index) => {
-                            return (
-                              <Col key={index.toString()} className="col-auto figure text-center">
-                                  <Figure className="align-items-center" onClick={() => { props.selectAlbum(data, artist.Name) }}>
-                                    <Figure.Image className="cover-thumbnail" src={makeUrl(data.Cover, props.genre)} />
-                                    <Figure.Caption className="cover-caption">
-                                      {data.Title}
-                                    </Figure.Caption>
-                                  </Figure>
-                              </Col>
-                            );
-                          })}
-                          </Row>
-                        </Container>
-                    </Accordion.Body>
-                </Accordion.Item>
-            );
+        {data.map((artist) => {
+          return (
+            <Accordion.Item key={artist.name} eventKey={artist.name}>
+              <Accordion.Header><span>{parse(artist.displayName, {trim: false})}</span></Accordion.Header>
+              <Accordion.Body onEnter={() => props.setArtist(artist.name)}>
+                {props.current === artist.name && <ArtistDetail {...props} {...artist} />}
+              </Accordion.Body>
+            </Accordion.Item>
+          );
         })}
       </Accordion>
     </>
