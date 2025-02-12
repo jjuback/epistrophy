@@ -36,3 +36,11 @@ audio {
 .accordion-button:focus {
     box-shadow: none;
 }
+
+.spinner-center {
+    position: fixed;
+    inset: 0;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+}
