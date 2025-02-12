@@ -2,7 +2,16 @@
 
 ![Epistrophy](/public/apple-touch-icon.png?raw=true)
 
-This project implements a static web app ([tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)) that provides access to a library of audio files stored in Azure. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses visual components from the [React Bootstrap](https://react-bootstrap.netlify.app/) framework. GitHub Actions are used to build and deploy the app whenever a commit is pushed.
+This project implements a static web app ([tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)) that provides access to a library of audio files stored in Azure.\
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses the following technologies:
+* [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+* ASP.NET Core [Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-8.0) 
+* Visual components from the [React Bootstrap](https://react-bootstrap.netlify.app/) framework
+* [react-query](https://www.npmjs.com/package/@tanstack/react-query) for fetching, caching and updating asynchronous data in React
+* [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/) for hosting and deployment
+* [GitHub Actions](https://github.com/features/actions) for building and deploying the app whenever a commit is pushed
+
+The app provides a top-level list of artists that you can expand to reveal the available albums for each. In turn, selecting an album displays a list of its tracks with a standard HTML5 audio control for playback. Use the Genre control at the upper right to switch between Jazz and Classical collections. During playback on a mobile device, the lock screen displays album metadata including cover art via the [MediaSession](https://w3c.github.io/mediasession/#the-mediasession-interface) interface.
 
 ![Epistrophy](/images/Epistrophy.gif)
 
@@ -39,16 +48,14 @@ John Coltrane
 
 Where `Folder.jpg` is a hidden image file representing album cover art. If Windows Media Player cannot locate an image automatically, you need to search for one, copy it to the appropriate folder, and set its hidden attribute from the command line. A reasonable image size is 720x720 pixels. 
 
-### `update-manifest`
+### `update-catalog`
 
-Builds a JSON manifest file from the resources previously uploaded to the Azure storage containers. This file is used to populate the main screen of the application, providing a top-level list of artists that you can expand to reveal the available albums for each. In turn, selecting an album displays a list of its tracks with a standard HTML5 audio control for playback.
-
-For example, the media subfolder shown above is represented in the manifest file as follows:
+Builds a JSON manifest file from the resources previously uploaded to the Azure storage containers. For example, the media subfolder shown above is represented in the manifest file as follows (where the Index value _n_ is an ordinal number assigned by this script):
 
 ```
 {
   "Name": "John Coltrane",
-  "Index": "Coltrane",
+  "Index": n,
   "DisplayName": "John \u003cb\u003eColtrane\u003c/b\u003e",
   "Albums": [
     {
@@ -77,12 +84,23 @@ For example, the media subfolder shown above is represented in the manifest file
 }
 ```
 
-## Source Files
+The manifest file is included as an embedded resource in the web API project. When the first API call is made, it is deserialized into a data structure that mirrors the API routes used by the React app.
+
+## Source Files (React App)
 
 File | Description
 ---- | -----------
 `App.js` | The main page of the app. Displays a list of artists or the selected album, if any.
-`Artists.js` | A scrollable list of artists. Clicking an artist reveals their available albums.
+`Artists.js` | A scrollable list of artists for the selected genre. Clicking an artist reveals their available albums.
+`ArtistDetail.js` | Displays the available albums for the selected artist.
 `Album.js` | Displays the tracks for the selected album. Includes an audio control for playback.
-`data.js` | Output from the `update-manifest` script. Contains an array for each storage container (genre).
-`index.json` | Used by the `update-manifest` script to sort and format display names for artists.
+
+## Source Files (Web API)
+
+File | Description
+---- | -----------
+`catalog.json` | Output from the `update-catalog` script. Contains an array for each storage container (genre).
+`index.json` | Used by the `update-catalog` script to sort and format display names for artists.
+`Catalog.cs` | Contains static methods that implement API endpoints.
+`Program.cs` | Creates the web application that surfaces API endpoints.
+`<Models>` | Folder containing POCO objects representing genres, artists, albums, and tracks.
