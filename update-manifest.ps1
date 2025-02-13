@@ -1,4 +1,4 @@
-### Run after new media has been uploaded
+### (Deprecated) Run after new media has been uploaded
 
 # Represents an album track
 class Track {

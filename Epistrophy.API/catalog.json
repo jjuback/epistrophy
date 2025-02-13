@@ -364,8 +364,69 @@
         ]
       },
       {
-        "Name": "Art Blakey",
+        "Name": "Count Basie",
         "Index": 2,
+        "DisplayName": "Count \u003cb\u003eBasie\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Compact Jazz - Count Basie",
+            "Cover": "Count Basie/Compact Jazz - Count Basie/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Shiny Stockings",
+                "Url": "Count Basie/Compact Jazz - Count Basie/01 Shiny Stockings.mp3"
+              },
+              {
+                "Title": "Down for the Count",
+                "Url": "Count Basie/Compact Jazz - Count Basie/02 Down for the Count.mp3"
+              },
+              {
+                "Title": "Corner Pocket",
+                "Url": "Count Basie/Compact Jazz - Count Basie/03 Corner Pocket.mp3"
+              },
+              {
+                "Title": "Blues Backstage",
+                "Url": "Count Basie/Compact Jazz - Count Basie/04 Blues Backstage.mp3"
+              },
+              {
+                "Title": "April In Paris",
+                "Url": "Count Basie/Compact Jazz - Count Basie/05 April In Paris.mp3"
+              },
+              {
+                "Title": "One O\u0027Clock Jump",
+                "Url": "Count Basie/Compact Jazz - Count Basie/06 One O\u0027Clock Jump.mp3"
+              },
+              {
+                "Title": "I\u0027m Shouting Again",
+                "Url": "Count Basie/Compact Jazz - Count Basie/07 I\u0027m Shouting Again.mp3"
+              },
+              {
+                "Title": "Count \u0027Em",
+                "Url": "Count Basie/Compact Jazz - Count Basie/08 Count \u0027Em.mp3"
+              },
+              {
+                "Title": "Nasty Magnus",
+                "Url": "Count Basie/Compact Jazz - Count Basie/09 Nasty Magnus.mp3"
+              },
+              {
+                "Title": "St. Louis Blues",
+                "Url": "Count Basie/Compact Jazz - Count Basie/10 St. Louis Blues.mp3"
+              },
+              {
+                "Title": "All Of Me",
+                "Url": "Count Basie/Compact Jazz - Count Basie/11 All Of Me.mp3"
+              },
+              {
+                "Title": "Doodle Oodle",
+                "Url": "Count Basie/Compact Jazz - Count Basie/12 Doodle Oodle.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Art Blakey",
+        "Index": 3,
         "DisplayName": "Art \u003cb\u003eBlakey\u003c/b\u003e",
         "Albums": [
           {
@@ -512,7 +573,7 @@
       },
       {
         "Name": "Arthur Blythe",
-        "Index": 3,
+        "Index": 4,
         "DisplayName": "Arthur \u003cb\u003eBlythe\u003c/b\u003e",
         "Albums": [
           {
@@ -553,7 +614,7 @@
       },
       {
         "Name": "Anthony Braxton",
-        "Index": 4,
+        "Index": 5,
         "DisplayName": "Anthony \u003cb\u003eBraxton\u003c/b\u003e",
         "Albums": [
           {
@@ -624,7 +685,7 @@
       },
       {
         "Name": "Clifford Brown \u0026 Max Roach Quintet",
-        "Index": 5,
+        "Index": 6,
         "DisplayName": "Clifford \u003cb\u003eBrown\u003c/b\u003e \u0026 Max \u003cb\u003eRoach\u003c/b\u003e Quintet",
         "Albums": [
           {
@@ -672,8 +733,85 @@
         ]
       },
       {
+        "Name": "Charlie Christian",
+        "Index": 7,
+        "DisplayName": "Charlie \u003cb\u003eChristian\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "The Genius Of The Electric Guitar",
+            "Cover": "Charlie Christian/The Genius Of The Electric Guitar/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Rose Room",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/01 Rose Room.mp3"
+              },
+              {
+                "Title": "Seven Come Eleven",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/02 Seven Come Eleven.mp3"
+              },
+              {
+                "Title": "Till Tom Special",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/03 Till Tom Special.mp3"
+              },
+              {
+                "Title": "Gone With \u0027What\u0027 Wind",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/04 Gone With \u0027What\u0027 Wind.mp3"
+              },
+              {
+                "Title": "Grand Slam (Boy Meets Goy)",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/05 Grand Slam (Boy Meets Goy).mp3"
+              },
+              {
+                "Title": "Six Appeal",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/06 Six Appeal.mp3"
+              },
+              {
+                "Title": "Wholly Cats",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/07 Wholly Cats.mp3"
+              },
+              {
+                "Title": "Royal Garden Blues",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/08 Royal Garden Blues.mp3"
+              },
+              {
+                "Title": "As Long As I Live",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/09 As Long As I Live.mp3"
+              },
+              {
+                "Title": "Benny\u0027s Bugle",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/10 Benny\u0027s Bugle.mp3"
+              },
+              {
+                "Title": "Breakfast Feud",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/11 Breakfast Feud.mp3"
+              },
+              {
+                "Title": "I Found A New Baby",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/12 I Found A New Baby.mp3"
+              },
+              {
+                "Title": "Solo Flight",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/13 Solo Flight.mp3"
+              },
+              {
+                "Title": "Blues In B",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/14 Blues In B.mp3"
+              },
+              {
+                "Title": "Waiting For Benny",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/15 Waiting For Benny.mp3"
+              },
+              {
+                "Title": "Air Mail Special",
+                "Url": "Charlie Christian/The Genius Of The Electric Guitar/16 Air Mail Special.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Ornette Coleman Double Quartet",
-        "Index": 6,
+        "Index": 8,
         "DisplayName": "Ornette \u003cb\u003eColeman\u003c/b\u003e Double Quartet",
         "Albums": [
           {
@@ -694,7 +832,7 @@
       },
       {
         "Name": "John Coltrane",
-        "Index": 7,
+        "Index": 9,
         "DisplayName": "John \u003cb\u003eColtrane\u003c/b\u003e",
         "Albums": [
           {
@@ -969,7 +1107,7 @@
       },
       {
         "Name": "John Coltrane \u0026 Johnny Hartman",
-        "Index": 8,
+        "Index": 10,
         "DisplayName": "John \u003cb\u003eColtrane\u003c/b\u003e \u0026 Johnny \u003cb\u003eHartman\u003c/b\u003e",
         "Albums": [
           {
@@ -1006,7 +1144,7 @@
       },
       {
         "Name": "Chick Corea",
-        "Index": 9,
+        "Index": 11,
         "DisplayName": "Chick \u003cb\u003eCorea\u003c/b\u003e",
         "Albums": [
           {
@@ -1059,9 +1197,43 @@
       },
       {
         "Name": "Larry Coryell",
-        "Index": 10,
+        "Index": 12,
         "DisplayName": "Larry \u003cb\u003eCoryell\u003c/b\u003e",
         "Albums": [
+          {
+            "Title": "Bolero \u0026 Scheherazade",
+            "Cover": "Larry Coryell/Bolero \u0026 Scheherazade/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "The Sea And Sindbad\u0027s Ship From Scheherazade",
+                "Url": "Larry Coryell/Bolero \u0026 Scheherazade/01 The Sea And Sindbad\u0027s Ship From Scheherazade.mp3"
+              },
+              {
+                "Title": "The Story Of The Kalendar Prince From Scheherazade",
+                "Url": "Larry Coryell/Bolero \u0026 Scheherazade/02 The Story Of The Kalendar Prince From Scheherazade.mp3"
+              },
+              {
+                "Title": "The Young Prince And The Young Princess From Scheherazade",
+                "Url": "Larry Coryell/Bolero \u0026 Scheherazade/03 The Young Prince And The Young Princess From Scheherazade.mp3"
+              },
+              {
+                "Title": "Festival At Bagdad -The Sea- The Shipwreck From Scheherazade",
+                "Url": "Larry Coryell/Bolero \u0026 Scheherazade/04 Festival At Bagdad -The Sea- The Shipwreck From Scheherazade.mp3"
+              },
+              {
+                "Title": "Bolero",
+                "Url": "Larry Coryell/Bolero \u0026 Scheherazade/05 Bolero.mp3"
+              },
+              {
+                "Title": "Noches En Los Jardines De Espana",
+                "Url": "Larry Coryell/Bolero \u0026 Scheherazade/06 Noches En Los Jardines De Espana.mp3"
+              },
+              {
+                "Title": "Zapateado, Op. 23 No. 2",
+                "Url": "Larry Coryell/Bolero \u0026 Scheherazade/07 Zapateado, Op. 23 No. 2.mp3"
+              }
+            ]
+          },
           {
             "Title": "Live From Bahia",
             "Cover": "Larry Coryell/Live From Bahia/Folder.jpg",
@@ -1108,7 +1280,7 @@
       },
       {
         "Name": "Larry Coryell \u0026 Emily Remler",
-        "Index": 11,
+        "Index": 13,
         "DisplayName": "Larry \u003cb\u003eCoryell\u003c/b\u003e \u0026 Emily \u003cb\u003eRemler\u003c/b\u003e",
         "Albums": [
           {
@@ -1149,7 +1321,7 @@
       },
       {
         "Name": "Miles Davis",
-        "Index": 12,
+        "Index": 14,
         "DisplayName": "Miles \u003cb\u003eDavis\u003c/b\u003e",
         "Albums": [
           {
@@ -1237,12 +1409,70 @@
                 "Url": "Miles Davis/Milestones/06 Straight, No Chaser.mp3"
               }
             ]
+          },
+          {
+            "Title": "Porgy And Bess",
+            "Cover": "Miles Davis/Porgy And Bess/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "The Buzzard Song",
+                "Url": "Miles Davis/Porgy And Bess/01 The Buzzard Song.mp3"
+              },
+              {
+                "Title": "Bess, You Is My Woman Now",
+                "Url": "Miles Davis/Porgy And Bess/02 Bess, You Is My Woman Now.mp3"
+              },
+              {
+                "Title": "Gone",
+                "Url": "Miles Davis/Porgy And Bess/03 Gone.mp3"
+              },
+              {
+                "Title": "Gone, Gone, Gone",
+                "Url": "Miles Davis/Porgy And Bess/04 Gone, Gone, Gone.mp3"
+              },
+              {
+                "Title": "Summertime",
+                "Url": "Miles Davis/Porgy And Bess/05 Summertime.mp3"
+              },
+              {
+                "Title": "Bess, Oh Where\u0027s My Bess",
+                "Url": "Miles Davis/Porgy And Bess/06 Bess, Oh Where\u0027s My Bess.mp3"
+              },
+              {
+                "Title": "Prayer (Oh Doctor Jesus)",
+                "Url": "Miles Davis/Porgy And Bess/07 Prayer (Oh Doctor Jesus).mp3"
+              },
+              {
+                "Title": "Fishermen, Strawberry And Devil Crab",
+                "Url": "Miles Davis/Porgy And Bess/08 Fishermen, Strawberry And Devil Crab.mp3"
+              },
+              {
+                "Title": "My Man\u0027s Gone Now",
+                "Url": "Miles Davis/Porgy And Bess/09 My Man\u0027s Gone Now.mp3"
+              },
+              {
+                "Title": "It Ain\u0027t Necessarily So",
+                "Url": "Miles Davis/Porgy And Bess/10 It Ain\u0027t Necessarily So.mp3"
+              },
+              {
+                "Title": "Here Come De Honey Man",
+                "Url": "Miles Davis/Porgy And Bess/11 Here Come De Honey Man.mp3"
+              },
+              {
+                "Title": "I Loves You, Porgy",
+                "Url": "Miles Davis/Porgy And Bess/12 I Loves You, Porgy.mp3"
+              },
+              {
+                "Title": "There\u0027s A Boat That\u0027s Leaving Soon For New York",
+                "Url": "Miles Davis/Porgy And Bess/13 There\u0027s A Boat That\u0027s Leaving Soon For New York.mp3"
+              }
+            ]
           }
         ]
       },
       {
         "Name": "Miles Davis \u0026 John Coltrane",
-        "Index": 13,
+        "Index": 15,
         "DisplayName": "Miles \u003cb\u003eDavis\u003c/b\u003e \u0026 John \u003cb\u003eColtrane\u003c/b\u003e",
         "Albums": [
           {
@@ -1282,8 +1512,61 @@
         ]
       },
       {
+        "Name": "Miles Davis \u0026 Gil Evans",
+        "Index": 16,
+        "DisplayName": "Miles \u003cb\u003eDavis\u003c/b\u003e \u0026 Gil \u003cb\u003eEvans\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Miles Ahead",
+            "Cover": "Miles Davis \u0026 Gil Evans/Miles Ahead/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Springsville",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/01 Springsville.mp3"
+              },
+              {
+                "Title": "The Maids Of Cadiz",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/02 The Maids Of Cadiz.mp3"
+              },
+              {
+                "Title": "The Duke",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/03 The Duke.mp3"
+              },
+              {
+                "Title": "My Ship",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/04 My Ship.mp3"
+              },
+              {
+                "Title": "Miles Ahead",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/05 Miles Ahead.mp3"
+              },
+              {
+                "Title": "Blues For Pablo",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/06 Blues For Pablo.mp3"
+              },
+              {
+                "Title": "New Rhumba",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/07 New Rhumba.mp3"
+              },
+              {
+                "Title": "The Meaning Of The Blues",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/08 The Meaning Of The Blues.mp3"
+              },
+              {
+                "Title": "Lament",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/09 Lament.mp3"
+              },
+              {
+                "Title": "I Don\u0027t Wanna Be Kissed (By Anyone But You)",
+                "Url": "Miles Davis \u0026 Gil Evans/Miles Ahead/10 I Don\u0027t Wanna Be Kissed (By Anyone But You).mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Eric Dolphy",
-        "Index": 14,
+        "Index": 17,
         "DisplayName": "Eric \u003cb\u003eDolphy\u003c/b\u003e",
         "Albums": [
           {
@@ -1410,7 +1693,7 @@
       },
       {
         "Name": "Bill Evans",
-        "Index": 15,
+        "Index": 18,
         "DisplayName": "Bill \u003cb\u003eEvans\u003c/b\u003e",
         "Albums": [
           {
@@ -1463,7 +1746,7 @@
       },
       {
         "Name": "Bill Evans \u0026 Jim Hall",
-        "Index": 16,
+        "Index": 19,
         "DisplayName": "Bill \u003cb\u003eEvans\u003c/b\u003e \u0026 Jim \u003cb\u003eHall\u003c/b\u003e",
         "Albums": [
           {
@@ -1516,7 +1799,7 @@
       },
       {
         "Name": "Tommy Flanagan",
-        "Index": 17,
+        "Index": 20,
         "DisplayName": "Tommy \u003cb\u003eFlanagan\u003c/b\u003e",
         "Albums": [
           {
@@ -1615,7 +1898,7 @@
       },
       {
         "Name": "Dizzy Gillespie - Sarah Vaughn - Charlie Parker",
-        "Index": 18,
+        "Index": 21,
         "DisplayName": "Dizzy \u003cb\u003eGillespie\u003c/b\u003e - Sarah \u003cb\u003eVaughn\u003c/b\u003e - Charlie \u003cb\u003eParker\u003c/b\u003e",
         "Albums": [
           {
@@ -1688,7 +1971,7 @@
       },
       {
         "Name": "Coleman Hawkins",
-        "Index": 19,
+        "Index": 22,
         "DisplayName": "Coleman \u003cb\u003eHawkins\u003c/b\u003e",
         "Albums": [
           {
@@ -1793,7 +2076,7 @@
       },
       {
         "Name": "Billie Holiday",
-        "Index": 20,
+        "Index": 23,
         "DisplayName": "Billie \u003cb\u003eHoliday\u003c/b\u003e",
         "Albums": [
           {
@@ -1924,7 +2207,7 @@
       },
       {
         "Name": "Eddie Jefferson",
-        "Index": 21,
+        "Index": 24,
         "DisplayName": "Eddie \u003cb\u003eJefferson\u003c/b\u003e",
         "Albums": [
           {
@@ -2031,7 +2314,7 @@
       },
       {
         "Name": "Rahsaan Roland Kirk",
-        "Index": 22,
+        "Index": 25,
         "DisplayName": "Rahsaan Roland \u003cb\u003eKirk\u003c/b\u003e",
         "Albums": [
           {
@@ -2170,7 +2453,7 @@
       },
       {
         "Name": "Roland Kirk, Jack McDuff",
-        "Index": 23,
+        "Index": 26,
         "DisplayName": "Roland \u003cb\u003eKirk\u003c/b\u003e, Jack \u003cb\u003eMcDuff\u003c/b\u003e",
         "Albums": [
           {
@@ -2211,7 +2494,7 @@
       },
       {
         "Name": "Kronos Quartet, Ron Carter",
-        "Index": 24,
+        "Index": 27,
         "DisplayName": "\u003cb\u003eKronos\u003c/b\u003e Quartet, Ron \u003cb\u003eCarter\u003c/b\u003e",
         "Albums": [
           {
@@ -2260,7 +2543,7 @@
       },
       {
         "Name": "Oliver Lake Quintet",
-        "Index": 25,
+        "Index": 28,
         "DisplayName": "Oliver \u003cb\u003eLake\u003c/b\u003e Quintet",
         "Albums": [
           {
@@ -2297,7 +2580,7 @@
       },
       {
         "Name": "Lambert, Hendricks \u0026 Bavan",
-        "Index": 26,
+        "Index": 29,
         "DisplayName": "\u003cb\u003eLambert\u003c/b\u003e, \u003cb\u003eHendricks\u003c/b\u003e \u0026 \u003cb\u003eBavan\u003c/b\u003e",
         "Albums": [
           {
@@ -2369,8 +2652,81 @@
         ]
       },
       {
+        "Name": "Lambert, Hendricks \u0026 Ross",
+        "Index": 30,
+        "DisplayName": "\u003cb\u003eLambert\u003c/b\u003e, \u003cb\u003eHendricks\u003c/b\u003e \u0026 \u003cb\u003eRoss\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Everybody\u0027s Boppin\u0027",
+            "Cover": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Charleston Alley [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/01 Charleston Alley [Album Version].mp3"
+              },
+              {
+                "Title": "Moanin\u0027 [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/02 Moanin\u0027 [Album Version].mp3"
+              },
+              {
+                "Title": "Twisted [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/03 Twisted [Album Version].mp3"
+              },
+              {
+                "Title": "Bijou [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/04 Bijou [Album Version].mp3"
+              },
+              {
+                "Title": "Cloudburst [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/05 Cloudburst [Album Version].mp3"
+              },
+              {
+                "Title": "Centerpiece [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/06 Centerpiece [Album Version].mp3"
+              },
+              {
+                "Title": "Gimme That Wine",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/07 Gimme That Wine.mp3"
+              },
+              {
+                "Title": "Sermonette [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/08 Sermonette [Album Version].mp3"
+              },
+              {
+                "Title": "Summertime [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/09 Summertime [Album Version].mp3"
+              },
+              {
+                "Title": "Everbody\u0027s Boppin\u0027 [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/10 Everbody\u0027s Boppin\u0027 [Album Version].mp3"
+              },
+              {
+                "Title": "Home Cookin\u0027 [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/11 Home Cookin\u0027 [Album Version].mp3"
+              },
+              {
+                "Title": "Blue [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/12 Blue [Album Version].mp3"
+              },
+              {
+                "Title": "Come On Home [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/13 Come On Home [Album Version].mp3"
+              },
+              {
+                "Title": "Cottontail [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/14 Cottontail [Album Version].mp3"
+              },
+              {
+                "Title": "Midnight Indigo [Album Version]",
+                "Url": "Lambert, Hendricks \u0026 Ross/Everybody\u0027s Boppin\u0027/15 Midnight Indigo [Album Version].mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Yusef Lateef",
-        "Index": 27,
+        "Index": 31,
         "DisplayName": "Yusef \u003cb\u003eLateef\u003c/b\u003e",
         "Albums": [
           {
@@ -2455,7 +2811,7 @@
       },
       {
         "Name": "M\u0027Boom",
-        "Index": 28,
+        "Index": 32,
         "DisplayName": "\u003cb\u003eM\u0027Boom\u003c/b\u003e",
         "Albums": [
           {
@@ -2524,7 +2880,7 @@
       },
       {
         "Name": "Jackie McLean",
-        "Index": 29,
+        "Index": 33,
         "DisplayName": "Jackie \u003cb\u003eMcLean\u003c/b\u003e",
         "Albums": [
           {
@@ -2560,8 +2916,81 @@
         ]
       },
       {
+        "Name": "Carmen McRae",
+        "Index": 34,
+        "DisplayName": "Carmen \u003cb\u003eMcRae\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Carmen Sings Monk",
+            "Cover": "Carmen McRae/Carmen Sings Monk/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Get It Straight (Live)",
+                "Url": "Carmen McRae/Carmen Sings Monk/01 Get It Straight (Live).mp3"
+              },
+              {
+                "Title": "Dear Ruby",
+                "Url": "Carmen McRae/Carmen Sings Monk/02 Dear Ruby.mp3"
+              },
+              {
+                "Title": "It\u0027s Over Now",
+                "Url": "Carmen McRae/Carmen Sings Monk/03 It\u0027s Over Now.mp3"
+              },
+              {
+                "Title": "Monkery\u0027s The Blues",
+                "Url": "Carmen McRae/Carmen Sings Monk/04 Monkery\u0027s The Blues.mp3"
+              },
+              {
+                "Title": "You Know Who",
+                "Url": "Carmen McRae/Carmen Sings Monk/05 You Know Who.mp3"
+              },
+              {
+                "Title": "Little Butterfly",
+                "Url": "Carmen McRae/Carmen Sings Monk/06 Little Butterfly.mp3"
+              },
+              {
+                "Title": "Listen To Monk",
+                "Url": "Carmen McRae/Carmen Sings Monk/07 Listen To Monk.mp3"
+              },
+              {
+                "Title": "How I Wish",
+                "Url": "Carmen McRae/Carmen Sings Monk/08 How I Wish.mp3"
+              },
+              {
+                "Title": "Man, That Was A Dream",
+                "Url": "Carmen McRae/Carmen Sings Monk/09 Man, That Was A Dream.mp3"
+              },
+              {
+                "Title": "\u0027Round Midnight",
+                "Url": "Carmen McRae/Carmen Sings Monk/10 \u0027Round Midnight.mp3"
+              },
+              {
+                "Title": "Still We Dream",
+                "Url": "Carmen McRae/Carmen Sings Monk/11 Still We Dream.mp3"
+              },
+              {
+                "Title": "Suddenly (Live)",
+                "Url": "Carmen McRae/Carmen Sings Monk/12 Suddenly (Live).mp3"
+              },
+              {
+                "Title": "Looking Back",
+                "Url": "Carmen McRae/Carmen Sings Monk/13 Looking Back.mp3"
+              },
+              {
+                "Title": "Suddenly",
+                "Url": "Carmen McRae/Carmen Sings Monk/14 Suddenly.mp3"
+              },
+              {
+                "Title": "Get It Straight",
+                "Url": "Carmen McRae/Carmen Sings Monk/15 Get It Straight.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Charles Mingus",
-        "Index": 30,
+        "Index": 35,
         "DisplayName": "Charles \u003cb\u003eMingus\u003c/b\u003e",
         "Albums": [
           {
@@ -2678,7 +3107,7 @@
       },
       {
         "Name": "Thelonious Monk",
-        "Index": 31,
+        "Index": 36,
         "DisplayName": "Thelonious \u003cb\u003eMonk\u003c/b\u003e",
         "Albums": [
           {
@@ -3217,7 +3646,7 @@
       },
       {
         "Name": "Lee Morgan",
-        "Index": 32,
+        "Index": 37,
         "DisplayName": "Lee \u003cb\u003eMorgan\u003c/b\u003e",
         "Albums": [
           {
@@ -3275,12 +3704,42 @@
                 "Url": "Lee Morgan/The Rumproller [Limited Edition]/06 Venus Di Mildew.mp3"
               }
             ]
+          },
+          {
+            "Title": "The Sidewinder",
+            "Cover": "Lee Morgan/The Sidewinder/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "The Sidewinder",
+                "Url": "Lee Morgan/The Sidewinder/01 The Sidewinder.mp3"
+              },
+              {
+                "Title": "Totem Pole",
+                "Url": "Lee Morgan/The Sidewinder/02 Totem Pole.mp3"
+              },
+              {
+                "Title": "Totem Pole [Alt. Take]",
+                "Url": "Lee Morgan/The Sidewinder/03 Totem Pole [Alt. Take].mp3"
+              },
+              {
+                "Title": "Gary\u0027s Notebook",
+                "Url": "Lee Morgan/The Sidewinder/04 Gary\u0027s Notebook.mp3"
+              },
+              {
+                "Title": "Boy, What A Night",
+                "Url": "Lee Morgan/The Sidewinder/05 Boy, What A Night.mp3"
+              },
+              {
+                "Title": "Hocus-Pocus",
+                "Url": "Lee Morgan/The Sidewinder/06 Hocus-Pocus.mp3"
+              }
+            ]
           }
         ]
       },
       {
         "Name": "David Murray Quartet",
-        "Index": 33,
+        "Index": 38,
         "DisplayName": "David \u003cb\u003eMurray\u003c/b\u003e Quartet",
         "Albums": [
           {
@@ -3317,7 +3776,7 @@
       },
       {
         "Name": "Charlie Parker",
-        "Index": 34,
+        "Index": 39,
         "DisplayName": "Charlie \u003cb\u003eParker\u003c/b\u003e",
         "Albums": [
           {
@@ -3730,7 +4189,7 @@
       },
       {
         "Name": "Bud Powell",
-        "Index": 35,
+        "Index": 40,
         "DisplayName": "Bud \u003cb\u003ePowell\u003c/b\u003e",
         "Albums": [
           {
@@ -3939,7 +4398,7 @@
       },
       {
         "Name": "Max Roach Double Quartet",
-        "Index": 36,
+        "Index": 41,
         "DisplayName": "Max \u003cb\u003eRoach\u003c/b\u003e Double Quartet",
         "Albums": [
           {
@@ -3972,9 +4431,59 @@
       },
       {
         "Name": "Sonny Rollins",
-        "Index": 37,
+        "Index": 42,
         "DisplayName": "Sonny \u003cb\u003eRollins\u003c/b\u003e",
         "Albums": [
+          {
+            "Title": "Ken Burns Jazz- Sonny Rollins",
+            "Cover": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Oleo",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/01 Oleo.mp3"
+              },
+              {
+                "Title": "Valse Hot",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/02 Valse Hot.mp3"
+              },
+              {
+                "Title": "St. Thomas",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/03 St. Thomas.mp3"
+              },
+              {
+                "Title": "Blue Seven",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/04 Blue Seven.mp3"
+              },
+              {
+                "Title": "I\u0027m An Old Cowhand",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/05 I\u0027m An Old Cowhand.mp3"
+              },
+              {
+                "Title": "Sonnymoon For Two",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/06 Sonnymoon For Two.mp3"
+              },
+              {
+                "Title": "I Know That You Know",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/07 I Know That You Know.mp3"
+              },
+              {
+                "Title": "Body And Soul",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/08 Body And Soul.mp3"
+              },
+              {
+                "Title": "The Bridge",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/09 The Bridge.mp3"
+              },
+              {
+                "Title": "All The Things You Are",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/10 All The Things You Are.mp3"
+              },
+              {
+                "Title": "Alfie\u0027s Theme Differently",
+                "Url": "Sonny Rollins/Ken Burns Jazz- Sonny Rollins/11 Alfie\u0027s Theme Differently.mp3"
+              }
+            ]
+          },
           {
             "Title": "Sonny Rollins- Volume One",
             "Cover": "Sonny Rollins/Sonny Rollins- Volume One/Folder.jpg",
@@ -4005,7 +4514,7 @@
       },
       {
         "Name": "ROVA Saxophone Quartet",
-        "Index": 38,
+        "Index": 43,
         "DisplayName": "\u003cb\u003eROVA\u003c/b\u003e Saxophone Quartet",
         "Albums": [
           {
@@ -4072,7 +4581,7 @@
       },
       {
         "Name": "Poncho Sanchez",
-        "Index": 39,
+        "Index": 44,
         "DisplayName": "Poncho \u003cb\u003eSanchez\u003c/b\u003e",
         "Albums": [
           {
@@ -4133,7 +4642,7 @@
       },
       {
         "Name": "Horace Silver",
-        "Index": 40,
+        "Index": 45,
         "DisplayName": "Horace \u003cb\u003eSilver\u003c/b\u003e",
         "Albums": [
           {
@@ -4240,7 +4749,7 @@
       },
       {
         "Name": "Stanley Turrentine",
-        "Index": 41,
+        "Index": 46,
         "DisplayName": "Stanley \u003cb\u003eTurrentine\u003c/b\u003e",
         "Albums": [
           {
@@ -4289,7 +4798,7 @@
       },
       {
         "Name": "McCoy Tyner",
-        "Index": 42,
+        "Index": 47,
         "DisplayName": "McCoy \u003cb\u003eTyner\u003c/b\u003e",
         "Albums": [
           {
@@ -4354,7 +4863,7 @@
       },
       {
         "Name": "Various Artists",
-        "Index": 43,
+        "Index": 48,
         "DisplayName": "\u003cb\u003eVarious Artists\u003c/b\u003e",
         "Albums": [
           {
@@ -4391,7 +4900,7 @@
       },
       {
         "Name": "Mal Waldron",
-        "Index": 44,
+        "Index": 49,
         "DisplayName": "Mal \u003cb\u003eWaldron\u003c/b\u003e",
         "Albums": [
           {
@@ -4432,7 +4941,7 @@
       },
       {
         "Name": "Water Shed 5tet",
-        "Index": 45,
+        "Index": 50,
         "DisplayName": "\u003cb\u003eWater Shed\u003c/b\u003e 5tet",
         "Albums": [
           {
@@ -4502,6 +5011,72 @@
               {
                 "Title": "Looking Outward (Alternative Take)",
                 "Url": "Water Shed 5tet/Blue Plate Tectonics/16 Looking Outward (Alternative Take).mp3"
+              }
+            ]
+          },
+          {
+            "Title": "Duck Bill Hammer",
+            "Cover": "Water Shed 5tet/Duck Bill Hammer/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Duck Bill Hammer",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/01 Duck Bill Hammer.mp3"
+              },
+              {
+                "Title": "Beef Extender #7",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/02 Beef Extender %237.mp3"
+              },
+              {
+                "Title": "The Binge",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/03 The Binge.mp3"
+              },
+              {
+                "Title": "Torque Wrench",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/04 Torque Wrench.mp3"
+              },
+              {
+                "Title": "Train To Tacuba",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/05 Train To Tacuba.mp3"
+              },
+              {
+                "Title": "Sweater And Glasses Part 1-Beef Extender #6",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/06 Sweater And Glasses Part 1-Beef Extender %236.mp3"
+              },
+              {
+                "Title": "Potemkin Town",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/07 Potemkin Town.mp3"
+              },
+              {
+                "Title": "Beef Extender #4",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/08 Beef Extender %234.mp3"
+              },
+              {
+                "Title": "101 Degrees",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/09 101 Degrees.mp3"
+              },
+              {
+                "Title": "Graham Crackers",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/10 Graham Crackers.mp3"
+              },
+              {
+                "Title": "Coping Saw",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/11 Coping Saw.mp3"
+              },
+              {
+                "Title": "Beef Extender #3",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/12 Beef Extender %233.mp3"
+              },
+              {
+                "Title": "Kill Bill",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/13 Kill Bill.mp3"
+              },
+              {
+                "Title": "Cut To The Chase",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/14 Cut To The Chase.mp3"
+              },
+              {
+                "Title": "Soup Du Jour",
+                "Url": "Water Shed 5tet/Duck Bill Hammer/15 Soup Du Jour.mp3"
               }
             ]
           }

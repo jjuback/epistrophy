@@ -6,6 +6,7 @@
 .cover-large-thumbnail {
     width: 360px;
     height: 360px;
+    margin-top: 0.4em;
 }
 
 .cover-caption {
@@ -35,4 +36,12 @@ audio {
 
 .accordion-button:focus {
     box-shadow: none;
+}
+
+.spinner-center {
+    position: fixed;
+    inset: 0;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
 }

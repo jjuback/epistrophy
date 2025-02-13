@@ -39,10 +39,20 @@
       "Adderley",
       "Cannonball <b>Adderley</b>"
     ],
+  "Carmen McRae":
+    [
+      "McRae",
+      "Carmen <b>McRae</b>"
+    ],
   "Charles Mingus":
     [
       "Mingus",
       "Charles <b>Mingus</b>"
+    ],
+  "Charlie Christian":
+    [
+      "Christian",
+      "Charlie <b>Christian</b>"
     ],
   "Charlie Parker":
     [
@@ -68,6 +78,11 @@
     [
       "Hawkins",
       "Coleman <b>Hawkins</b>"
+    ],
+  "Count Basie":
+    [
+      "Basie",
+      "Count <b>Basie</b>"
     ],
   "David Murray Quartet":
     [
@@ -119,6 +134,11 @@
       "LambertHendricksBavan",
       "<b>Lambert</b>, <b>Hendricks</b> & <b>Bavan</b>"
     ],
+  "Lambert, Hendricks & Ross":
+    [
+      "LambertHendricksRoss",
+      "<b>Lambert</b>, <b>Hendricks</b> & <b>Ross</b>"
+    ],
   "Larry Coryell & Emily Remler":
     [
       "CoryellRemler",
@@ -153,6 +173,11 @@
     [
       "Tyner",
       "McCoy <b>Tyner</b>"
+    ],
+  "Miles Davis & Gil Evans":
+    [
+      "DavisEvans",
+      "Miles <b>Davis</b> & Gil <b>Evans</b>"
     ],
   "Miles Davis & John Coltrane":
     [

@@ -20,7 +20,13 @@ export const ArtistDetail = (props) => {
     },
   })
 
-  if (isPending) return <Spinner animation="border" />;
+  if (isPending) return (
+    <>
+      <div className="d-flex justify-content-center">
+        <Spinner animation="border" />
+      </div>
+    </>
+  );
 
   if (error) return 'An error has occurred: ' + error.message;
 
