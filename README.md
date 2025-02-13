@@ -86,14 +86,16 @@ Builds a JSON manifest file from the resources previously uploaded to the Azure 
 
 The manifest file is included as an embedded resource in the web API project. When the first API call is made, it is deserialized into a data structure that mirrors the API routes used by the React app.
 
-## Source Files (React App)
+## API Endpoints
 
-File | Description
----- | -----------
-`App.js` | The main page of the app. Displays a list of artists or the selected album, if any.
-`Artists.js` | A scrollable list of artists for the selected genre. Clicking an artist reveals their available albums.
-`ArtistDetail.js` | Displays the available albums for the selected artist.
-`Album.js` | Displays the tracks for the selected album. Includes an audio control for playback.
+The API root is published without authentication at `https://epistrophy-api.azurewebsites.net`.
+
+URL | Description
+--- | -----------
+`/` | Returns the entire catalog. Not used by the app, but included for completeness.
+`/genres` | Returns an array of the available genres corresponding to Azure storage containers.
+`/genres/i/artists` | Returns an array of the artists for the specified genre.
+`/genres/i/artists/n` | Returns info for the specified artist, including an array of albums with track details.
 
 ## Source Files (Web API)
 
@@ -104,3 +106,13 @@ File | Description
 `Catalog.cs` | Contains static methods that implement API endpoints.
 `Program.cs` | Creates the web application that surfaces API endpoints.
 `<Models>` | Folder containing POCO objects representing genres, artists, albums, and tracks.
+
+## Source Files (React App)
+
+File | Description
+---- | -----------
+`App.js` | The main page of the app. Displays a list of artists or the selected album, if any.
+`Artists.js` | A scrollable list of artists for the selected genre. Clicking an artist reveals their available albums.
+`ArtistDetail.js` | Displays the available albums for the selected artist.
+`Album.js` | Displays the tracks for the selected album. Includes an audio control for playback.
+
