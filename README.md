@@ -2,8 +2,7 @@
 
 ![Epistrophy](/public/apple-touch-icon.png?raw=true)
 
-This project implements a static web app ([tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)) that provides access to a library of audio files stored in Azure.\
-It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses the following technologies:
+This project implements a static web app ([tinyurl.com/epistrophy](https://tinyurl.com/epistrophy)) that provides access to a library of audio files stored in Azure. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses the following technologies:
 * [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 * ASP.NET Core [Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-8.0) 
 * Visual components from the [React Bootstrap](https://react-bootstrap.netlify.app/) framework
@@ -17,8 +16,7 @@ The app provides a top-level list of artists that you can expand to reveal the a
 
 ## Azure Resource Scripts
 
-This project uses PowerShell scripts to create and update Azure resource groups and storage containers.\
-The scripts iterate over one or more Windows music folders populated with Windows Media Player.
+This project uses PowerShell scripts to create and update Azure resource groups and storage containers. The scripts iterate over one or more Windows music folders populated with Windows Media Player.
 
 In the project directory, run the following scripts in this order:
 
