@@ -5396,8 +5396,149 @@
         ]
       },
       {
-        "Name": "Henryk Górecki",
+        "Name": "Manuel de Falla",
         "Index": 7,
+        "DisplayName": "Manuel \u003cb\u003ede Falla\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "The Three-cornered Hat",
+            "Cover": "Manuel de Falla/The Three-cornered Hat/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Introduction",
+                "Url": "Manuel de Falla/The Three-cornered Hat/01 Introduction.mp3"
+              },
+              {
+                "Title": "Afternoon",
+                "Url": "Manuel de Falla/The Three-cornered Hat/02 Afternoon.mp3"
+              },
+              {
+                "Title": "Dance Of The Miller\u0027s Wife",
+                "Url": "Manuel de Falla/The Three-cornered Hat/03 Dance Of The Miller\u0027s Wife.mp3"
+              },
+              {
+                "Title": "The Corregidor",
+                "Url": "Manuel de Falla/The Three-cornered Hat/04 The Corregidor.mp3"
+              },
+              {
+                "Title": "The Miller\u0027s Wife",
+                "Url": "Manuel de Falla/The Three-cornered Hat/05 The Miller\u0027s Wife.mp3"
+              },
+              {
+                "Title": "The Grapes",
+                "Url": "Manuel de Falla/The Three-cornered Hat/06 The Grapes.mp3"
+              },
+              {
+                "Title": "Dance Of The Neighbours",
+                "Url": "Manuel de Falla/The Three-cornered Hat/07 Dance Of The Neighbours.mp3"
+              },
+              {
+                "Title": "The Miller\u0027s Dance",
+                "Url": "Manuel de Falla/The Three-cornered Hat/08 The Miller\u0027s Dance.mp3"
+              },
+              {
+                "Title": "The Corregidor\u0027s Dance",
+                "Url": "Manuel de Falla/The Three-cornered Hat/09 The Corregidor\u0027s Dance.mp3"
+              },
+              {
+                "Title": "Final Dance",
+                "Url": "Manuel de Falla/The Three-cornered Hat/10 Final Dance.mp3"
+              },
+              {
+                "Title": "Ritual Fire Dance",
+                "Url": "Manuel de Falla/The Three-cornered Hat/11 Ritual Fire Dance.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Antonín Dvořák",
+        "Index": 8,
+        "DisplayName": "Antonín \u003cb\u003eDvořák\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Carnival Overture, Slavonic Dances",
+            "Cover": "Antonín Dvořák/Carnival Overture, Slavonic Dances/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Carnival Overture, Op. 92, B 169",
+                "Url": "Antonín Dvořák/Carnival Overture, Slavonic Dances/01 Carnival Overture, Op. 92, B 169.mp3"
+              },
+              {
+                "Title": "Slavonic Dance In C, Op. 46-1, \u0027Furiant\u0027",
+                "Url": "Antonín Dvořák/Carnival Overture, Slavonic Dances/02 Slavonic Dance In C, Op. 46-1, \u0027Furiant\u0027.mp3"
+              },
+              {
+                "Title": "Slavonic Dance In E Minor, Op. 46-2, \u0027Dumka\u0027",
+                "Url": "Antonín Dvořák/Carnival Overture, Slavonic Dances/03 Slavonic Dance In E Minor, Op. 46-2, \u0027Dumka\u0027.mp3"
+              },
+              {
+                "Title": "Slavonic Dance In E Minor, Op. 72-10",
+                "Url": "Antonín Dvořák/Carnival Overture, Slavonic Dances/04 Slavonic Dance In E Minor, Op. 72-10.mp3"
+              },
+              {
+                "Title": "Slavonic Dance In C, Op. 72-15",
+                "Url": "Antonín Dvořák/Carnival Overture, Slavonic Dances/05 Slavonic Dance In C, Op. 72-15.mp3"
+              }
+            ]
+          },
+          {
+            "Title": "Symphony #8 in G",
+            "Cover": "Antonín Dvořák/Symphony %238 in G/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Symphony #8 In G - 1. Allegro Con Brio",
+                "Url": "Antonín Dvořák/Symphony %238 in G/01 Symphony %238 In G - 1. Allegro Con Brio.mp3"
+              },
+              {
+                "Title": "Symphony #8 In G - 2. Adagio",
+                "Url": "Antonín Dvořák/Symphony %238 in G/02 Symphony %238 In G - 2. Adagio.mp3"
+              },
+              {
+                "Title": "Symphony #8 In G - 3. Allegretto Grazioso",
+                "Url": "Antonín Dvořák/Symphony %238 in G/03 Symphony %238 In G - 3. Allegretto Grazioso.mp3"
+              },
+              {
+                "Title": "Symphony #8 In G - 4. Allegro Ma Non Troppo",
+                "Url": "Antonín Dvořák/Symphony %238 in G/04 Symphony %238 In G - 4. Allegro Ma Non Troppo.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "César Franck",
+        "Index": 9,
+        "DisplayName": "César \u003cb\u003eFranck\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Symphony In D Minor",
+            "Cover": "César Franck/Symphony In D Minor/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Symphony In D Minor - 1. Lento, Allegro Non Troppo",
+                "Url": "César Franck/Symphony In D Minor/01 Symphony In D Minor - 1. Lento, Allegro Non Troppo.mp3"
+              },
+              {
+                "Title": "Symphony In D Minor - 2. Allegretto, Attacca",
+                "Url": "César Franck/Symphony In D Minor/02 Symphony In D Minor - 2. Allegretto, Attacca.mp3"
+              },
+              {
+                "Title": "Symphony In D Minor - 3. Allegro Non Troppo",
+                "Url": "César Franck/Symphony In D Minor/03 Symphony In D Minor - 3. Allegro Non Troppo.mp3"
+              },
+              {
+                "Title": "Saint-Saëns - Le Rouet D\u0027Ompahe (Poème Symphonique), Op. 31",
+                "Url": "César Franck/Symphony In D Minor/04 Saint-Saëns - Le Rouet D\u0027Ompahe (Poème Symphonique), Op. 31.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Henryk Górecki",
+        "Index": 10,
         "DisplayName": "Henryk \u003cb\u003eGórecki\u003c/b\u003e",
         "Albums": [
           {
@@ -5422,7 +5563,7 @@
       },
       {
         "Name": "Arthur Honegger",
-        "Index": 8,
+        "Index": 11,
         "DisplayName": "Arthur \u003cb\u003eHonegger\u003c/b\u003e",
         "Albums": [
           {
@@ -5543,7 +5684,7 @@
       },
       {
         "Name": "Alan Hovhaness",
-        "Index": 9,
+        "Index": 12,
         "DisplayName": "Alan \u003cb\u003eHovhaness\u003c/b\u003e",
         "Albums": [
           {
@@ -5584,7 +5725,7 @@
       },
       {
         "Name": "Kamran Ince",
-        "Index": 10,
+        "Index": 13,
         "DisplayName": "Kamran \u003cb\u003eInce\u003c/b\u003e",
         "Albums": [
           {
@@ -5613,7 +5754,7 @@
       },
       {
         "Name": "Aaron Jay Kernis",
-        "Index": 11,
+        "Index": 14,
         "DisplayName": "Aaron Jay \u003cb\u003eKernis\u003c/b\u003e",
         "Albums": [
           {
@@ -5650,7 +5791,7 @@
       },
       {
         "Name": "Zoltán Kodály",
-        "Index": 12,
+        "Index": 15,
         "DisplayName": "Zoltán \u003cb\u003eKodály\u003c/b\u003e",
         "Albums": [
           {
@@ -5691,7 +5832,7 @@
       },
       {
         "Name": "Kronos Quartet",
-        "Index": 13,
+        "Index": 16,
         "DisplayName": "\u003cb\u003eKronos\u003c/b\u003e Quartet",
         "Albums": [
           {
@@ -5796,7 +5937,7 @@
       },
       {
         "Name": "György Ligeti",
-        "Index": 14,
+        "Index": 17,
         "DisplayName": "György \u003cb\u003eLigeti\u003c/b\u003e",
         "Albums": [
           {
@@ -5853,7 +5994,7 @@
       },
       {
         "Name": "Gustav Mahler",
-        "Index": 15,
+        "Index": 18,
         "DisplayName": "Gustav \u003cb\u003eMahler\u003c/b\u003e",
         "Albums": [
           {
@@ -5882,7 +6023,7 @@
       },
       {
         "Name": "Conlon Nancarrow",
-        "Index": 16,
+        "Index": 19,
         "DisplayName": "Conlon \u003cb\u003eNancarrow\u003c/b\u003e",
         "Albums": [
           {
@@ -5971,7 +6112,7 @@
       },
       {
         "Name": "Carl Nielsen",
-        "Index": 17,
+        "Index": 20,
         "DisplayName": "Carl \u003cb\u003eNielsen\u003c/b\u003e",
         "Albums": [
           {
@@ -5992,7 +6133,7 @@
       },
       {
         "Name": "Karl Orff",
-        "Index": 18,
+        "Index": 21,
         "DisplayName": "Karl \u003cb\u003eOrff\u003c/b\u003e",
         "Albums": [
           {
@@ -6104,8 +6245,86 @@
         ]
       },
       {
+        "Name": "George Perle",
+        "Index": 22,
+        "DisplayName": "George \u003cb\u003ePerle\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Serenade #3, Ballade, Concertino",
+            "Cover": "George Perle/Serenade %233, Ballade, Concertino/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Serenade #3 - 1. Allegro",
+                "Url": "George Perle/Serenade %233, Ballade, Concertino/01 Serenade %233 - 1. Allegro.mp3"
+              },
+              {
+                "Title": "Serenade #3 - 2. Burlesco",
+                "Url": "George Perle/Serenade %233, Ballade, Concertino/02 Serenade %233 - 2. Burlesco.mp3"
+              },
+              {
+                "Title": "Serenade #3 - 3. Elegy",
+                "Url": "George Perle/Serenade %233, Ballade, Concertino/03 Serenade %233 - 3. Elegy.mp3"
+              },
+              {
+                "Title": "Serenade #3 - 4. Perpetuum Mobile",
+                "Url": "George Perle/Serenade %233, Ballade, Concertino/04 Serenade %233 - 4. Perpetuum Mobile.mp3"
+              },
+              {
+                "Title": "Serenade #3 - 5. Finale",
+                "Url": "George Perle/Serenade %233, Ballade, Concertino/05 Serenade %233 - 5. Finale.mp3"
+              },
+              {
+                "Title": "Ballade",
+                "Url": "George Perle/Serenade %233, Ballade, Concertino/06 Ballade.mp3"
+              },
+              {
+                "Title": "Concertino For Piano, Winds \u0026 Timpani",
+                "Url": "George Perle/Serenade %233, Ballade, Concertino/07 Concertino For Piano, Winds \u0026 Timpani.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Francis Poulenc",
+        "Index": 23,
+        "DisplayName": "Francis \u003cb\u003ePoulenc\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Gloria",
+            "Cover": "Francis Poulenc/Gloria/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Gloria In Excelsis Deo",
+                "Url": "Francis Poulenc/Gloria/01 Gloria In Excelsis Deo.mp3"
+              },
+              {
+                "Title": "Laudamus Te",
+                "Url": "Francis Poulenc/Gloria/02 Laudamus Te.mp3"
+              },
+              {
+                "Title": "Domine Deus",
+                "Url": "Francis Poulenc/Gloria/03 Domine Deus.mp3"
+              },
+              {
+                "Title": "Domine Fili Unigenite",
+                "Url": "Francis Poulenc/Gloria/04 Domine Fili Unigenite.mp3"
+              },
+              {
+                "Title": "Domine Deus, Agnus Dei",
+                "Url": "Francis Poulenc/Gloria/05 Domine Deus, Agnus Dei.mp3"
+              },
+              {
+                "Title": "Qui Sedes Ad Dexteram Patris",
+                "Url": "Francis Poulenc/Gloria/06 Qui Sedes Ad Dexteram Patris.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Serge Prokofiev",
-        "Index": 19,
+        "Index": 24,
         "DisplayName": "Serge \u003cb\u003eProkofiev\u003c/b\u003e",
         "Albums": [
           {
@@ -6133,12 +6352,103 @@
                 "Url": "Serge Prokofiev/Lieutenant Kijé Suite, Op. 60/05 Kijé\u0027s Funeral.mp3"
               }
             ]
+          },
+          {
+            "Title": "Romeo \u0026 Juliet Suites #1 \u0026 2",
+            "Cover": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Romeo \u0026 Juliet Suite #1, Op. 64a - Folk Dance",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/01 Romeo \u0026 Juliet Suite %231, Op. 64a - Folk Dance.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #1, Op. 64a - Scene- Allegretto",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/02 Romeo \u0026 Juliet Suite %231, Op. 64a - Scene- Allegretto.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #1, Op. 64a - Madrigal",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/03 Romeo \u0026 Juliet Suite %231, Op. 64a - Madrigal.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #1, Op. 64a - Menuett",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/04 Romeo \u0026 Juliet Suite %231, Op. 64a - Menuett.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #1, Op. 64a - Masks",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/05 Romeo \u0026 Juliet Suite %231, Op. 64a - Masks.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #1, Op. 64a - Balcony Scene",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/06 Romeo \u0026 Juliet Suite %231, Op. 64a - Balcony Scene.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #1, Op. 64a - Tybalt\u0027s Death",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/07 Romeo \u0026 Juliet Suite %231, Op. 64a - Tybalt\u0027s Death.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #2, Op. 64b - Montagues \u0026 Capulets",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/08 Romeo \u0026 Juliet Suite %232, Op. 64b - Montagues \u0026 Capulets.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #2, Op. 64b - Juliet As A Young Girl",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/09 Romeo \u0026 Juliet Suite %232, Op. 64b - Juliet As A Young Girl.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #2, Op. 64b - Friar Laurence",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/10 Romeo \u0026 Juliet Suite %232, Op. 64b - Friar Laurence.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #2, Op. 64b - Dance",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/11 Romeo \u0026 Juliet Suite %232, Op. 64b - Dance.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #2, Op. 64b - Romeo \u0026 Juliet Before Parting",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/12 Romeo \u0026 Juliet Suite %232, Op. 64b - Romeo \u0026 Juliet Before Parting.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #2, Op. 64b - Dance Of The Maids With Lillies",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/13 Romeo \u0026 Juliet Suite %232, Op. 64b - Dance Of The Maids With Lillies.mp3"
+              },
+              {
+                "Title": "Romeo \u0026 Juliet Suite #2, Op. 64b - Romeo At Juliet\u0027s Grave",
+                "Url": "Serge Prokofiev/Romeo \u0026 Juliet Suites %231 \u0026 2/14 Romeo \u0026 Juliet Suite %232, Op. 64b - Romeo At Juliet\u0027s Grave.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Sergei Rachmaninoff",
+        "Index": 25,
+        "DisplayName": "Sergei \u003cb\u003eRachmaninoff\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Piano Concerto #2, Rhapsody On A Theme Of Paganini",
+            "Cover": "Sergei Rachmaninoff/Piano Concerto %232, Rhapsody On A Theme Of Paganini/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Piano Concerto #2 In C Minor, Op. 18 - 1. Moderato, Allegro",
+                "Url": "Sergei Rachmaninoff/Piano Concerto %232, Rhapsody On A Theme Of Paganini/01 Piano Concerto %232 In C Minor, Op. 18 - 1. Moderato, Allegro.mp3"
+              },
+              {
+                "Title": "Piano Concerto #2 In C Minor, Op. 18 - 2. Adagio Sostenuto",
+                "Url": "Sergei Rachmaninoff/Piano Concerto %232, Rhapsody On A Theme Of Paganini/02 Piano Concerto %232 In C Minor, Op. 18 - 2. Adagio Sostenuto.mp3"
+              },
+              {
+                "Title": "Piano Concerto #2 In C Minor, Op. 18 - 3. Allegro Scherzando",
+                "Url": "Sergei Rachmaninoff/Piano Concerto %232, Rhapsody On A Theme Of Paganini/03 Piano Concerto %232 In C Minor, Op. 18 - 3. Allegro Scherzando.mp3"
+              },
+              {
+                "Title": "Rhapsody On A Theme Of Paganini, Op. 43",
+                "Url": "Sergei Rachmaninoff/Piano Concerto %232, Rhapsody On A Theme Of Paganini/04 Rhapsody On A Theme Of Paganini, Op. 43.mp3"
+              }
+            ]
           }
         ]
       },
       {
         "Name": "Maurice Ravel",
-        "Index": 20,
+        "Index": 26,
         "DisplayName": "Maurice \u003cb\u003eRavel\u003c/b\u003e",
         "Albums": [
           {
@@ -6190,12 +6500,22 @@
                 "Url": "Maurice Ravel/Daphnis Et Chloë/11 Part 3- Lent (Chiffre 193).mp3"
               }
             ]
+          },
+          {
+            "Title": "Ma Mère L\u0027Oye",
+            "Cover": "Maurice Ravel/Ma Mère L\u0027Oye/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Ma Mère L\u0027Oye",
+                "Url": "Maurice Ravel/Ma Mère L\u0027Oye/01 Ma Mère L\u0027Oye.mp3"
+              }
+            ]
           }
         ]
       },
       {
         "Name": "Steve Reich",
-        "Index": 21,
+        "Index": 27,
         "DisplayName": "Steve \u003cb\u003eReich\u003c/b\u003e",
         "Albums": [
           {
@@ -6234,7 +6554,7 @@
       },
       {
         "Name": "Albert Roussel",
-        "Index": 22,
+        "Index": 28,
         "DisplayName": "Albert \u003cb\u003eRoussel\u003c/b\u003e",
         "Albums": [
           {
@@ -6334,8 +6654,25 @@
         ]
       },
       {
+        "Name": "Camille Saint-Saëns",
+        "Index": 29,
+        "DisplayName": "Camille \u003cb\u003eSaint-Saëns\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Le Carnaval Des Animaux",
+            "Cover": "Camille Saint-Saëns/Le Carnaval Des Animaux/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Saint-Saëns- Le Carnaval Des Animaux",
+                "Url": "Camille Saint-Saëns/Le Carnaval Des Animaux/01 Saint-Saëns- Le Carnaval Des Animaux.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Erik Satie",
-        "Index": 23,
+        "Index": 30,
         "DisplayName": "Erik \u003cb\u003eSatie\u003c/b\u003e",
         "Albums": [
           {
@@ -6384,7 +6721,7 @@
       },
       {
         "Name": "Dmitri Shostakovich",
-        "Index": 24,
+        "Index": 31,
         "DisplayName": "Dmitri \u003cb\u003eShostakovich\u003c/b\u003e",
         "Albums": [
           {
@@ -6428,12 +6765,63 @@
                 "Url": "Dmitri Shostakovich/Symphonies %239 \u0026 10/09 Symphony %2310 In E Minor, Op. 93 - 4. Andante, Allegro.mp3"
               }
             ]
+          },
+          {
+            "Title": "Symphony #5",
+            "Cover": "Dmitri Shostakovich/Symphony %235/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Symphony #5 In D Minor, Op. 47 - 1. Moderato",
+                "Url": "Dmitri Shostakovich/Symphony %235/01 Symphony %235 In D Minor, Op. 47 - 1. Moderato.mp3"
+              },
+              {
+                "Title": "Symphony #5 In D Minor, Op. 47 - 2. Allegretto",
+                "Url": "Dmitri Shostakovich/Symphony %235/02 Symphony %235 In D Minor, Op. 47 - 2. Allegretto.mp3"
+              },
+              {
+                "Title": "Symphony #5 In D Minor, Op. 47 - 3. Largo",
+                "Url": "Dmitri Shostakovich/Symphony %235/03 Symphony %235 In D Minor, Op. 47 - 3. Largo.mp3"
+              },
+              {
+                "Title": "Symphony #5 In D Minor, Op. 47 - 4. Allegro Non Troppo",
+                "Url": "Dmitri Shostakovich/Symphony %235/04 Symphony %235 In D Minor, Op. 47 - 4. Allegro Non Troppo.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Bedřich Smetana",
+        "Index": 32,
+        "DisplayName": "Bedřich \u003cb\u003eSmetana\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "The Moldau, The Bartered Bride",
+            "Cover": "Bedřich Smetana/The Moldau, The Bartered Bride/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "The Moldau",
+                "Url": "Bedřich Smetana/The Moldau, The Bartered Bride/01 The Moldau.mp3"
+              },
+              {
+                "Title": "The Bartered Bride - Polka",
+                "Url": "Bedřich Smetana/The Moldau, The Bartered Bride/02 The Bartered Bride - Polka.mp3"
+              },
+              {
+                "Title": "The Bartered Bride - Furiant",
+                "Url": "Bedřich Smetana/The Moldau, The Bartered Bride/03 The Bartered Bride - Furiant.mp3"
+              },
+              {
+                "Title": "The Bartered Bride - Dance Of The Comedians",
+                "Url": "Bedřich Smetana/The Moldau, The Bartered Bride/04 The Bartered Bride - Dance Of The Comedians.mp3"
+              }
+            ]
           }
         ]
       },
       {
         "Name": "David Stock",
-        "Index": 25,
+        "Index": 33,
         "DisplayName": "David \u003cb\u003eStock\u003c/b\u003e",
         "Albums": [
           {
@@ -6577,8 +6965,101 @@
         ]
       },
       {
+        "Name": "Igor Stravinsky",
+        "Index": 34,
+        "DisplayName": "Igor \u003cb\u003eStravinsky\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures",
+            "Cover": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Pulcinella Suite - 1. Sinfonia",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/01 Pulcinella Suite - 1. Sinfonia.mp3"
+              },
+              {
+                "Title": "Pulcinella Suite - 2. Serenata- Larghetto",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/02 Pulcinella Suite - 2. Serenata- Larghetto.mp3"
+              },
+              {
+                "Title": "Pulcinella Suite - 3. (A) Scherzino, (B) Allegro, (C) Andantino",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/03 Pulcinella Suite - 3. (A) Scherzino, (B) Allegro, (C) Andantino.mp3"
+              },
+              {
+                "Title": "Pulcinella Suite - 4. Tarantella",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/04 Pulcinella Suite - 4. Tarantella.mp3"
+              },
+              {
+                "Title": "Pulcinella Suite - 5. Toccata- Allegro",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/05 Pulcinella Suite - 5. Toccata- Allegro.mp3"
+              },
+              {
+                "Title": "Pulcinella Suite - 6. Gavotta- Allegro Moderato",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/06 Pulcinella Suite - 6. Gavotta- Allegro Moderato.mp3"
+              },
+              {
+                "Title": "Pulcinella Suite - 7. Vivo",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/07 Pulcinella Suite - 7. Vivo.mp3"
+              },
+              {
+                "Title": "Pulcinella Suite - 8. (A) Minuetto, Molto Moderato, (B) Finale- Allegro Assai",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/08 Pulcinella Suite - 8. (A) Minuetto, Molto Moderato, (B) Finale- Allegro Assai.mp3"
+              },
+              {
+                "Title": "Concerto In E Flat For Chamber Orchestra, \u0027Dumbarton Oaks\u0027 - 1. Tempo Giusto",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/09 Concerto In E Flat For Chamber Orchestra, \u0027Dumbarton Oaks\u0027 - 1. Tempo Giusto.mp3"
+              },
+              {
+                "Title": "Concerto In E Flat For Chamber Orchestra, \u0027Dumbarton Oaks\u0027 - 2. Allegretto",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/10 Concerto In E Flat For Chamber Orchestra, \u0027Dumbarton Oaks\u0027 - 2. Allegretto.mp3"
+              },
+              {
+                "Title": "Concerto In E Flat For Chamber Orchestra, \u0027Dumbarton Oaks\u0027 - 3. Con Moto",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/11 Concerto In E Flat For Chamber Orchestra, \u0027Dumbarton Oaks\u0027 - 3. Con Moto.mp3"
+              },
+              {
+                "Title": "Eight Instrumental Miniatures For Fifteen Players",
+                "Url": "Igor Stravinsky/Pulcinella Suite, Dumbarton Oaks, 8 Instrumental Miniatures/12 Eight Instrumental Miniatures For Fifteen Players.mp3"
+              }
+            ]
+          },
+          {
+            "Title": "Symphony of Psalms",
+            "Cover": "Igor Stravinsky/Symphony of Psalms/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Symphony Of Psalms - 1. Exaudi Orationem Meam, Domine",
+                "Url": "Igor Stravinsky/Symphony of Psalms/01 Symphony Of Psalms - 1. Exaudi Orationem Meam, Domine.mp3"
+              },
+              {
+                "Title": "Symphony Of Psalms - 2. Expectans Expectavi Dominum",
+                "Url": "Igor Stravinsky/Symphony of Psalms/02 Symphony Of Psalms - 2. Expectans Expectavi Dominum.mp3"
+              },
+              {
+                "Title": "Symphony Of Psalms - 3. Alleluia, Laudate Dominum",
+                "Url": "Igor Stravinsky/Symphony of Psalms/03 Symphony Of Psalms - 3. Alleluia, Laudate Dominum.mp3"
+              }
+            ]
+          },
+          {
+            "Title": "The Rite of Spring",
+            "Cover": "Igor Stravinsky/The Rite of Spring/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Le Sacre Du Printemps - Part 1- The Adoration Of The Earth",
+                "Url": "Igor Stravinsky/The Rite of Spring/01 Le Sacre Du Printemps - Part 1- The Adoration Of The Earth.mp3"
+              },
+              {
+                "Title": "Le Sacre Du Printemps - Part 2- The Sacrifice",
+                "Url": "Igor Stravinsky/The Rite of Spring/02 Le Sacre Du Printemps - Part 2- The Sacrifice.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Various Composers",
-        "Index": 26,
+        "Index": 35,
         "DisplayName": "\u003cb\u003eVarious Composers\u003c/b\u003e",
         "Albums": [
           {

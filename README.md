@@ -6,7 +6,7 @@ This project implements a static web app ([tinyurl.com/epistrophy](https://tinyu
 * [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 * ASP.NET Core [Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-8.0) 
 * Visual components from the [React Bootstrap](https://react-bootstrap.netlify.app/) framework
-* [react-query](https://www.npmjs.com/package/@tanstack/react-query) for fetching, caching and updating asynchronous data in React
+* [react-query](https://www.npmjs.com/package/@tanstack/react-query) for fetching, caching, and updating asynchronous data in React
 * [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/) for hosting and deployment
 * [GitHub Actions](https://github.com/features/actions) for building and deploying the app whenever a commit is pushed
 
@@ -32,7 +32,7 @@ Unless you add additional storage containers, you only need to run this script o
 
 ### `update-blobs`
 
-Uploads audio files and album cover art from a Windows media folder to an existing Azure storage container. Media folders are structured as in the following example:
+Uploads audio files and album cover art from a Windows media folder to an existing Azure storage container. Existing media files will not be overwritten. Media folders are structured as in the following example:
 
 ```
 John Coltrane

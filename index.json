@@ -274,20 +274,40 @@
       "Bruckner",
       "Anton <b>Bruckner</b>"
     ],
+  "Antonín Dvořák":
+    [
+      "Dvořák",
+      "Antonín <b>Dvořák</b>"
+    ],
   "Arthur Honegger":
     [
       "Honegger",
       "Arthur <b>Honegger</b>"
+    ],
+  "Bedřich Smetana":
+    [
+      "Smetana",
+      "Bedřich <b>Smetana</b>"
     ],
   "Béla Bartók":
     [
       "Bartók",
       "Béla <b>Bartók</b>"
     ],
+  "Camille Saint-Saëns":
+    [
+      "Saint-Saëns",
+      "Camille <b>Saint-Saëns</b>"
+    ],
   "Carl Nielsen":
     [
       "Nielsen",
       "Carl <b>Nielsen</b>"
+    ],
+  "César Franck":
+    [
+      "Franck",
+      "César <b>Franck</b>"
     ],
   "Conlon Nancarrow":
     [
@@ -309,6 +329,16 @@
       "Satie",
       "Erik <b>Satie</b>"
     ],
+  "Francis Poulenc":
+    [
+      "Poulenc",
+      "Francis <b>Poulenc</b>"
+    ],
+  "George Perle":
+    [
+      "Perle",
+      "George <b>Perle</b>"
+    ],
   "Gustav Mahler":
     [
       "Mahler",
@@ -323,6 +353,11 @@
     [
       "Górecki",
       "Henryk <b>Górecki</b>"
+    ],
+  "Igor Stravinsky":
+    [
+      "Stravinsky",
+      "Igor <b>Stravinsky</b>"
     ],
   "Johann Sebastian Bach":
     [
@@ -364,6 +399,11 @@
       "Beethoven",
       "Ludwig van <b>Beethoven</b>"
     ],
+  "Manuel de Falla":
+    [
+      "de Falla",
+      "Manuel <b>de Falla</b>"
+    ],
   "Maurice Ravel":
     [
       "Ravel",
@@ -373,6 +413,11 @@
     [
       "Prokofiev",
       "Serge <b>Prokofiev</b>"
+    ],
+  "Sergei Rachmaninoff":
+    [
+      "Rachmaninoff",
+      "Sergei <b>Rachmaninoff</b>"
     ],
   "Steve Reich":
     [
