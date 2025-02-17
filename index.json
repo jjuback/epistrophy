@@ -309,6 +309,11 @@
       "Franck",
       "César <b>Franck</b>"
     ],
+  "Claude Debussy":
+    [
+      "Debussy",
+      "Claude <b>Debussy</b>"
+    ],
   "Conlon Nancarrow":
     [
       "Nancarrow",
@@ -333,6 +338,11 @@
     [
       "Poulenc",
       "Francis <b>Poulenc</b>"
+    ],
+  "George Gershwin":
+    [
+      "Gershwin",
+      "George <b>Gershwin</b>"
     ],
   "George Perle":
     [
@@ -359,6 +369,11 @@
       "Stravinsky",
       "Igor <b>Stravinsky</b>"
     ],
+  "Jean Sibelius":
+    [
+      "Sibelius",
+      "Jean <b>Sibelius</b>"
+    ],
   "Johann Sebastian Bach":
     [
       "Bach",
@@ -378,6 +393,11 @@
     [
       "Cage",
       "John <b>Cage</b>"
+    ],
+  "John Corigliano":
+    [
+      "Corigliano",
+      "John <b>Corigliano</b>"
     ],
   "Kamran Ince":
     [
@@ -408,6 +428,16 @@
     [
       "Ravel",
       "Maurice <b>Ravel</b>"
+    ],
+  "Morton Subotnick":
+    [
+      "Subotnick",
+      "Morton <b>Subotnick</b>"
+    ],
+  "Samuel Barber":
+    [
+      "Barber",
+      "Samuel <b>Barber</b>"
     ],
   "Serge Prokofiev":
     [

@@ -5171,8 +5171,45 @@
         ]
       },
       {
-        "Name": "Béla Bartók",
+        "Name": "Samuel Barber",
         "Index": 2,
+        "DisplayName": "Samuel \u003cb\u003eBarber\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "The Music Of Samuel Barber",
+            "Cover": "Samuel Barber/The Music Of Samuel Barber/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "The School For Scandal Overture, Op. 5",
+                "Url": "Samuel Barber/The Music Of Samuel Barber/01 The School For Scandal Overture, Op. 5.mp3"
+              },
+              {
+                "Title": "Adagio For Strings, Op 11",
+                "Url": "Samuel Barber/The Music Of Samuel Barber/02 Adagio For Strings, Op 11.mp3"
+              },
+              {
+                "Title": "Essay For Orchestra, Op. 12",
+                "Url": "Samuel Barber/The Music Of Samuel Barber/03 Essay For Orchestra, Op. 12.mp3"
+              },
+              {
+                "Title": "Second Essay, Op. 17",
+                "Url": "Samuel Barber/The Music Of Samuel Barber/04 Second Essay, Op. 17.mp3"
+              },
+              {
+                "Title": "Third Essay, Op. 47",
+                "Url": "Samuel Barber/The Music Of Samuel Barber/05 Third Essay, Op. 47.mp3"
+              },
+              {
+                "Title": "Medea\u0027s Dance Of Vengeance, Op. 23A",
+                "Url": "Samuel Barber/The Music Of Samuel Barber/06 Medea\u0027s Dance Of Vengeance, Op. 23A.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Béla Bartók",
+        "Index": 3,
         "DisplayName": "Béla \u003cb\u003eBartók\u003c/b\u003e",
         "Albums": [
           {
@@ -5213,7 +5250,7 @@
       },
       {
         "Name": "Ludwig van Beethoven",
-        "Index": 3,
+        "Index": 4,
         "DisplayName": "Ludwig van \u003cb\u003eBeethoven\u003c/b\u003e",
         "Albums": [
           {
@@ -5254,7 +5291,7 @@
       },
       {
         "Name": "Johannes Brahms",
-        "Index": 4,
+        "Index": 5,
         "DisplayName": "Johannes \u003cb\u003eBrahms\u003c/b\u003e",
         "Albums": [
           {
@@ -5278,14 +5315,58 @@
                 "Url": "Johannes Brahms/Symphony %231 in C Minor, Op. 68/04 Adagio, Piu Andante, Allegro Non Troppo, Ma Con Brio.mp3"
               }
             ]
+          },
+          {
+            "Title": "Symphony #2 in D, Op. 73",
+            "Cover": "Johannes Brahms/Symphony %232 in D, Op. 73/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Allegro Non Troppo",
+                "Url": "Johannes Brahms/Symphony %232 in D, Op. 73/01 Allegro Non Troppo.mp3"
+              },
+              {
+                "Title": "Adagio Ma Non Troppo, L\u0027Istesso Ma Gracioso",
+                "Url": "Johannes Brahms/Symphony %232 in D, Op. 73/02 Adagio Ma Non Troppo, L\u0027Istesso Ma Gracioso.mp3"
+              },
+              {
+                "Title": "Allegretto Gracioso(Quasi Andantino), Presto Ma Non Assai",
+                "Url": "Johannes Brahms/Symphony %232 in D, Op. 73/03 Allegretto Gracioso(Quasi Andantino), Presto Ma Non Assai.mp3"
+              },
+              {
+                "Title": "Allegro Con Spirito",
+                "Url": "Johannes Brahms/Symphony %232 in D, Op. 73/04 Allegro Con Spirito.mp3"
+              }
+            ]
           }
         ]
       },
       {
         "Name": "Anton Bruckner",
-        "Index": 5,
+        "Index": 6,
         "DisplayName": "Anton \u003cb\u003eBruckner\u003c/b\u003e",
         "Albums": [
+          {
+            "Title": "Symphony #7 in E",
+            "Cover": "Anton Bruckner/Symphony %237 in E/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Allegro Moderato",
+                "Url": "Anton Bruckner/Symphony %237 in E/01 Allegro Moderato.mp3"
+              },
+              {
+                "Title": "Adagio- Sehr Feierlich Und Sehr Langsam",
+                "Url": "Anton Bruckner/Symphony %237 in E/02 Adagio- Sehr Feierlich Und Sehr Langsam.mp3"
+              },
+              {
+                "Title": "Scherzo- Sehr Schnell",
+                "Url": "Anton Bruckner/Symphony %237 in E/03 Scherzo- Sehr Schnell.mp3"
+              },
+              {
+                "Title": "Finale- Bewegt, Doch Nicht Schnell",
+                "Url": "Anton Bruckner/Symphony %237 in E/04 Finale- Bewegt, Doch Nicht Schnell.mp3"
+              }
+            ]
+          },
           {
             "Title": "Symphony #9 in D Minor",
             "Cover": "Anton Bruckner/Symphony %239 in D Minor/Folder.jpg",
@@ -5308,7 +5389,7 @@
       },
       {
         "Name": "John Cage",
-        "Index": 6,
+        "Index": 7,
         "DisplayName": "John \u003cb\u003eCage\u003c/b\u003e",
         "Albums": [
           {
@@ -5396,8 +5477,37 @@
         ]
       },
       {
+        "Name": "John Corigliano",
+        "Index": 8,
+        "DisplayName": "John \u003cb\u003eCorigliano\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Concerto for Clarinet and Orchestra",
+            "Cover": "John Corigliano/Concerto for Clarinet and Orchestra/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Cadenzas",
+                "Url": "John Corigliano/Concerto for Clarinet and Orchestra/01 Cadenzas.mp3"
+              },
+              {
+                "Title": "Elegy",
+                "Url": "John Corigliano/Concerto for Clarinet and Orchestra/02 Elegy.mp3"
+              },
+              {
+                "Title": "Antiphonal Toccata",
+                "Url": "John Corigliano/Concerto for Clarinet and Orchestra/03 Antiphonal Toccata.mp3"
+              },
+              {
+                "Title": "Barber- Third Essay For Orchestra, Op.47",
+                "Url": "John Corigliano/Concerto for Clarinet and Orchestra/04 Barber- Third Essay For Orchestra, Op.47.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Manuel de Falla",
-        "Index": 7,
+        "Index": 9,
         "DisplayName": "Manuel \u003cb\u003ede Falla\u003c/b\u003e",
         "Albums": [
           {
@@ -5453,8 +5563,63 @@
         ]
       },
       {
+        "Name": "Claude Debussy",
+        "Index": 10,
+        "DisplayName": "Claude \u003cb\u003eDebussy\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "La Mer, Afternoon Of A Faun, Danses Sacrée Et Profane",
+            "Cover": "Claude Debussy/La Mer, Afternoon Of A Faun, Danses Sacrée Et Profane/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "La Mer, L 109 - De L\u0027Aube A Midi Sur La Mer",
+                "Url": "Claude Debussy/La Mer, Afternoon Of A Faun, Danses Sacrée Et Profane/01 La Mer, L 109 - De L\u0027Aube A Midi Sur La Mer.mp3"
+              },
+              {
+                "Title": "La Mer, L 109 - Jeux De Vagues",
+                "Url": "Claude Debussy/La Mer, Afternoon Of A Faun, Danses Sacrée Et Profane/02 La Mer, L 109 - Jeux De Vagues.mp3"
+              },
+              {
+                "Title": "La Mer, L 109 - Dialogue Du Vent Et De La Mer",
+                "Url": "Claude Debussy/La Mer, Afternoon Of A Faun, Danses Sacrée Et Profane/03 La Mer, L 109 - Dialogue Du Vent Et De La Mer.mp3"
+              },
+              {
+                "Title": "Prélude À L\u0027Après-Midi D\u0027Un Faune, L 86",
+                "Url": "Claude Debussy/La Mer, Afternoon Of A Faun, Danses Sacrée Et Profane/04 Prélude À L\u0027Après-Midi D\u0027Un Faune, L 86.mp3"
+              },
+              {
+                "Title": "Danses Sacrée Et Profane, L 103",
+                "Url": "Claude Debussy/La Mer, Afternoon Of A Faun, Danses Sacrée Et Profane/05 Danses Sacrée Et Profane, L 103.mp3"
+              }
+            ]
+          },
+          {
+            "Title": "Nocturnes, Jeux",
+            "Cover": "Claude Debussy/Nocturnes, Jeux/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Nocturnes, L 91 - 1. Nuages",
+                "Url": "Claude Debussy/Nocturnes, Jeux/01 Nocturnes, L 91 - 1. Nuages.mp3"
+              },
+              {
+                "Title": "Nocturnes, L 91 - 2. Fêtes",
+                "Url": "Claude Debussy/Nocturnes, Jeux/02 Nocturnes, L 91 - 2. Fêtes.mp3"
+              },
+              {
+                "Title": "Nocturnes, L 91 - 3. Sirènes",
+                "Url": "Claude Debussy/Nocturnes, Jeux/03 Nocturnes, L 91 - 3. Sirènes.mp3"
+              },
+              {
+                "Title": "Jeux, L 126",
+                "Url": "Claude Debussy/Nocturnes, Jeux/04 Jeux, L 126.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Antonín Dvořák",
-        "Index": 8,
+        "Index": 11,
         "DisplayName": "Antonín \u003cb\u003eDvořák\u003c/b\u003e",
         "Albums": [
           {
@@ -5484,6 +5649,28 @@
             ]
           },
           {
+            "Title": "Cello Concerto",
+            "Cover": "Antonín Dvořák/Cello Concerto/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Cello Concerto In B Minor, Op. 104, B 191 - 1. Allegro",
+                "Url": "Antonín Dvořák/Cello Concerto/01 Cello Concerto In B Minor, Op. 104, B 191 - 1. Allegro.mp3"
+              },
+              {
+                "Title": "Cello Concerto In B Minor, Op. 104, B 191 - 2. Adagio, Ma Non Troppo",
+                "Url": "Antonín Dvořák/Cello Concerto/02 Cello Concerto In B Minor, Op. 104, B 191 - 2. Adagio, Ma Non Troppo.mp3"
+              },
+              {
+                "Title": "Cello Concerto In B Minor, Op. 104, B 191 - 3. Finale- Allegro Moderato",
+                "Url": "Antonín Dvořák/Cello Concerto/03 Cello Concerto In B Minor, Op. 104, B 191 - 3. Finale- Allegro Moderato.mp3"
+              },
+              {
+                "Title": "Bruch- Kol Nidrei, Op. 47",
+                "Url": "Antonín Dvořák/Cello Concerto/04 Bruch- Kol Nidrei, Op. 47.mp3"
+              }
+            ]
+          },
+          {
             "Title": "Symphony #8 in G",
             "Cover": "Antonín Dvořák/Symphony %238 in G/Folder.jpg",
             "Tracks": [
@@ -5509,7 +5696,7 @@
       },
       {
         "Name": "César Franck",
-        "Index": 9,
+        "Index": 12,
         "DisplayName": "César \u003cb\u003eFranck\u003c/b\u003e",
         "Albums": [
           {
@@ -5537,8 +5724,45 @@
         ]
       },
       {
+        "Name": "George Gershwin",
+        "Index": 13,
+        "DisplayName": "George \u003cb\u003eGershwin\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Rhapsody In Blue, Piano Concerto In F, An American In Paris",
+            "Cover": "George Gershwin/Rhapsody In Blue, Piano Concerto In F, An American In Paris/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Rhapsody In Blue",
+                "Url": "George Gershwin/Rhapsody In Blue, Piano Concerto In F, An American In Paris/01 Rhapsody In Blue.mp3"
+              },
+              {
+                "Title": "An American In Paris - 1. Allegretto Grazioso",
+                "Url": "George Gershwin/Rhapsody In Blue, Piano Concerto In F, An American In Paris/02 An American In Paris - 1. Allegretto Grazioso.mp3"
+              },
+              {
+                "Title": "An American In Paris - 2. Andante Ma Con Ritmo Deciso",
+                "Url": "George Gershwin/Rhapsody In Blue, Piano Concerto In F, An American In Paris/03 An American In Paris - 2. Andante Ma Con Ritmo Deciso.mp3"
+              },
+              {
+                "Title": "Piano Concerto In F - 1. Allegro",
+                "Url": "George Gershwin/Rhapsody In Blue, Piano Concerto In F, An American In Paris/04 Piano Concerto In F - 1. Allegro.mp3"
+              },
+              {
+                "Title": "Piano Concerto In F - 2. Adagio",
+                "Url": "George Gershwin/Rhapsody In Blue, Piano Concerto In F, An American In Paris/05 Piano Concerto In F - 2. Adagio.mp3"
+              },
+              {
+                "Title": "Piano Concerto In F - 3. Allegro Agitato",
+                "Url": "George Gershwin/Rhapsody In Blue, Piano Concerto In F, An American In Paris/06 Piano Concerto In F - 3. Allegro Agitato.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Henryk Górecki",
-        "Index": 10,
+        "Index": 14,
         "DisplayName": "Henryk \u003cb\u003eGórecki\u003c/b\u003e",
         "Albums": [
           {
@@ -5563,7 +5787,7 @@
       },
       {
         "Name": "Arthur Honegger",
-        "Index": 11,
+        "Index": 15,
         "DisplayName": "Arthur \u003cb\u003eHonegger\u003c/b\u003e",
         "Albums": [
           {
@@ -5684,7 +5908,7 @@
       },
       {
         "Name": "Alan Hovhaness",
-        "Index": 12,
+        "Index": 16,
         "DisplayName": "Alan \u003cb\u003eHovhaness\u003c/b\u003e",
         "Albums": [
           {
@@ -5725,7 +5949,7 @@
       },
       {
         "Name": "Kamran Ince",
-        "Index": 13,
+        "Index": 17,
         "DisplayName": "Kamran \u003cb\u003eInce\u003c/b\u003e",
         "Albums": [
           {
@@ -5754,7 +5978,7 @@
       },
       {
         "Name": "Aaron Jay Kernis",
-        "Index": 14,
+        "Index": 18,
         "DisplayName": "Aaron Jay \u003cb\u003eKernis\u003c/b\u003e",
         "Albums": [
           {
@@ -5791,7 +6015,7 @@
       },
       {
         "Name": "Zoltán Kodály",
-        "Index": 15,
+        "Index": 19,
         "DisplayName": "Zoltán \u003cb\u003eKodály\u003c/b\u003e",
         "Albums": [
           {
@@ -5832,7 +6056,7 @@
       },
       {
         "Name": "Kronos Quartet",
-        "Index": 16,
+        "Index": 20,
         "DisplayName": "\u003cb\u003eKronos\u003c/b\u003e Quartet",
         "Albums": [
           {
@@ -5937,7 +6161,7 @@
       },
       {
         "Name": "György Ligeti",
-        "Index": 17,
+        "Index": 21,
         "DisplayName": "György \u003cb\u003eLigeti\u003c/b\u003e",
         "Albums": [
           {
@@ -5994,7 +6218,7 @@
       },
       {
         "Name": "Gustav Mahler",
-        "Index": 18,
+        "Index": 22,
         "DisplayName": "Gustav \u003cb\u003eMahler\u003c/b\u003e",
         "Albums": [
           {
@@ -6023,7 +6247,7 @@
       },
       {
         "Name": "Conlon Nancarrow",
-        "Index": 19,
+        "Index": 23,
         "DisplayName": "Conlon \u003cb\u003eNancarrow\u003c/b\u003e",
         "Albums": [
           {
@@ -6112,7 +6336,7 @@
       },
       {
         "Name": "Carl Nielsen",
-        "Index": 20,
+        "Index": 24,
         "DisplayName": "Carl \u003cb\u003eNielsen\u003c/b\u003e",
         "Albums": [
           {
@@ -6133,7 +6357,7 @@
       },
       {
         "Name": "Karl Orff",
-        "Index": 21,
+        "Index": 25,
         "DisplayName": "Karl \u003cb\u003eOrff\u003c/b\u003e",
         "Albums": [
           {
@@ -6246,7 +6470,7 @@
       },
       {
         "Name": "George Perle",
-        "Index": 22,
+        "Index": 26,
         "DisplayName": "George \u003cb\u003ePerle\u003c/b\u003e",
         "Albums": [
           {
@@ -6287,7 +6511,7 @@
       },
       {
         "Name": "Francis Poulenc",
-        "Index": 23,
+        "Index": 27,
         "DisplayName": "Francis \u003cb\u003ePoulenc\u003c/b\u003e",
         "Albums": [
           {
@@ -6324,7 +6548,7 @@
       },
       {
         "Name": "Serge Prokofiev",
-        "Index": 24,
+        "Index": 28,
         "DisplayName": "Serge \u003cb\u003eProkofiev\u003c/b\u003e",
         "Albums": [
           {
@@ -6419,7 +6643,7 @@
       },
       {
         "Name": "Sergei Rachmaninoff",
-        "Index": 25,
+        "Index": 29,
         "DisplayName": "Sergei \u003cb\u003eRachmaninoff\u003c/b\u003e",
         "Albums": [
           {
@@ -6448,7 +6672,7 @@
       },
       {
         "Name": "Maurice Ravel",
-        "Index": 26,
+        "Index": 30,
         "DisplayName": "Maurice \u003cb\u003eRavel\u003c/b\u003e",
         "Albums": [
           {
@@ -6515,7 +6739,7 @@
       },
       {
         "Name": "Steve Reich",
-        "Index": 27,
+        "Index": 31,
         "DisplayName": "Steve \u003cb\u003eReich\u003c/b\u003e",
         "Albums": [
           {
@@ -6554,7 +6778,7 @@
       },
       {
         "Name": "Albert Roussel",
-        "Index": 28,
+        "Index": 32,
         "DisplayName": "Albert \u003cb\u003eRoussel\u003c/b\u003e",
         "Albums": [
           {
@@ -6655,7 +6879,7 @@
       },
       {
         "Name": "Camille Saint-Saëns",
-        "Index": 29,
+        "Index": 33,
         "DisplayName": "Camille \u003cb\u003eSaint-Saëns\u003c/b\u003e",
         "Albums": [
           {
@@ -6672,7 +6896,7 @@
       },
       {
         "Name": "Erik Satie",
-        "Index": 30,
+        "Index": 34,
         "DisplayName": "Erik \u003cb\u003eSatie\u003c/b\u003e",
         "Albums": [
           {
@@ -6721,7 +6945,7 @@
       },
       {
         "Name": "Dmitri Shostakovich",
-        "Index": 31,
+        "Index": 35,
         "DisplayName": "Dmitri \u003cb\u003eShostakovich\u003c/b\u003e",
         "Albums": [
           {
@@ -6791,8 +7015,49 @@
         ]
       },
       {
+        "Name": "Jean Sibelius",
+        "Index": 36,
+        "DisplayName": "Jean \u003cb\u003eSibelius\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Symphony #1, Karelia Suite",
+            "Cover": "Jean Sibelius/Symphony %231, Karelia Suite/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Symphony #1 In E Minor, Op. 39 - 1. Andante Ma Non Troppo, Allegro Energico",
+                "Url": "Jean Sibelius/Symphony %231, Karelia Suite/01 Symphony %231 In E Minor, Op. 39 - 1. Andante Ma Non Troppo, Allegro Energico.mp3"
+              },
+              {
+                "Title": "Symphony #1 In E Minor, Op. 39 - 2. Andante",
+                "Url": "Jean Sibelius/Symphony %231, Karelia Suite/02 Symphony %231 In E Minor, Op. 39 - 2. Andante.mp3"
+              },
+              {
+                "Title": "Symphony #1 In E Minor, Op. 39 - 3. Scherzo- Allegro",
+                "Url": "Jean Sibelius/Symphony %231, Karelia Suite/03 Symphony %231 In E Minor, Op. 39 - 3. Scherzo- Allegro.mp3"
+              },
+              {
+                "Title": "Symphony #1 In E Minor, Op. 39 - 4. Finale- Quasi Una Fantasia",
+                "Url": "Jean Sibelius/Symphony %231, Karelia Suite/04 Symphony %231 In E Minor, Op. 39 - 4. Finale- Quasi Una Fantasia.mp3"
+              },
+              {
+                "Title": "Karelia Suite, Op. 11 - 1. Intermezzo",
+                "Url": "Jean Sibelius/Symphony %231, Karelia Suite/05 Karelia Suite, Op. 11 - 1. Intermezzo.mp3"
+              },
+              {
+                "Title": "Karelia Suite, Op. 11 - 2. Ballade",
+                "Url": "Jean Sibelius/Symphony %231, Karelia Suite/06 Karelia Suite, Op. 11 - 2. Ballade.mp3"
+              },
+              {
+                "Title": "Karelia Suite, Op. 11 - 3. Alla Marcia",
+                "Url": "Jean Sibelius/Symphony %231, Karelia Suite/07 Karelia Suite, Op. 11 - 3. Alla Marcia.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Bedřich Smetana",
-        "Index": 32,
+        "Index": 37,
         "DisplayName": "Bedřich \u003cb\u003eSmetana\u003c/b\u003e",
         "Albums": [
           {
@@ -6821,7 +7086,7 @@
       },
       {
         "Name": "David Stock",
-        "Index": 33,
+        "Index": 38,
         "DisplayName": "David \u003cb\u003eStock\u003c/b\u003e",
         "Albums": [
           {
@@ -6966,7 +7231,7 @@
       },
       {
         "Name": "Igor Stravinsky",
-        "Index": 34,
+        "Index": 39,
         "DisplayName": "Igor \u003cb\u003eStravinsky\u003c/b\u003e",
         "Albums": [
           {
@@ -7058,8 +7323,33 @@
         ]
       },
       {
+        "Name": "Morton Subotnick",
+        "Index": 40,
+        "DisplayName": "Morton \u003cb\u003eSubotnick\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "The Key To Songs",
+            "Cover": "Morton Subotnick/The Key To Songs/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "The Key To Songs",
+                "Url": "Morton Subotnick/The Key To Songs/01 The Key To Songs.mp3"
+              },
+              {
+                "Title": "Return - A Triumph Of Reason I",
+                "Url": "Morton Subotnick/The Key To Songs/02 Return - A Triumph Of Reason I.mp3"
+              },
+              {
+                "Title": "Return - A Triumph Of Reason II",
+                "Url": "Morton Subotnick/The Key To Songs/03 Return - A Triumph Of Reason II.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Various Composers",
-        "Index": 35,
+        "Index": 41,
         "DisplayName": "\u003cb\u003eVarious Composers\u003c/b\u003e",
         "Albums": [
           {
