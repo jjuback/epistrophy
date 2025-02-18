@@ -5249,8 +5249,65 @@
         ]
       },
       {
-        "Name": "Ludwig van Beethoven",
+        "Name": "Beaux Arts Trio",
         "Index": 4,
+        "DisplayName": "\u003cb\u003eBeaux Arts\u003c/b\u003e Trio",
+        "Albums": [
+          {
+            "Title": "Spring Music - Works by Baker, Rochberg, Rorem",
+            "Cover": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Rorem- Spring Music - 1. Aubade",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/01 Rorem- Spring Music - 1. Aubade.mp3"
+              },
+              {
+                "Title": "Rorem- Spring Music - 2. Toccata",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/02 Rorem- Spring Music - 2. Toccata.mp3"
+              },
+              {
+                "Title": "Rorem- Spring Music - 3. Fantasia",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/03 Rorem- Spring Music - 3. Fantasia.mp3"
+              },
+              {
+                "Title": "Rorem- Spring Music - 4. Bagatelle",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/04 Rorem- Spring Music - 4. Bagatelle.mp3"
+              },
+              {
+                "Title": "Rorem- Spring Music - 5. Presto",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/05 Rorem- Spring Music - 5. Presto.mp3"
+              },
+              {
+                "Title": "Baker- Roots II - 1. Incantation",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/06 Baker- Roots II - 1. Incantation.mp3"
+              },
+              {
+                "Title": "Baker- Roots II - 2. Dance in Congo Square",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/07 Baker- Roots II - 2. Dance in Congo Square.mp3"
+              },
+              {
+                "Title": "Baker- Roots II - 3. Sorrow Song",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/08 Baker- Roots II - 3. Sorrow Song.mp3"
+              },
+              {
+                "Title": "Baker- Roots II - 4. Boogie Woogie",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/09 Baker- Roots II - 4. Boogie Woogie.mp3"
+              },
+              {
+                "Title": "Baker- Roots II - 5. Jubilee",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/10 Baker- Roots II - 5. Jubilee.mp3"
+              },
+              {
+                "Title": "Rochberg- Summer, 1990 (Piano Trio No. 3)",
+                "Url": "Beaux Arts Trio/Spring Music - Works by Baker, Rochberg, Rorem/11 Rochberg- Summer, 1990 (Piano Trio No. 3).mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Ludwig van Beethoven",
+        "Index": 5,
         "DisplayName": "Ludwig van \u003cb\u003eBeethoven\u003c/b\u003e",
         "Albums": [
           {
@@ -5291,7 +5348,7 @@
       },
       {
         "Name": "Johannes Brahms",
-        "Index": 5,
+        "Index": 6,
         "DisplayName": "Johannes \u003cb\u003eBrahms\u003c/b\u003e",
         "Albums": [
           {
@@ -5342,7 +5399,7 @@
       },
       {
         "Name": "Anton Bruckner",
-        "Index": 6,
+        "Index": 7,
         "DisplayName": "Anton \u003cb\u003eBruckner\u003c/b\u003e",
         "Albums": [
           {
@@ -5389,7 +5446,7 @@
       },
       {
         "Name": "John Cage",
-        "Index": 7,
+        "Index": 8,
         "DisplayName": "John \u003cb\u003eCage\u003c/b\u003e",
         "Albums": [
           {
@@ -5478,7 +5535,7 @@
       },
       {
         "Name": "John Corigliano",
-        "Index": 8,
+        "Index": 9,
         "DisplayName": "John \u003cb\u003eCorigliano\u003c/b\u003e",
         "Albums": [
           {
@@ -5507,7 +5564,7 @@
       },
       {
         "Name": "Manuel de Falla",
-        "Index": 9,
+        "Index": 10,
         "DisplayName": "Manuel \u003cb\u003ede Falla\u003c/b\u003e",
         "Albums": [
           {
@@ -5564,7 +5621,7 @@
       },
       {
         "Name": "Claude Debussy",
-        "Index": 10,
+        "Index": 11,
         "DisplayName": "Claude \u003cb\u003eDebussy\u003c/b\u003e",
         "Albums": [
           {
@@ -5619,7 +5676,7 @@
       },
       {
         "Name": "Antonín Dvořák",
-        "Index": 11,
+        "Index": 12,
         "DisplayName": "Antonín \u003cb\u003eDvořák\u003c/b\u003e",
         "Albums": [
           {
@@ -5696,7 +5753,7 @@
       },
       {
         "Name": "César Franck",
-        "Index": 12,
+        "Index": 13,
         "DisplayName": "César \u003cb\u003eFranck\u003c/b\u003e",
         "Albums": [
           {
@@ -5725,7 +5782,7 @@
       },
       {
         "Name": "George Gershwin",
-        "Index": 13,
+        "Index": 14,
         "DisplayName": "George \u003cb\u003eGershwin\u003c/b\u003e",
         "Albums": [
           {
@@ -5762,7 +5819,7 @@
       },
       {
         "Name": "Henryk Górecki",
-        "Index": 14,
+        "Index": 15,
         "DisplayName": "Henryk \u003cb\u003eGórecki\u003c/b\u003e",
         "Albums": [
           {
@@ -5787,7 +5844,7 @@
       },
       {
         "Name": "Arthur Honegger",
-        "Index": 15,
+        "Index": 16,
         "DisplayName": "Arthur \u003cb\u003eHonegger\u003c/b\u003e",
         "Albums": [
           {
@@ -5908,7 +5965,7 @@
       },
       {
         "Name": "Alan Hovhaness",
-        "Index": 16,
+        "Index": 17,
         "DisplayName": "Alan \u003cb\u003eHovhaness\u003c/b\u003e",
         "Albums": [
           {
@@ -5949,7 +6006,7 @@
       },
       {
         "Name": "Kamran Ince",
-        "Index": 17,
+        "Index": 18,
         "DisplayName": "Kamran \u003cb\u003eInce\u003c/b\u003e",
         "Albums": [
           {
@@ -5977,8 +6034,65 @@
         ]
       },
       {
+        "Name": "Leos Jánacek",
+        "Index": 19,
+        "DisplayName": "Leos \u003cb\u003eJánacek\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Idyla, Mládí",
+            "Cover": "Leos Jánacek/Idyla, Mládí/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Idyla \u0027Idyll\u0027 For String Orchestra - Andante",
+                "Url": "Leos Jánacek/Idyla, Mládí/01 Idyla \u0027Idyll\u0027 For String Orchestra - Andante.mp3"
+              },
+              {
+                "Title": "Idyla \u0027Idyll\u0027 For String Orchestra - Allegro",
+                "Url": "Leos Jánacek/Idyla, Mládí/02 Idyla \u0027Idyll\u0027 For String Orchestra - Allegro.mp3"
+              },
+              {
+                "Title": "Idyla \u0027Idyll\u0027 For String Orchestra - Moderato",
+                "Url": "Leos Jánacek/Idyla, Mládí/03 Idyla \u0027Idyll\u0027 For String Orchestra - Moderato.mp3"
+              },
+              {
+                "Title": "Idyla \u0027Idyll\u0027 For String Orchestra - Allegro",
+                "Url": "Leos Jánacek/Idyla, Mládí/04 Idyla \u0027Idyll\u0027 For String Orchestra - Allegro.mp3"
+              },
+              {
+                "Title": "Idyla \u0027Idyll\u0027 For String Orchestra - Adagio",
+                "Url": "Leos Jánacek/Idyla, Mládí/05 Idyla \u0027Idyll\u0027 For String Orchestra - Adagio.mp3"
+              },
+              {
+                "Title": "Idyla \u0027Idyll\u0027 For String Orchestra - Scherzo",
+                "Url": "Leos Jánacek/Idyla, Mládí/06 Idyla \u0027Idyll\u0027 For String Orchestra - Scherzo.mp3"
+              },
+              {
+                "Title": "Idyla \u0027Idyll\u0027 For String Orchestra - Moderato",
+                "Url": "Leos Jánacek/Idyla, Mládí/07 Idyla \u0027Idyll\u0027 For String Orchestra - Moderato.mp3"
+              },
+              {
+                "Title": "Mládí \u0027Youth\u0027 For Wind Sextet - Allegro",
+                "Url": "Leos Jánacek/Idyla, Mládí/08 Mládí \u0027Youth\u0027 For Wind Sextet - Allegro.mp3"
+              },
+              {
+                "Title": "Mládí \u0027Youth\u0027 For Wind Sextet - Andante Sostenuto",
+                "Url": "Leos Jánacek/Idyla, Mládí/09 Mládí \u0027Youth\u0027 For Wind Sextet - Andante Sostenuto.mp3"
+              },
+              {
+                "Title": "Mládí \u0027Youth\u0027 For Wind Sextet - Vivace",
+                "Url": "Leos Jánacek/Idyla, Mládí/10 Mládí \u0027Youth\u0027 For Wind Sextet - Vivace.mp3"
+              },
+              {
+                "Title": "Mládí \u0027Youth\u0027 For Wind Sextet - Allegro Animato",
+                "Url": "Leos Jánacek/Idyla, Mládí/11 Mládí \u0027Youth\u0027 For Wind Sextet - Allegro Animato.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Aaron Jay Kernis",
-        "Index": 18,
+        "Index": 20,
         "DisplayName": "Aaron Jay \u003cb\u003eKernis\u003c/b\u003e",
         "Albums": [
           {
@@ -6015,7 +6129,7 @@
       },
       {
         "Name": "Zoltán Kodály",
-        "Index": 19,
+        "Index": 21,
         "DisplayName": "Zoltán \u003cb\u003eKodály\u003c/b\u003e",
         "Albums": [
           {
@@ -6056,7 +6170,7 @@
       },
       {
         "Name": "Kronos Quartet",
-        "Index": 20,
+        "Index": 22,
         "DisplayName": "\u003cb\u003eKronos\u003c/b\u003e Quartet",
         "Albums": [
           {
@@ -6161,7 +6275,7 @@
       },
       {
         "Name": "György Ligeti",
-        "Index": 21,
+        "Index": 23,
         "DisplayName": "György \u003cb\u003eLigeti\u003c/b\u003e",
         "Albums": [
           {
@@ -6218,7 +6332,7 @@
       },
       {
         "Name": "Gustav Mahler",
-        "Index": 22,
+        "Index": 24,
         "DisplayName": "Gustav \u003cb\u003eMahler\u003c/b\u003e",
         "Albums": [
           {
@@ -6247,7 +6361,7 @@
       },
       {
         "Name": "Conlon Nancarrow",
-        "Index": 23,
+        "Index": 25,
         "DisplayName": "Conlon \u003cb\u003eNancarrow\u003c/b\u003e",
         "Albums": [
           {
@@ -6336,7 +6450,7 @@
       },
       {
         "Name": "Carl Nielsen",
-        "Index": 24,
+        "Index": 26,
         "DisplayName": "Carl \u003cb\u003eNielsen\u003c/b\u003e",
         "Albums": [
           {
@@ -6357,7 +6471,7 @@
       },
       {
         "Name": "Karl Orff",
-        "Index": 25,
+        "Index": 27,
         "DisplayName": "Karl \u003cb\u003eOrff\u003c/b\u003e",
         "Albums": [
           {
@@ -6470,7 +6584,7 @@
       },
       {
         "Name": "George Perle",
-        "Index": 26,
+        "Index": 28,
         "DisplayName": "George \u003cb\u003ePerle\u003c/b\u003e",
         "Albums": [
           {
@@ -6511,7 +6625,7 @@
       },
       {
         "Name": "Francis Poulenc",
-        "Index": 27,
+        "Index": 29,
         "DisplayName": "Francis \u003cb\u003ePoulenc\u003c/b\u003e",
         "Albums": [
           {
@@ -6548,7 +6662,7 @@
       },
       {
         "Name": "Serge Prokofiev",
-        "Index": 28,
+        "Index": 30,
         "DisplayName": "Serge \u003cb\u003eProkofiev\u003c/b\u003e",
         "Albums": [
           {
@@ -6643,7 +6757,7 @@
       },
       {
         "Name": "Sergei Rachmaninoff",
-        "Index": 29,
+        "Index": 31,
         "DisplayName": "Sergei \u003cb\u003eRachmaninoff\u003c/b\u003e",
         "Albums": [
           {
@@ -6672,7 +6786,7 @@
       },
       {
         "Name": "Maurice Ravel",
-        "Index": 30,
+        "Index": 32,
         "DisplayName": "Maurice \u003cb\u003eRavel\u003c/b\u003e",
         "Albums": [
           {
@@ -6739,7 +6853,7 @@
       },
       {
         "Name": "Steve Reich",
-        "Index": 31,
+        "Index": 33,
         "DisplayName": "Steve \u003cb\u003eReich\u003c/b\u003e",
         "Albums": [
           {
@@ -6778,7 +6892,7 @@
       },
       {
         "Name": "Albert Roussel",
-        "Index": 32,
+        "Index": 34,
         "DisplayName": "Albert \u003cb\u003eRoussel\u003c/b\u003e",
         "Albums": [
           {
@@ -6879,7 +6993,7 @@
       },
       {
         "Name": "Camille Saint-Saëns",
-        "Index": 33,
+        "Index": 35,
         "DisplayName": "Camille \u003cb\u003eSaint-Saëns\u003c/b\u003e",
         "Albums": [
           {
@@ -6896,7 +7010,7 @@
       },
       {
         "Name": "Erik Satie",
-        "Index": 34,
+        "Index": 36,
         "DisplayName": "Erik \u003cb\u003eSatie\u003c/b\u003e",
         "Albums": [
           {
@@ -6945,7 +7059,7 @@
       },
       {
         "Name": "Dmitri Shostakovich",
-        "Index": 35,
+        "Index": 37,
         "DisplayName": "Dmitri \u003cb\u003eShostakovich\u003c/b\u003e",
         "Albums": [
           {
@@ -7016,7 +7130,7 @@
       },
       {
         "Name": "Jean Sibelius",
-        "Index": 36,
+        "Index": 38,
         "DisplayName": "Jean \u003cb\u003eSibelius\u003c/b\u003e",
         "Albums": [
           {
@@ -7057,7 +7171,7 @@
       },
       {
         "Name": "Bedřich Smetana",
-        "Index": 37,
+        "Index": 39,
         "DisplayName": "Bedřich \u003cb\u003eSmetana\u003c/b\u003e",
         "Albums": [
           {
@@ -7086,7 +7200,7 @@
       },
       {
         "Name": "David Stock",
-        "Index": 38,
+        "Index": 40,
         "DisplayName": "David \u003cb\u003eStock\u003c/b\u003e",
         "Albums": [
           {
@@ -7231,7 +7345,7 @@
       },
       {
         "Name": "Igor Stravinsky",
-        "Index": 39,
+        "Index": 41,
         "DisplayName": "Igor \u003cb\u003eStravinsky\u003c/b\u003e",
         "Albums": [
           {
@@ -7324,7 +7438,7 @@
       },
       {
         "Name": "Morton Subotnick",
-        "Index": 40,
+        "Index": 42,
         "DisplayName": "Morton \u003cb\u003eSubotnick\u003c/b\u003e",
         "Albums": [
           {
@@ -7348,8 +7462,37 @@
         ]
       },
       {
+        "Name": "Pyotr Ilyich Tchaikovsky",
+        "Index": 43,
+        "DisplayName": "Pyotr Ilyich \u003cb\u003eTchaikovsky\u003c/b\u003e",
+        "Albums": [
+          {
+            "Title": "Symphony #5 In E Minor, Op. 64",
+            "Cover": "Pyotr Ilyich Tchaikovsky/Symphony %235 In E Minor, Op. 64/Folder.jpg",
+            "Tracks": [
+              {
+                "Title": "Symphony #5 In E Minor, Op. 64 - 1. Andante, Allegro Con Anima",
+                "Url": "Pyotr Ilyich Tchaikovsky/Symphony %235 In E Minor, Op. 64/01 Symphony %235 In E Minor, Op. 64 - 1. Andante, Allegro Con Anima.mp3"
+              },
+              {
+                "Title": "Symphony #5 In E Minor, Op. 64 - 2. Andante Cantabile, Con Alcuna Licenza",
+                "Url": "Pyotr Ilyich Tchaikovsky/Symphony %235 In E Minor, Op. 64/02 Symphony %235 In E Minor, Op. 64 - 2. Andante Cantabile, Con Alcuna Licenza.mp3"
+              },
+              {
+                "Title": "Symphony #5 In E Minor, Op. 64 - 3. Valse",
+                "Url": "Pyotr Ilyich Tchaikovsky/Symphony %235 In E Minor, Op. 64/03 Symphony %235 In E Minor, Op. 64 - 3. Valse.mp3"
+              },
+              {
+                "Title": "Symphony #5 In E Minor, Op. 64 - 4. Finale- Andante Maestoso, Allegro Vivo",
+                "Url": "Pyotr Ilyich Tchaikovsky/Symphony %235 In E Minor, Op. 64/04 Symphony %235 In E Minor, Op. 64 - 4. Finale- Andante Maestoso, Allegro Vivo.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "Name": "Various Composers",
-        "Index": 41,
+        "Index": 44,
         "DisplayName": "\u003cb\u003eVarious Composers\u003c/b\u003e",
         "Albums": [
           {

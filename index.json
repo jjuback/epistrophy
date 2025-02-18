@@ -284,6 +284,11 @@
       "Honegger",
       "Arthur <b>Honegger</b>"
     ],
+  "Beaux Arts Trio":
+    [
+      "BeauxArts",
+      "<b>Beaux Arts</b> Trio"
+    ],
   "Bedřich Smetana":
     [
       "Smetana",
@@ -414,6 +419,11 @@
       "Kronos",
       "<b>Kronos</b> Quartet"
     ],
+  "Leos Jánacek":
+    [
+      "Jánacek",
+      "Leos <b>Jánacek</b>"
+    ],
   "Ludwig van Beethoven":
     [
       "Beethoven",
@@ -433,6 +443,11 @@
     [
       "Subotnick",
       "Morton <b>Subotnick</b>"
+    ],
+  "Pyotr Ilyich Tchaikovsky":
+    [
+      "Tchaikovsky",
+      "Pyotr Ilyich <b>Tchaikovsky</b>"
     ],
   "Samuel Barber":
     [
