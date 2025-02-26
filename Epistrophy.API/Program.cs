@@ -30,4 +30,6 @@ app.MapGet("/genres/{genre}/artists", (int genre) => Catalog.Artists(genre));
 
 app.MapGet("/genres/{genre}/artists/{index}", (int genre, int index) => Catalog.Artist(genre, index));
 
+app.MapGet("/genres/{genre}/search/{text}", (int genre, string text) => Catalog.Search(genre, text));
+
 app.Run();
