@@ -60,8 +60,8 @@ const App = () => {
                           <NavDropdown.Item id="genre-classical" active={genre === 1}>Classical</NavDropdown.Item>
                         </NavDropdown>}
                       </Nav>
-                      {!searchText && <Button variant="outline-secondary" id="button-search" onClick={modalShow}>{config.ICON_SEARCH}</Button>}
-                      {searchText && <Button variant="outline-secondary" id="button-back" onClick={endSearch}>{config.ICON_CANCEL}</Button>}
+                      {!searchText && <Button variant="outline-light" id="button-search" onClick={modalShow}>{config.ICON_SEARCH}</Button>}
+                      {searchText && <Button variant="outline-light" id="button-back" onClick={endSearch}>{config.ICON_CANCEL}</Button>}
                     </Navbar.Collapse>
                   </Container>
                 </Navbar>
@@ -70,8 +70,8 @@ const App = () => {
                     <InputGroup>
                       <Form.Control type="text" ref={searchRef} placeholder="Search Tracks" autoFocus className="mr-sm-2"
                        onKeyUp={event => { if (event.key === "Enter") { doSearch(); }}} />
-                      <Button variant="outline-secondary" id="button-search" onClick={doSearch}>{config.ICON_SEARCH}</Button>
-                      <Button variant="outline-secondary" id="button-cancel" onClick={modalClose}>{config.ICON_CANCEL}</Button>
+                      <Button variant="outline-light" id="button-search" onClick={doSearch}>{config.ICON_SEARCH}</Button>
+                      <Button variant="outline-light" id="button-cancel" onClick={modalClose}>{config.ICON_CANCEL}</Button>
                     </InputGroup>
                   </Modal.Body>
                 </Modal>

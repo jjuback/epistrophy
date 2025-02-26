@@ -54,7 +54,7 @@ export const Album = (props) => {
             </Stack>
           </Navbar.Collapse>
           <Navbar.Collapse className="justify-content-end">
-            <Button variant="outline-secondary" id="button-back" onClick={props.goBack}>{config.ICON_CANCEL}</Button>
+            <Button variant="outline-light" id="button-back" onClick={props.goBack}>{config.ICON_CANCEL}</Button>
           </Navbar.Collapse>
         </Container>
       </Navbar>
