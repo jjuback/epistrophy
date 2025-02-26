@@ -2,6 +2,7 @@ import React, {useState, useEffect, useRef} from "react";
 import { Artists } from './Artists';
 import { Album } from './Album';
 import { Search } from './Search';
+import { config } from "./utils";
 import Container from 'react-bootstrap/Container';
 import Nav from "react-bootstrap/Nav";
 import Navbar from 'react-bootstrap/Navbar';
@@ -59,18 +60,18 @@ const App = () => {
                           <NavDropdown.Item id="genre-classical" active={genre === 1}>Classical</NavDropdown.Item>
                         </NavDropdown>}
                       </Nav>
-                      {!searchText && <Button variant="outline-secondary" id="button-search" onClick={modalShow}>&#x1f50d;&#xFE0E;</Button>}
-                      {searchText && <Button variant="outline-secondary" id="button-back" onClick={endSearch}>&#x1f5d9;&#xFE0E;</Button>}
+                      {!searchText && <Button variant="outline-secondary" id="button-search" onClick={modalShow}>{config.ICON_SEARCH}</Button>}
+                      {searchText && <Button variant="outline-secondary" id="button-back" onClick={endSearch}>{config.ICON_CANCEL}</Button>}
                     </Navbar.Collapse>
                   </Container>
                 </Navbar>
-                <Modal centered show={show} onHide={modalClose}>
+                <Modal className="mt-5" show={show} onHide={modalClose}>
                   <Modal.Body>
                     <InputGroup>
                       <Form.Control type="text" ref={searchRef} placeholder="Search Tracks" autoFocus className="mr-sm-2"
                        onKeyUp={event => { if (event.key === "Enter") { doSearch(); }}} />
-                      <Button variant="outline-secondary" id="button-search" onClick={doSearch}>&#x1f50d;&#xFE0E;</Button>
-                      <Button variant="outline-secondary" id="button-cancel" onClick={modalClose}>&#x1f5d9;&#xFE0E;</Button>
+                      <Button variant="outline-secondary" id="button-search" onClick={doSearch}>{config.ICON_SEARCH}</Button>
+                      <Button variant="outline-secondary" id="button-cancel" onClick={modalClose}>{config.ICON_CANCEL}</Button>
                     </InputGroup>
                   </Modal.Body>
                 </Modal>

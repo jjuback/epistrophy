@@ -1,6 +1,8 @@
 export const config = {
-    EPISTROPHY_API_URL: 'https://epistrophy-api.azurewebsites.net'
-    //EPISTROPHY_API_URL: 'http://localhost:5132'
+    EPISTROPHY_API_URL: 'https://epistrophy-api.azurewebsites.net',
+    //EPISTROPHY_API_URL: 'http://localhost:5132',
+    ICON_SEARCH: '\u{1f50d}\ufe0e',
+    ICON_CANCEL: '\u2715'
 }
 
 export function makeUrl(fragment, genre) {

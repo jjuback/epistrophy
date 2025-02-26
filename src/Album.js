@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
 import "./Artists.css";
-import { makeUrl } from "./utils";
+import { makeUrl, config } from "./utils";
 import ListGroup from 'react-bootstrap/ListGroup';
 import Image from 'react-bootstrap/Image';
 import Tabs from 'react-bootstrap/Tabs';
@@ -54,7 +54,7 @@ export const Album = (props) => {
             </Stack>
           </Navbar.Collapse>
           <Navbar.Collapse className="justify-content-end">
-            <Button variant="outline-secondary" id="button-back" onClick={props.goBack}>&#x1f5d9;&#xFE0E;</Button>
+            <Button variant="outline-secondary" id="button-back" onClick={props.goBack}>{config.ICON_CANCEL}</Button>
           </Navbar.Collapse>
         </Container>
       </Navbar>
