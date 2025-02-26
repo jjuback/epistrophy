@@ -1,11 +1,12 @@
 import React from "react";
 import "./Artists.css";
-import { makeUrl } from "./utils";
+import { makeUrl, config } from "./utils";
 import Figure from 'react-bootstrap/Figure';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Spinner from 'react-bootstrap/Spinner';
+import Alert from 'react-bootstrap/Alert';
 import { useQuery } from '@tanstack/react-query'
 
 export const ArtistDetail = (props) => {
@@ -14,7 +15,7 @@ export const ArtistDetail = (props) => {
     queryKey: ['artistdetail', props.genre, props.index],
     queryFn: async () => {
       const response = await fetch(
-        `https://epistrophy-api.azurewebsites.net/genres/${props.genre}/artists/${props.index}`
+        `${config.EPISTROPHY_API_URL}/genres/${props.genre}/artists/${props.index}`
       )
       return await response.json()
     },
@@ -28,7 +29,12 @@ export const ArtistDetail = (props) => {
     </>
   );
 
-  if (error) return 'An error has occurred: ' + error.message;
+  if (error) return (
+    <Alert variant="danger">
+      <Alert.Heading>An error has occurred</Alert.Heading>
+      <p>{error.message}</p>
+    </Alert>
+  );
 
   return (
     <>
