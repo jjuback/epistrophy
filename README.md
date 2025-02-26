@@ -10,7 +10,7 @@ This project implements a static web app ([tinyurl.com/epistrophy](https://tinyu
 * [Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/) for hosting and deployment
 * [GitHub Actions](https://github.com/features/actions) for building and deploying the app whenever a commit is pushed
 
-The app provides a top-level list of artists that you can expand to reveal the available albums for each. In turn, selecting an album displays a list of its tracks with a standard HTML5 audio control for playback. Use the Genre control at the upper right to switch between Jazz and Classical collections. During playback on a mobile device, the lock screen displays album metadata including cover art via the [MediaSession](https://w3c.github.io/mediasession/#the-mediasession-interface) interface.
+The app provides a top-level list of artists that you can expand to reveal the available albums for each. In turn, selecting an album displays a list of its tracks with a standard HTML5 audio control for playback. Use the Genre control in the header to switch between Jazz and Classical collections. Use the button in the upper right to search for track titles containing a word or phrase. During playback on a mobile device, the lock screen displays album metadata including cover art via the [MediaSession](https://w3c.github.io/mediasession/#the-mediasession-interface) interface.
 
 ![Epistrophy](/images/Epistrophy.gif)
 
@@ -94,6 +94,7 @@ URL | Description
 `/genres` | Returns an array of the available genres corresponding to Azure storage containers.
 `/genres/i/artists` | Returns an array of the artists for the specified genre.
 `/genres/i/artists/n` | Returns info for the specified artist, including an array of albums with track details.
+`/genres/i/search/text` | Returns an array of tracks where the title contains the specified text.
 
 ## Source Files (Web API)
 
@@ -103,7 +104,7 @@ File | Description
 `index.json` | Used by the `update-catalog` script to sort and format display names for artists.
 `Catalog.cs` | Contains static methods that implement API endpoints.
 `Program.cs` | Creates the web application that surfaces API endpoints.
-`<Models>` | Folder containing POCO objects representing genres, artists, albums, and tracks.
+`<Models>` | Folder containing POCO objects representing genres, artists, albums, tracks, and search results.
 
 ## Source Files (React App)
 
@@ -113,4 +114,5 @@ File | Description
 `Artists.js` | A scrollable list of artists for the selected genre. Clicking an artist reveals their available albums.
 `ArtistDetail.js` | Displays the available albums for the selected artist.
 `Album.js` | Displays the tracks for the selected album. Includes an audio control for playback.
-
+`Search.js` | Calls the search API and displays the results.
+`SearchResults.js` | Displays the results of the most recent search. Includes an audio control for playback.

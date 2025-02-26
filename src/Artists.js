@@ -1,13 +1,11 @@
 import React, {useEffect} from "react";
 import parse from "html-react-parser";
 import "./Artists.css";
+import { config } from './utils';
 import Accordion from 'react-bootstrap/Accordion';
-import Container from 'react-bootstrap/Container';
 import { ArtistDetail } from "./ArtistDetail";
-import Nav from "react-bootstrap/Nav";
-import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import Spinner from 'react-bootstrap/Spinner';
+import Alert from 'react-bootstrap/Alert';
 import { QueryClient, QueryClientProvider, useQuery } from '@tanstack/react-query'
 
 const queryClient = new QueryClient();
@@ -36,7 +34,7 @@ export const ArtistsByGenre = (props) => {
     queryKey: ['artists', props.genre],
     queryFn: async () => {
       const response = await fetch(
-        `https://epistrophy-api.azurewebsites.net/genres/${props.genre}/artists`,
+        `${config.EPISTROPHY_API_URL}/genres/${props.genre}/artists`,
       )
       return await response.json()
     },
@@ -50,32 +48,15 @@ export const ArtistsByGenre = (props) => {
     </>
   );
 
-  if (error) return 'An error has occurred: ' + error.message;
+  if (error) return (
+    <Alert variant="danger" className="mt-5">
+      <Alert.Heading>An error has occurred</Alert.Heading>
+      <p>{error.message}</p>
+    </Alert>
+  );
 
   return (
     <>
-      <Navbar className="fixed-top bg-body-tertiary">
-        <Container>
-          <Navbar.Brand>
-            <img
-              alt=""
-              src="/apple-touch-icon.png"
-              width="30"
-              height="30"
-              className="d-inline-block align-top"
-            />&nbsp;&nbsp;
-            Epistrophy
-          </Navbar.Brand>
-          <Navbar.Collapse className="justify-content-end">
-          <Nav className="me-2">
-            <NavDropdown title="Genre" drop="start" onSelect={(key, event) => { props.selectGenre(event.target.id === "genre-jazz" ? 0 : 1); }}>
-              <NavDropdown.Item id="genre-jazz" active={props.genre === 0}>Jazz</NavDropdown.Item>
-              <NavDropdown.Item id="genre-classical" active={props.genre === 1}>Classical</NavDropdown.Item>
-            </NavDropdown>
-          </Nav>
-        </Navbar.Collapse>
-        </Container>
-      </Navbar>
       <Accordion className="mt-5" defaultActiveKey={props.current}>
         {data.map((artist) => {
           return (

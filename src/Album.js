@@ -6,13 +6,15 @@ import Image from 'react-bootstrap/Image';
 import Tabs from 'react-bootstrap/Tabs';
 import Tab from 'react-bootstrap/Tab';
 import Container from 'react-bootstrap/Container';
+import Button from 'react-bootstrap/Button';
 import Navbar from 'react-bootstrap/Navbar';
 import Stack from 'react-bootstrap/Stack';
-import { Nav } from "react-bootstrap";
 
 export const Album = (props) => {
   const [trackNo, setTrackNo] = useState(0);
+
   useEffect(() => {
+    if (props.tracks.length === 0) return;
     const audio = document.getElementById("audioElement");
     audio.src = makeUrl(props.tracks[trackNo].url, props.genre);
     if (trackNo > 0) {
@@ -27,17 +29,18 @@ export const Album = (props) => {
         ]
     });
   }, [props, trackNo]);
+
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [props.count]);  
-  if (props === undefined) return null;
+
   return (
     <>
       <Navbar className="fixed-top bg-body-tertiary">
         <Container>
           <Navbar.Brand>
             <img
-              alt=""
+              alt={props.title}
               src={makeUrl(props.cover, props.genre)}
               width="30"
               height="30"
@@ -51,11 +54,7 @@ export const Album = (props) => {
             </Stack>
           </Navbar.Collapse>
           <Navbar.Collapse className="justify-content-end">
-            <Nav defaultActiveKey="back" onSelect={() => props.goBack()}>
-              <Nav.Item>
-                <Nav.Link className="fw-bold" eventKey="back">&#x23f4;</Nav.Link>
-              </Nav.Item>
-            </Nav>
+            <Button variant="outline-secondary" id="button-back" onClick={props.goBack}>&#x1f5d9;&#xFE0E;</Button>
           </Navbar.Collapse>
         </Container>
       </Navbar>
