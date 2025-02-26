@@ -17,7 +17,7 @@ export const SearchResults = (props) => {
     }
     navigator.mediaSession.metadata = new MediaMetadata({
         title: props.tracks[trackNo].title,
-        artist: props.artist,
+        artist: props.tracks[trackNo].artist,
         album: props.tracks[trackNo].album,
         artwork: [
           { src: makeUrl(props.tracks[trackNo].cover, props.genre), sizes: '96x96' }
