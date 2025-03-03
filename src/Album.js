@@ -16,9 +16,8 @@ export const Album = (props) => {
   useEffect(() => {
     if (props.tracks.length === 0) return;
     const audio = document.getElementById("audioElement");
-    audio.src = makeUrl(props.tracks[trackNo].url, props.genre);
     if (trackNo > 0) {
-        audio.play();
+      audio.play();
     }
     navigator.mediaSession.metadata = new MediaMetadata({
         title: props.tracks[trackNo].title,
@@ -61,6 +60,7 @@ export const Album = (props) => {
         <Tabs className="mt-5" defaultActiveKey="tracks" onSelect={(k) => k==="back" ? props.goBack() : {}}>
             <Tab eventKey="tracks" title="Tracks">
                 <audio id="audioElement" controls autoPlay={trackNo > 0}
+                 src={makeUrl(props.tracks[trackNo].url, props.genre)}
                  onEnded={() => {
                     if (trackNo + 1 < props.tracks.length) {
                         setTrackNo(trackNo + 1);
