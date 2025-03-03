@@ -11,7 +11,6 @@ export const SearchResults = (props) => {
   useEffect(() => {
     if (props.tracks.length === 0) return;
     const audio = document.getElementById("audioElement");
-    audio.src = makeUrl(props.tracks[trackNo].url, props.genre);
     if (trackNo > 0) {
         audio.play();
     }
@@ -36,6 +35,7 @@ export const SearchResults = (props) => {
   return (
     <Container className="mt-5">
       <audio id="audioElement" controls autoPlay={trackNo > 0}
+       src={makeUrl(props.tracks[trackNo].url, props.genre)}
        onEnded={() => {
           if (trackNo + 1 < props.tracks.length) {
               setTrackNo(trackNo + 1);
@@ -47,7 +47,7 @@ export const SearchResults = (props) => {
       <ListGroup numbered>
         {props && props.tracks.map((data, key) => {
           return (
-            <ListGroup.Item action as="li" className="d-flex justify-content-between align-items-start" active={key===trackNo} key={key} onClick={() => {setTrackNo(key); }}>
+            <ListGroup.Item action as="li" className="d-flex justify-content-between align-items-start" active={key===trackNo} key={key} onClick={() => {setTrackNo(key)}}>
               <div className="ms-2 me-auto text-truncate">
                 <div className="fw-bold text-truncate">{data.title}</div>
                 <div className="opacity-50 text-truncate">{data.artist}</div>
